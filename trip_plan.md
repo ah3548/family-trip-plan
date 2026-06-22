@@ -196,9 +196,9 @@
 - *Pricing Note:* All prices/costs listed are **per person** unless otherwise specified.
 
 ## Budget Summary
-- **Accommodations:** $3,400 ($200/night for 17 nights)
+- **Accommodations:** $3,200 ($200/night for 16 nights)
 - **General Transportation:** $2,200 (Includes domestic flights and local transit)
-- **Total Estimated Trip Cost:** $5,600 ($3,400 Accommodations + $2,200 Transportation)
+- **Total Estimated Trip Cost:** $5,400 ($3,200 Accommodations + $2,200 Transportation)
 
 ## Resources
 - [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
