@@ -23,7 +23,6 @@
 - **Duration:** 8h 40m
 </details>
 
----
 
 <details>
 <summary><b>Seoul Itinerary (Aug 22 - Aug 28)</b></summary>
@@ -66,7 +65,6 @@
 - **Evening:** Rest and prepare for travel
 </details>
 
----
 
 <details>
 <summary><b>Busan & Gyeongju Itinerary (Aug 29 - Sep 1)</b></summary>
@@ -104,7 +102,6 @@
 - **Duration:** ~1h 10m
 </details>
 
----
 
 <details>
 <summary><b>Jeju Island Itinerary (Sept 2 - Sept 5)</b></summary>
@@ -141,7 +138,6 @@
 - **Duration:** ~1h 10m
 </details>
 
----
 
 <details>
 <summary><b>Seoul Return & Day Trips (Sept 6 - Sept 8)</b></summary>
@@ -185,7 +181,6 @@
 - **Duration:** 14h 0m
 </details>
 
----
 
 ## Seoul Day Trip Options (To be decided)
 - **Suwon:** Metro/ITX (~45m) | ~$3
@@ -194,7 +189,6 @@
 - **Jeonju:** KTX (~2h) | ~$20–$40
 - **Gangneung:** KTX (~2h) | ~$25–$45
 
----
 
 ## Notes
 - *Booking Reference:* CVZC45
