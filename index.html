@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Trip Plan: Korea</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Marked.js to parse Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Custom styles to make the markdown look beautiful */
+        body {
+            background-		color: #f8fafc;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            color: #1e293b;
+        }
+        .prose h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 1.5rem; color: #0f172a; }
+        .prose h2 { font-size: 1.875rem; font-weight: 700; margin-top: 2rem; margin-bottom: 1rem; color: #334155; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; }
+        .prose h3 { font-size: 1.5rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.75rem; color: #475569; }
+        .prose p, .prose li { line-height: 1.75; margin-bottom: 1rem; }
+        .protemplate ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1rem; }
+        .prose li::marker { color: #64748b; }
+        .prose strong { color: #0f172a; font-weight: 600; }
+        .prose blockquote { border-left: 4px solid #cbd5e1; padding-left: 1rem; font-style: italic; color: #64748b; }
+        .prose hr { margin: 2.5rem 0; border: 0; border-top: 1px solid #e2e8f0; }
+        /* Style for the <details> elements */
+        details {
+            background: white;
+            padding: 1rem;
+            border-radius: 0.75rem;
+            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+            margin-bottom: 1rem;
+            border: 1px solid #e2e8f0;
+        }
+        summary {
+            font-weight: 700;
+            cursor: pointer;
+            color: #2563eb;
+            outline: none;
+        }
+        summary:hover { color: #1d4ed8; }
+    </style>
+</head>
+<body class="antialiased">
+
+    <div class="max-w-4xl mx-auto py-12 px-6 sm:px-8 lg:px-12">
+        <header class="mb-12 text-center">
+            <h1 class="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
+                🇰🇷 Family Adventure: Korea
+            </h1>
+            <p class="mt-4 text-lg text-slate-600">
+                Everything you need to know for our trip from NY to Seoul.
+            </p>
+        </header>
+
+        <!-- This is where the Markdown content will be injected -->
+        <article id="markdown-content" class="prose prose-slate max-w-none"></article>
+
+        <footer class="mt-16 pt-8 border-t border-slate-200 text-center text-sm text-slate-500">
+            <p>Generated from trip_plan.md &bull; Updated for 2026</p>
+        </footer>
+    </div>
+
+    <script>
+        // Fetch the markdown file and render it
+        async function renderMarkdown() {
+            const contentDiv = document.getElementById('markdown-content');
+            try {
+                const response = await fetch('trip_plan.md');
+                if (!response.ok) throw new Error('Could not find trip_plan.md');
+                const markdownText = await response.text();
+
+                // Use marked.parse to convert markdown to HTML
+                contentDiv.innerHTML = marked.parse(markdownText);
+            } catch (error) {
+                console.error(error);
+                contentDiv.innerHTML = '<p class="text-red-500">Error loading the trip plan. Please ensure trip_plan.md is in the same folder.</p>';
+            }
+        }
+
+        renderMarkdown();
+    </script>
+</body>
+</html>
