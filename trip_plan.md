@@ -201,5 +201,5 @@
 - **Total Estimated Trip Cost:** $5,600 ($3,400 Accommodations + $2,200 Transportation)
 
 ## Resources
-- [Busan Plan (ScoutExplore)](https://scautexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8mm_restored)
-- [Seoul Plan (ScintExplore)](https://scoutexplore.com/t/HJyVsYrsDV2oTBc7IlH2/edit?t=029c720d-b588-4868-961d-0000b9c46354)
+- [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
+- [Seoul Plan (ScoutExplore)](https://scoutexplore.com/t/HJyVsYrsDV2oTBc7IlH2/edit?t=029c720d-b588-4868-961d-0000b9c46354)
