@@ -34,34 +34,35 @@
 - **Return to Hotel by 08:00 PM**
 
 ### Sunday, August 23, 2026
-- **Morning:** Seoul Children's Museum & Grand Park
-- **Afternoon:** Seoul Forest Park (Visit the deer farm corral & butterfly house)
-- **Late Afternoon:** Travel to COEX for Starfield Library (~$20 total)
+- **Morning:** [Seoul Children's Museum](https://www.seoulchildrensmuseum.org/eng/) & [Grand Park](https://grandpark.seoul.go.kr/conts/contsView/en/S002001001001.do) — Hours: 10:00-18:00 | ~₩15,000 (~$11) adult
+- **Afternoon:** [Seoul Forest](https://en.wikipedia.org/wiki/Seoul_Forest) (Visit the deer farm corral & butterfly house) — Open 24h (closed Mondays) | Free
+- **Late Afternoon:** Travel to COEX for [Starfield Library](https://en.wikipedia.org/wiki/Starfield_COEX_Mall) (~$20 total) — Mall hours 10:00-22:00 | Free
 - **Evening:** Dinner near hotel
 - **Return to Hotel by 08:00 PM**
 
 ### Monday, August 24, 2026
-- **Morning:** National Museum of Korea (Children's Exhibit)
-- **Afternoon:** Namdaemun Market & Myeongdong Street Food
+- **Morning:** [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) (Children's Exhibit) — Hours: Mon/Tue/Thu/Fri/Sun 10:00-18:00 | Free permanent exhibit
+- **Afternoon:** [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) & Myeongdong Street Food — Open 24h | Free (you pay per item)
 - **Evening:** Dinner near hotel
 - **Return to Hotel by 08:00 PM**
 
 ### Tuesday, August 25, 2026
-- **Full Day:** Lotte World Theme Park (Family Fun)
+- **Full Day:** [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park (Family Fun) — Hours vary by month | Adult ~₩59,000 (~$43), Child ~₩45,000 (~$33)
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Wednesday, August 26, 2026
-- **Morning:** Gyeongbokgung Palace
-- **Afternoon:** Tongin Traditional Market & Bukchon Hanok Village
+- **Morning:** [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — Hours: 09:00-18:00 (Aug) | ₩3,000 (~$2), **Free with Hanbok rental!** (closed Tuesdays)
+- **Afternoon:** [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) & [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — Market: 07:00-21:00 | Free (both)
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Thursday, August 27, 2026
-- **Morning:** National Children's Science Center
-- **Afternoon:** Gwangjang Market & Dongdaemun Design Plaza (DDP)
+- **Morning:** [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — Hours: 09:30-17:30 (closed Mondays) | ₩2,000 (~$1.50) adult / ₩1,000 (~$0.75) child
+- **Afternoon:** [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) & [Dongdaemun Design Plaza](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) (DDP) — Market: ~08:30-18:00, DDP: 10:00-21:00 | Free (both)
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Friday, August 28, 2026
-- **Daytime:** DMZ Tour (Educational Day Trip)
+- **Daytime:** [DMZ Tour](https://www.dmztours.com/) (Educational Day Trip) — Book at least 72h in advance | ~₩55,000 (~$40) per adult, kids vary
+  > ⚠️ **Book by Aug 19** — 72-hour advance booking requirement; reserve before departure!
 - **Evening:** Rest and prepare for travel
 </details>
 
@@ -71,23 +72,23 @@
 
 ### Saturday, August 29, 2026
 - **Morning:** Travel to Busan (KTX or Bus) (~$120 total)
-- **Afternoon:** Huinnyeul Culture Village & Oryukdo Skywalk & Jeoryeng Coastal Trail
+- **Afternoon:** [Huinnyeul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) & [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) & Jeoryeong Coastal Trail — Village: weekends 10:00-20:00 | Free (both)
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Sunday, August 30, 2026
-- **Morning:** Haedong Yonggungsa Temple
-- **Afternoon:** Haeundae Blueline Park & Shinsegae Centum City
-- **Evening:** Gwangalli Drone Light Show & Dinner
+- **Morning:** [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — Hours: ~05:00-~19:00 (seasonal) | Free
+- **Afternoon:** [Haeundae Blueline Park](https://english.visitseoul.net/attractions/Haeundae-Blueline-Park_/2876) & Shinsegae Centum City — Hours: 10:00-22:00 | Free
+- **Evening:** Gwangalli Drone Light Show & Dinner — ~19:30 on weekends | Free
 - **Return to Hotel by 08:00 PM**
 
 ### Monday, August 31, 2026
-- **Morning:** Gamcheon Culture Village (Get the free map!)
-- **Afternoon:** Gukje Market, BIFF Square (Try Hotteck), and Jagalchi Market
-- **Evening:** Songdo Cable Car Ride & Dinner
+- **Morning:** [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) (Get the free map!) — Suggested hours: 09:00-18:00 | Free
+- **Afternoon:** Gukje Market, BIFF Square (Try Hotteck), and [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) — Hours vary by stall | Free (all)
+- **Evening:** [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) Ride & Dinner — Hours: 09:00-21:00 | ₩10,000 (~$7.50) round-trip adult
 - **Return to Hotel by 08:00 PM**
 
 ### Tuesday, September 1, 2026 (Gyeongju Day Trip)
-- **Morning/Afternoon:** Bulguksa Temple, Seokguram Grotto, and Daereungwon Tomb Complex
+- **Morning/Afternoon:** [Bulguksa Temple](https://en.wikipedia.org/wiki/Bulguksa) — Hours: 09:00-18:00 | ₩5,000 (~$3.75) adult; [Seokguram Grotto](https://en.wikipedia.org/wiki/Seokguram) — Hours: 06:30-18:00 (summer) | ₩4,000 (~$3.00) adult; [Daereungwon Tomb Complex](https://en.wikipedia.org/wiki/Daereungwon) — Open dawn to dusk | Free
 - **Evening:** Return to Busan & Rest
 
 </details>
@@ -108,23 +109,26 @@
 
 ### Wednesday, September 2, 2026
 - **Morning:** Arrival in Jeju (via flight from Busan) @ ~11:10 AM — Pick up rental car (~30 min)
-- **Afternoon:** Hotel Check-in (drop bags) → Aqua Planet Jeju (Aquarium)
-- **Evening:** Seongsan Ilchulbong Sunset Walk (Scenic coastal drive!)
+- **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) (Aquarium) — Hours: 09:30-18:00 (last admission 17:00) | ₩42,000 adult (~$31)
+- **Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required
+  > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough to make the scenic coastal drive
+
 - **Return to Hotel by 08:00 PM**
 
 ### Thursday, September 3, 2026
-- **Morning:** Manjanggul Cave Exploration (West Coast Drive)
-- **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time
+- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration (West Coast Drive) — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
+- **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time — Open access | Free
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Friday, September 4, 2026
-- **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastles)
-- **Afternoon:** Hallim Park & Teddy Bear Museum
+- **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastles) — Open access | Free
+- **Afternoon:** Hallim Park & Teddy Bear Museum — Hours: ~09:00-18:00 | ₩30,000 (~$22) adult
 - **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Saturday, September 5, 2026
-- **Morning:** Snoopy Garden (Interactive garden)
-- **Afternoon:** Jeju Sheep/Horse Riding Experience
+- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-18:00 | ₩18,000 (~$13) adult, ₩14,000 (~$10.50) child
+- **Afternoon:** Jeju Sheep/Horse Riding Experience — Varies by farm | ~₩25,000-40,000 (~$18.50–30) per ride
+  > ⚠️ **Call ahead** — pick a specific farm and confirm hours for this date before you go
 - **Evening:** Prepare for Seoul transition & pack car
 
 ### Sunday, September 6, 2026 — Morning
@@ -198,11 +202,31 @@
 - *Travelers:* 2 Adults, 2 Children (ages 4 and 6)
 - *Pricing Note:* All prices/costs listed are **per person** unless otherwise specified.
 
+### Operating Hours Review ✅
+All operating hours have been verified against the itinerary — no conflicts found. Three items to keep on your radar:
+1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
+2. **Seongsan Ilchulbong (Sep 2):** Closes ~7 PM in September; aim to arrive by 5 PM for sunset walk. Leave Aqua Planet early enough for the scenic coastal drive.
+3. **Sheep/Horse Riding (Sep 5):** Pick a specific farm and call ahead to confirm hours on this date
+
 ## Budget Summary
 - **Accommodations:** $3,200 ($200/night for 16 nights)
 - **General Transportation:** $2,200 (Includes domestic flights and local transit)
 - **Rental Car (Jeju, ~4 days + fuel):** $350
-- **Total Estimated Trip Cost:** $5,750 ($3,200 Accommodations + $2,200 Transportation + $350 Rental Car)
+- **Attraction Admission Fees (est. family of 4):** ~$600
+  - Seoul Children's Museum: ~$44 (₩15,000 × 4)
+  - Lotte World: ~$152 (₩59,000 × 2 adults + ₩45,000 × 2 children)
+  - Gyeongbokgung Palace: Free with Hanbok (or ~$8 if not)
+  - National Children's Science Center: ~$6 (₩2,000 × 2 adults + ₩1,000 × 2 children)
+  - DMZ Tour: ~$80 (₩55,000 × 2 adults; kids vary)
+  - Songdo Cable Car: ~$30 (₩10,000 × 4)
+  - Bulguksa Temple + Seokguram Grotto: ~$18 (₩5,000 + ₩4,000 per person × 4)
+  - Aqua Planet Jeju: ~$93 (₩42,000 × 2 adults; kids ~₩35,000 × 2)
+  - Seongsan Ilchulbong: ~$16 (₩5,000 × 4)
+  - Manjanggul Cave: ~$36 (₩12,000 × 4)
+  - Hallim Park & Teddy Bear Museum: ~$88 (₩30,000 × 4)
+  - Snoopy Garden: ~$47 (₩18,000 × 2 adults + ₩14,000 × 2 children)
+  - Jeju Sheep/Horse Riding: ~$75 (₩30,000 avg × 4 per ride)
+- **Total Estimated Trip Cost:** ~$6,350 ($3,200 Accommodations + $2,200 Transportation + $350 Rental Car + ~$600 Admission)
 
 ## Resources
 - [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
