@@ -50,15 +50,15 @@
 - **Return to Hotel by 08:00 PM**
 
 ### Tuesday, August 25, 2026
-- **Full Day:** [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park (Family Fun) — Hours vary by month | Adult ~₩59,000 (~$43), Child ~₩45,000 (~$33)
-- 🍽️ **Evening:** **Dinner** — Korean fried chicken or casual Korean set meal near Lotte World. Return to Hotel by 08:00 PM**
+- **Full Day:** [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park (Family Fun) — Hours vary by month | Adult ~₩62,000 (~$46), Child ~₩47,000 (~$35)
+- 🍽️ **Evening:** **Dinner** — Korean fried chicken or casual Korean set meal near Lotte World. Return to Hotel by 08:00 PM
 
 ### Wednesday, August 26, 2026
 - **Morning:** [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — Hours: 09:00-18:00 (Aug) | ₩3,000 (~$2), **Free with Hanbok rental!** (closed Tuesdays)
 - 🍽️ **Lunch:** **Samgyetang** (ginseng chicken soup) after walking the palace — perfect restorative meal, iconic Korean dish
 - **Afternoon:** [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) & [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — Market: 07:00-21:00 | Free (both)
   - 🍽️ **Tongin Market Snack:** Try the famous **dosirak lunch** — buy coins and pick items for a custom bento box (fun with kids!)
-- **Evening:** Dinner near Bukchon, try **mandu** (Korean dumplings) — ask for beef, chicken, kimchi, or vegetable filling. Return to Hotel by 08:00 PM**
+- **Evening:** Dinner near Bukchon, try **mandu** (Korean dumplings) — ask for beef, chicken, kimchi, or vegetable filling. Return to Hotel by 08:00 PM
 
 ### Thursday, August 27, 2026
 - **Morning:** [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — Hours: 09:30-17:30 (closed Mondays) | ₩2,000 (~$1.50) adult / ₩1,000 (~$0.75) child
@@ -68,7 +68,7 @@
     - **Mayak gimbap** (mini colorful rice rolls, addictive for kids)
     - **Kalguksu** (handmade noodles)
     - Fresh fruit juice
-- 🍽️ **Evening:** Light dinner near DDP. Return to Hotel by 08:00 PM**
+- 🍽️ **Evening:** Light dinner near DDP. Return to Hotel by 08:00 PM
 
 ### Friday, August 28, 2026
 - **Daytime:** [DMZ Tour](https://www.dmztours.com/) (Educational Day Trip) — Book at least 72h in advance | ~₩55,000 (~$40) per adult, kids vary
@@ -83,11 +83,11 @@
 ### Saturday, August 29, 2026
 - **Morning:** Travel to Busan (KTX or Bus) (~$120 total)
 - **Afternoon:** [Huinnyeul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) & [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) & Jeoryeong Coastal Trail — Village: weekends 10:00-20:00 | Free (both)
-- 🍽️ **Evening:** **Grilled seafood dinner** in Busan — grilled fish, scallops, shrimp. Return to Hotel by 08:00 PM**
+- 🍽️ **Evening:** **Grilled seafood dinner** in Busan — grilled fish, scallops, shrimp. Return to Hotel by 08:00 PM
 
 ### Sunday, August 30, 2026
 - **Morning:** [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — Hours: ~05:00-~19:00 (seasonal) | Free
-- **Afternoon:** [Haeundae Blueline Park](https://english.visitseoul.net/attractions/Haeundae-Blueline-Park_/2876) & Shinsegae Centum City — Hours: 10:00-22:00 | Free
+- **Afternoon:** [Haeundae Blueline Park](https://www.visitbusan.com/english/touring/info.asp?mode=B1_Article&menu_no=2_2&board_idx=293&cat_no=31) & Shinsegae Centum City — Hours: 10:00-22:00 | Free
 - 🍽️ **Evening:** **Dinner** by Gwangalli Beach — fresh seafood (crab, clams, grilled squid) before the drone light show. ~19:30 on weekends | Free
 - **Return to Hotel by 08:00 PM**
 
@@ -132,15 +132,15 @@
 ### Thursday, September 3, 2026
 - **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration (West Coast Drive) — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
 - **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time — Open access | Free
-- 🍽️ **Dinner:** Grilled fish on the coast, finish with **hallabong desserts** (Jeju's famous citrus). Return to Hotel by 08:00 PM**
+- 🍽️ **Dinner:** Grilled fish on the coast, finish with **hallabong desserts** (Jeju's famous citrus). Return to Hotel by 08:00 PM
 
 ### Friday, September 4, 2026
 - **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastles) — Open access | Free
 - **Afternoon:** Hallim Park & Teddy Bear Museum — Hours: ~09:00-18:00 | ₩30,000 (~$22) adult
-- 🍽️ **Dinner:** **Seafood ramen** or grilled squid on the coast — Jeju specialties. Return to Hotel by 08:00 PM**
+- 🍽️ **Dinner:** **Seafood ramen** or grilled squid on the coast — Jeju specialties. Return to Hotel by 08:00 PM
 
 ### Saturday, September 5, 2026
-- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-18:00 | ₩18,000 (~$13) adult, ₩14,000 (~$10.50) child
+- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
 - **Afternoon:** Jeju Sheep/Horse Riding Experience — Varies by farm | ~₩25,000-40,000 (~$18.50–30) per ride
   > ⚠️ **Call ahead** — pick a specific farm and confirm hours for this date before you go
 - 🍽️ **Dinner:** Last Jeju seafood meal — grilled fish, shrimp, or abalone. **Bingsu** for dessert
@@ -167,7 +167,7 @@
 ### Sunday, September 6, 2026
 - **Morning:** Travel from Jeju to Seoul (~$300 total)
 - **Afternoon:** Hotel Check-in & Local Exploration
-- 🍽️ **Evening:** Casual dinner near hotel — **dak galbi** (mild spicy chicken stir-fry) or **bibimbap**. Return to Hotel by 08:00 PM**
+- 🍽️ **Evening:** Casual dinner near hotel — **dak galbi** (mild spicy chicken stir-fry) or **bibimbap**. Return to Hotel by 08:00 PM
 
 ### Monday, September 7, 2026
 - 🍽️ **Lunch during day trip:** Try **dak galbi** (mild option for kids) or **bibimbap** at any of the destinations
@@ -225,12 +225,12 @@ All operating hours have been verified against the itinerary — no conflicts fo
 3. **Sheep/Horse Riding (Sep 5):** Pick a specific farm and call ahead to confirm hours on this date
 
 ## Budget Summary
-- **Accommodations:** $3,200 ($200/night for 16 nights)
+- **Accommodations:** $3,400 ($200/night for 17 nights)
 - **General Transportation:** $2,200 (Includes domestic flights and local transit)
 - **Rental Car (Jeju, ~4 days + fuel):** $350
-- **Attraction Admission Fees (est. family of 4):** ~$600
+- **Attraction Admission Fees (est. family of 4):** ~$580
   - Seoul Children's Museum: ~$44 (₩15,000 × 4)
-  - Lotte World: ~$152 (₩59,000 × 2 adults + ₩45,000 × 2 children)
+  - Lotte World: ~$172 (₩62,000 × 2 adults + ₩47,000 × 2 children)
   - Gyeongbokgung Palace: Free with Hanbok (or ~$8 if not)
   - National Children's Science Center: ~$6 (₩2,000 × 2 adults + ₩1,000 × 2 children)
   - DMZ Tour: ~$80 (₩55,000 × 2 adults; kids vary)
@@ -240,10 +240,10 @@ All operating hours have been verified against the itinerary — no conflicts fo
   - Seongsan Ilchulbong: ~$16 (₩5,000 × 4)
   - Manjanggul Cave: ~$36 (₩12,000 × 4)
   - Hallim Park & Teddy Bear Museum: ~$88 (₩30,000 × 4)
-  - Snoopy Garden: ~$47 (₩18,000 × 2 adults + ₩14,000 × 2 children)
+  - Snoopy Garden: ~$43 (₩18,000 × 2 adults + ₩12,000 × 2 children)
   - Jeju Sheep/Horse Riding: ~$75 (₩30,000 avg × 4 per ride)
 - **Food Budget (est. family of 4, ~18 days):** ~$900–1,200 (₩150,000–250,000/day including markets, street food, and sit-down meals)
-- **Total Estimated Trip Cost:** ~$7,550 ($3,200 Accommodations + $2,200 Transportation + $350 Rental Car + ~$600 Admission + ~$1,200 Food)
+- **Total Estimated Trip Cost:** ~$7,730 ($3,400 Accommodations + $2,200 Transportation + $350 Rental Car + ~$580 Admission + ~$1,200 Food)
 
 <details>
 <summary><b>🍽️ Food Guide: Must-Eats & Ordering Tips</b></summary>
