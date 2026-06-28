@@ -38,27 +38,27 @@
 - **Afternoon:** Seoul Forest Park (Visit the deer farm corral & butterfly house)
 - **Late Afternoon:** Travel to COEX for Starfield Library (~$20 total)
 - **Evening:** Dinner near hotel
-- **Return to Hotel by 08:00 PM
+- **Return to Hotel by 08:00 PM**
 
 ### Monday, August 24, 2026
 - **Morning:** National Museum of Korea (Children's Exhibit)
 - **Afternoon:** Namdaemun Market & Myeongdong Street Food
 - **Evening:** Dinner near hotel
-- **Return to Hotel by 08:00 PM
+- **Return to Hotel by 08:00 PM**
 
 ### Tuesday, August 25, 2026
 - **Full Day:** Lotte World Theme Park (Family Fun)
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Wednesday, August 26, 2026
 - **Morning:** Gyeongbokgung Palace
 - **Afternoon:** Tongin Traditional Market & Bukchon Hanok Village
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Thursday, August 27, 2026
 - **Morning:** National Children's Science Center
 - **Afternoon:** Gwangjang Market & Dongdaemun Design Plaza (DDP)
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Friday, August 28, 2026
 - **Daytime:** DMZ Tour (Educational Day Trip)
@@ -72,33 +72,33 @@
 ### Saturday, August 29, 2026
 - **Morning:** Travel to Busan (KTX or Bus) (~$120 total)
 - **Afternoon:** Huinnyeul Culture Village & Oryukdo Skywalk & Jeoryeng Coastal Trail
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Sunday, August 30, 2026
 - **Morning:** Haedong Yonggungsa Temple
 - **Afternoon:** Haeundae Blueline Park & Shinsegae Centum City
 - **Evening:** Gwangalli Drone Light Show & Dinner
-- **Return to Hotel by 08:00 PM
+- **Return to Hotel by 08:00 PM**
 
 ### Monday, August 31, 2026
 - **Morning:** Gamcheon Culture Village (Get the free map!)
 - **Afternoon:** Gukje Market, BIFF Square (Try Hotteck), and Jagalchi Market
 - **Evening:** Songdo Cable Car Ride & Dinner
-- **Return to Hotel by 08:00 PM
+- **Return to Hotel by 08:00 PM**
 
 ### Tuesday, September 1, 2026 (Gyeongju Day Trip)
-- **Morning/Afternoon:** Bulgsa Temple, Seokguram Grotto, and Daereungwon Tomb Complex
-- **Evening:** Prepare for flight to Jeju tomorrow
+- **Morning/Afternoon:** Bulguksa Temple, Seokguram Grotto, and Daereungwon Tomb Complex
+- **Evening:** Return to Busan & Rest
 
 </details>
 
 <details>
-<summary><b>Domestic Connection: Busan -> Jeju (Sept 1)</b></summary>
+<summary><b>Domestic Connection: Busan -> Jeju (Sept 2)</b></summary>
 
-### Tuesday, September 1, 2026 (Estimated, ~$300 total)
+### Wednesday, September 2, 2026 (Estimated, ~$300 total)
 - **Airline:** Korean Air or Jeju Air (TBD)
-- **Departure:** ~14:00 @ Busan (PUS)
-- **Arrival:** ~15:10 @ Jeju (CDJ)
+- **Departure:** ~10:00 @ Busan (PUS)
+- **Arrival:** ~11:10 @ Jeju (CJU)
 - **Duration:** ~1h 10m
 </details>
 
@@ -107,25 +107,28 @@
 <summary><b>Jeju Island Itinerary (Sept 2 - Sept 5)</b></summary>
 
 ### Wednesday, September 2, 2026
-- **Morning:** Arrival in Jeju (via flight from Busan) & Hotel Check-in
-- **Afternoon:** Aqua Planet Jeju (Aquarium)
-- **Evening:** Seongsan Ilchulbong Sunset Walk
-- **Return to Hotel by 08:00 PM
+- **Morning:** Arrival in Jeju (via flight from Busan) @ ~11:10 AM — Pick up rental car (~30 min)
+- **Afternoon:** Hotel Check-in (drop bags) → Aqua Planet Jeju (Aquarium)
+- **Evening:** Seongsan Ilchulbong Sunset Walk (Scenic coastal drive!)
+- **Return to Hotel by 08:00 PM**
 
 ### Thursday, September 3, 2026
-- **Morning:** Manjanggul Cave Exploration
+- **Morning:** Manjanggul Cave Exploration (West Coast Drive)
 - **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Friday, September 4, 2026
-- **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastras)
+- **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastles)
 - **Afternoon:** Hallim Park & Teddy Bear Museum
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Saturday, September 5, 2026
 - **Morning:** Snoopy Garden (Interactive garden)
 - **Afternoon:** Jeju Sheep/Horse Riding Experience
-- **Evening:** Prepare for Seoul transition
+- **Evening:** Prepare for Seoul transition & pack car
+
+### Sunday, September 6, 2026 — Morning
+- **Drop off rental car** at CJU Airport by ~8:00 AM (Flight departs ~10:00 AM)
 </details>
 
 <details>
@@ -145,7 +148,7 @@
 ### Sunday, September 6, 2026
 - **Morning:** Travel from Jeju to Seoul (~$300 total)
 - **Afternoon:** Hotel Check-in & Local Exploration
-- **Evening:** Dinner and Return to Hotel by 08:00 PM
+- **Evening:** Dinner and Return to Hotel by 08:00 PM**
 
 ### Monday, September 7, 2026
 - **Daytime:** Choose a Day Trip (Suwon, Incheon, or Jeonju/Gangneung excursion)
@@ -198,7 +201,8 @@
 ## Budget Summary
 - **Accommodations:** $3,200 ($200/night for 16 nights)
 - **General Transportation:** $2,200 (Includes domestic flights and local transit)
-- **Total Estimated Trip Cost:** $5,400 ($3,200 Accommodations + $2,200 Transportation)
+- **Rental Car (Jeju, ~4 days + fuel):** $350
+- **Total Estimated Trip Cost:** $5,750 ($3,200 Accommodations + $2,200 Transportation + $350 Rental Car)
 
 ## Resources
 - [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
