@@ -288,7 +288,36 @@ You don't eat pork. Foods to actively skip:
 
 </details>
 
+<details>
+<summary><b>🏆 Korea Must-Dos: Gap Analysis</b></summary>
+
+> **Based on:** VisitKorea, Lonely Planet, Wikipedia tourism data, VisitSeoul official listings
+
+### ✅ Already Covered (Impressively Thorough)
+Your plan already includes most of the big hits: Gyeongbokgung Palace, Lotte World, DMZ, COEX Starfield Library, Gamcheon Culture Village, Haedong Yonggungsa Temple, Seongsan Ilchulbong, Manjanggul Cave, Bulguksa Temple + Seokguram, Gwangjang Market, Namdaemun Market, Bukchon Hanok Village, Seoul Children's Museum, National Museum of Korea, National Children's Science Center, Aqua Planet Jeju, and much more.
+
+### 🔍 Notable Must-Dos Missing
+
+| Attraction | City | When | Notes |
+|---|---|---|---|
+| **N Seoul Tower (Namsan)** | Seoul | Aug 27 afternoon — after Gwangjang Market, before DDP | **#1 Seoul landmark.** Panoramic city views, cable car ride up. Kids love it. ~2 hours. |
+| **Changdeokgung Palace + Secret Garden** | Seoul | Aug 26 morning — after Gyeongbokgung (10-min walk) | UNESCO site, most beautiful Korean palace. Secret garden needs advance booking. Closed Wednesdays. |
+| **Cheonggyecheon Stream** | Seoul | Aug 27 evening — walk after Gwangjang Market | Restored stream through downtown. Kid-friendly fountains & bridges. Near Myeongdong. |
+| **Waterfalls (Cheonjeyeon or Cheonjiyeon)** | Jeju | Sep 3 — on west coast drive near Manjanggul | Quick stop (20-30 min). Kids love water. |
+| **Jeju Olive Farm** | Jeju | Sep 4 — near Bijarim Forest | Interactive kid-friendly farm, olive oil tasting & ice cream. Coastal location. |
+| **Incheon Grand Park** | Incheon | Sep 7 day trip — pick Incheon from TBD list | Zoo + aquarium + outlet shopping. Best family option for the TBD day trip. |
+
+### 📌 Decisions To Make
+- **Sep 7 day trip:** Suwon, Incheon, or Jeonju/Gangneung — not finalized. **Recommendation: Incheon** (zoo + aquarium + shopping for kids)
+- **Hanbok rental:** Mentioned as making Gyeongbokgung free but never scheduled! Kids love dressing up. Book ahead ([Juwon Hanbok](https://juwonhanbok.com/) or [Noryangjin Hanbok Village](https://en.wikipedia.org/wiki/Noryangjin))
+
+### 🏆 Top 3 To Add
+1. **N Seoul Tower** on Aug 27 — fits naturally after Gwangjang Market and before DDP
+2. **Changdeokgung Palace** on Aug 26 morning — 10-min walk from Gyeongbokgung, same block
+3. **Cheonggyecheon Stream** walk on Aug 27 evening — easy add-on near Myeongdong/Gwangjang
+
+</details>
+
 ## Resources
 - [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
 - [Seoul Plan (ScoutExplore)](https://scoutexplore.com/t/HJyVsYrsDV2oTBc7IlH2/edit?t=029c720d-b588-4868-961d-0000b9c46354)
-- [Must-Dos Gap Analysis](mustdos_gap_analysis.md) — What's missing, what we can skip, and why
