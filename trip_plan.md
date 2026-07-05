@@ -28,15 +28,16 @@
 <summary><b>Seoul Itinerary (Aug 22 - Aug 28)</b></summary>
 
 ### Saturday, August 22, 2026
-- **Arrival:** 10:50 AM @ Seoul Incheon International Airport (ICN)
+- **Arrival:** 10:50 AM @ Seoul Incheon International Airport (ICN) — ~1h 45m to hotel by AREX + subway
+- 🏨 **Hotel:** [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) — 57 Jong-ro 18gil, Jongro-gu, Seoul
 - 🍽️ **Lunch:** Light meal after landing — try **bibimbap** near hotel (kids love mixing it all together!)
 - **Evening:** Rest and prepare for next day
 - **Return to Hotel by 08:00 PM**
 
 ### Sunday, August 23, 2026
-- **Morning:** [Seoul Children's Museum](https://www.seoulchildrensmuseum.org/eng/) & [Grand Park](https://grandpark.seoul.go.kr/conts/contsView/en/S002001001001.do) — Hours: 10:00-18:00 | ~₩15,000 (~$11) adult
-- **Afternoon:** [Seoul Forest](https://en.wikipedia.org/wiki/Seoul_Forest) (Visit the deer farm corral & butterfly house) — Open 24h (closed Mondays) | Free
-- **Late Afternoon:** Travel to COEX for [Starfield Library](https://en.wikipedia.org/wiki/Starfield_COEX_Mall) (~$20 total) — Mall hours 10:00-22:00 | Free
+- **Morning:** [Seoul Children's Museum](https://www.seoulchildrensmuseum.org/eng/) & [Grand Park](https://grandpark.seoul.go.kr/conts/contsView/en/S002001001001.do) — Hours: 10:00-18:00 | ~₩15,000 (~$11) adult — *from hotel: ~33 min by bus*
+- **Afternoon:** [Seoul Forest](https://en.wikipedia.org/wiki/Seoul_Forest) (Visit the deer farm corral & butterfly house) — Open 24h (closed Mondays) | Free — *from Seoul Children's Museum: ~30 min by bus*
+- **Late Afternoon:** Travel to COEX for [Starfield Library](https://en.wikipedia.org/wiki/Starfield_COEX_Mall) (~$20 total) — Mall hours 10:00-22:00 | Free — *from Seoul Forest: ~40 min by bus + subway*
 - 🍽️ **Afternoon Treat:** **Bingsu** (shaved ice dessert) at COEX — try mango or injeolmi (soybean powder) flavor
 - 🍽️ **Evening:** Dinner at COEX — **Korean fried chicken** (original crispy or soy garlic, great for sharing with kids) or **Hanwoo beef BBQ** (galbi/chadolbaegi as a splurge meal)
 - **Return to Hotel by 08:00 PM**
@@ -54,15 +55,15 @@
 - 🍽️ **Evening:** **Dinner** — Korean fried chicken or casual Korean set meal near Lotte World. Return to Hotel by 08:00 PM
 
 ### Wednesday, August 26, 2026
-- **Morning:** [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — Hours: 09:00-18:00 (Aug) | ₩3,000 (~$2), **Free with Hanbok rental!** (closed Tuesdays)
+- **Morning:** [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — Hours: 09:00-18:00 (Aug) | ₩3,000 (~$2), **Free with Hanbok rental!** (closed Tuesdays) — *from hotel: ~19 min by bus*
 - 🍽️ **Lunch:** **Samgyetang** (ginseng chicken soup) after walking the palace — perfect restorative meal, iconic Korean dish
-- **Afternoon:** [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) & [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — Market: 07:00-21:00 | Free (both)
+- **Afternoon:** [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) & [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — Market: 07:00-21:00 | Free (both) — *from Gyeongbokgung Palace: ~30 min walking through Jongno streets*; Tongin → Bukchon walkable (~15 min uphill)*
   - 🍽️ **Tongin Market Snack:** Try the famous **dosirak lunch** — buy coins and pick items for a custom bento box (fun with kids!)
 - **Evening:** Dinner near Bukchon, try **mandu** (Korean dumplings) — ask for beef, chicken, kimchi, or vegetable filling. Return to Hotel by 08:00 PM
 
 ### Thursday, August 27, 2026
-- **Morning:** [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — Hours: 09:30-17:30 (closed Mondays) | ₩2,000 (~$1.50) adult / ₩1,000 (~$0.75) child
-- **Afternoon:** [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) & [Dongdaemun Design Plaza](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) (DDP) — Market: ~08:30-18:00, DDP: 10:00-21:00 | Free (both)
+- **Morning:** [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — Hours: 09:30-17:30 (closed Mondays) | ₩2,000 (~$1.50) adult / ₩1,000 (~$0.75) child — *from hotel: ~21 min by bus + subway*
+- **Afternoon:** [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) & [Dongdaemun Design Plaza](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) (DDP) — Market: ~08:30-18:00, DDP: 10:00-21:00 | Free (both) — *from Children's Science Center: walkable (~5 min)*
   - 🍽️ **Gwangjang Market Lunch** (a highlight!) — build a full meal without pork:
     - **Bindaetteok** (mung bean pancakes)
     - **Mayak gimbap** (mini colorful rice rolls, addictive for kids)
@@ -71,7 +72,7 @@
 - 🍽️ **Evening:** Light dinner near DDP. Return to Hotel by 08:00 PM
 
 ### Friday, August 28, 2026
-- **Daytime:** [DMZ Tour](https://www.dmztours.com/) (Educational Day Trip) — Book at least 72h in advance | ~₩55,000 (~$40) per adult, kids vary
+- **Daytime:** [DMZ Tour](https://www.dmztours.com/) (Educational Day Trip) — Book at least 72h in advance | ~₩55,000 (~$40) per adult, kids vary — *from Jongro-gu: ~1–1.5h by tour bus/car north to Goyang area*
   > ⚠️ **Book by Aug 19** — 72-hour advance booking requirement; reserve before departure!
 - 🍽️ **Evening:** Simple dinner after DMZ — **bibimbap** or **dak galbi** (mild) near hotel. Rest and prepare for travel.
 </details>
