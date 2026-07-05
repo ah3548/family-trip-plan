@@ -69,6 +69,15 @@
             summary { color: #60a5fa; }
             summary:hover { color: #93c5fd; }
             .prose li::marker { color: #94a3b8; }
+
+            /* Override Tailwind utility classes in dark mode */
+            header h1, .text-slate-900 { color: #f8fafc !important; }
+            .text-slate-600 { color: #cbd5e1 !important; }
+            .prose p { color: #cbd5e1; }
+
+            /* Fix footer line and text in dark mode */
+            .border-t.slate-200, .border-slate-200 { border-top-color: #334155 !important; }
+            .text-slate-500 { color: #64748b !important; }
         }
     </style>
 </head>
