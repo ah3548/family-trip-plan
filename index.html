@@ -14,22 +14,26 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         /* Custom styles to make the markdown look beautiful */
+        html, body {
+            overflow-x: hidden;
+            max-width: 100vw;
+        }
         body {
             background-color: #f8fafc;
             font-family: 'Inter', system-ui, -apple-system, sans-serif;
             color: #1e293b;
             font-size: 15px;
         }
-        .prose h1 { font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem; color: #0f172a; }
+        .prose h1 { font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem; color: #0f172a; word-break: break-word; }
         .prose h2 { font-size: 1.5rem; font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #334155; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.35rem; }
-        .prose h3 { font-size: 1.3rem; font-weight: 600; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #475569; }
-        .prose p, .prose li { line-height: 1.6; margin-bottom: 0.35rem; }
+        .prose h3 { font-size: 1.3rem; font-weight: 600; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #475569; word-break: break-word; }
+        .prose p, .prose li { line-height: 1.6; margin-bottom: 0.35rem; overflow-wrap: break-word; }
         .prose ul, .prose ol { padding-left: 1.25rem; margin-bottom: 0.35rem; }
         .prose li::marker { color: #64748b; }
         .prose strong { color: #0f172a; font-weight: 600; }
-        .prose blockquote { border-left: 3px solid #cbd5e1; padding-left: 0.75rem; font-style: italic; color: #64748b; }
+        .prose blockquote { border-left: 3px solid #cbd5e1; padding-left: 0.75rem; font-style: italic; color: #64748b; overflow-wrap: break-word; }
         .prose hr { margin: 1.5rem 0; border: 0; border-top: 1px solid #e2e8f0; }
-        /* Style for the <details> elements */
+        /* Mobile-friendly details */
         details {
             background: white;
             padding: 0.75rem;
@@ -43,8 +47,21 @@
             cursor: pointer;
             color: #2563eb;
             outline: none;
+            padding: 0.25rem 0;
         }
         summary:hover { color: #1d4ed8; }
+        /* Make tables scrollable on mobile */
+        .prose table {
+            display: block;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            white-space: nowrap;
+            width: 100%;
+        }
+        /* Touch-friendly tap targets for collapsibles */
+        summary::marker, summary::-webkit-details-marker {
+            color: #2563eb;
+        }
 
         /* Dark mode */
         @media (prefers-color-scheme: dark) {
@@ -58,9 +75,8 @@
             .prose strong { color: #f1f5f9; }
             .prose blockquote { border-left-color: #475569; color: #94a3b8; }
             .prose hr { border-top-color: #334155; }
-            .prose table { background-color: #1e293b; color: #e2e8f0; }
-            .prose table th { background-color: #334155; color: #f1f5f9; }
-            .prose code { background-color: #1e293b; color: #cbd5e1; }
+            .prose table { background-color: #1e293b; color: #e2e8f0; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: nowrap; width: 100%; }
+            .prose code { background-color: #1e293b; color: #cbd5e1; word-break: break-word; overflow-wrap: break-word; }
             .prose a { color: #60a5fa; }
             details {
                 background: #1e293b;
@@ -69,8 +85,9 @@
                 padding: 0.75rem;
                 margin-bottom: 0.5rem;
             }
-            summary { color: #60a5fa; }
+            summary { color: #60a5fa; padding: 0.25rem 0; }
             summary:hover { color: #93c5fd; }
+
             .prose li::marker { color: #94a3b8; }
 
             /* Override Tailwind utility classes in dark mode */
@@ -81,6 +98,19 @@
             /* Fix footer line and text in dark mode */
             .border-t.slate-200, .border-slate-200 { border-top-color: #334155 !important; }
             .text-slate-500 { color: #64748b !important; }
+        }
+
+        /* Mobile-first responsive fixes */
+        @media (max-width: 640px) {
+            header h1, .text-3xl, .sm\:text-4xl { font-size: 1.5rem !important; }
+            .prose h2 { font-size: 1.25rem; margin-top: 0.8rem; }
+            .prose h3 { font-size: 1.1rem; margin-top: 0.7rem; }
+            body, article.prose { font-size: 13.5px; }
+            .py-8, .sm\:px-6, .lg\:px-10 { padding-top: 0.5rem !important; padding-bottom: 0.5rem !important; padding-left: 0.25rem !important; padding-right: 0.25rem !important; }
+            details {
+                padding: 0.6rem !important;
+                margin-bottom: 0.3rem !important;
+            }
         }
     </style>
 </head>
