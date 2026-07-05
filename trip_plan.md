@@ -126,30 +126,66 @@
 - **Morning:** Arrival in Jeju (via flight from Busan) @ ~11:10 AM — Pick up rental car (~30 min)
 - 🚗 *CJU Airport → Areumdaun Resort: ~45–50m by car (28 mi / 45 km coastal drive)*
 - 🏨 **Hotel:** [Areumdaun Resort](https://share.google/XBSP6Cj9dHhuSMNjo) — Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do
-- **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) (Aquarium) — Hours: 09:30-18:00 (last admission 17:00) | ₩42,000 adult (~$31)
-- **Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required — *from Aqua Planet: ~10 min by car (same Seongsan-eup area)*
+- **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) (Aquarium) — Hours: 09:30-18:00 (last admission 17:00) | ₩42,000 adult (~$31) — *spend ~2–2.5 hr*
+
+- **Late Afternoon:** [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70413) Coastal Walk (Scenic ocean views, boardwalk trails) — *from Aqua Planet: ~5–10 min by car* | Open access | Free — *spend ~45–60 min*
+
+- **Early Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required — *from Seopjikoji: ~10 min by car*
+  > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough for the scenic coastal drive
+
 - 🍽️ **Dinner near Seongsan:** **Abalone porridge** and **grilled mackerel** — must-try Jeju regional specialties
   > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough to make the scenic coastal drive
 
-- **Return to Hotel by 08:00 PM**
+- **Return to Hotel by 08:00 PM** — *from Seongsan Ilchulbong area: ~15m by car back to Areumdaun Resort*
 
-### Thursday, September 3, 2026
-- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration (West Coast Drive) — *from Areumdaun Resort: ~20m by car* — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
-- **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time — *from Manjanggul Cave: ~20m by car (same Gujwa-eup area)* — Open access | Free
-- 🍽️ **Dinner:** Grilled fish on the coast, finish with **hallabong desserts** (Jeju's famous citrus). Return to Hotel by 08:00 PM
+### Thursday, September 3, 2026 — Northeast / Central Loop
 
-### Friday, September 4, 2026
-- **Morning:** [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) (White sand, calm water — best for kids) — Open access | Free
-- 🚗 *from Areumdaun Resort: ~25m by car (north to Hamdeok)*
-- **Afternoon:** Hallim Park & Teddy Bear Museum — Hours: ~09:00-18:00 — *from Hamdeok Beach: ~50m by car (long south drive along west coast, ~50 km)* | ₩30,000 (~$22) adult
-- 🍽️ **Dinner:** **Seafood ramen** or grilled squid on the coast — Jeju specialties. Return to Hotel by 08:00 PM
+- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
+- 🚗 *Areumdaun Resort → Manjanggul Cave: ~20m by car (Gujwa-eup area)*
 
-### Saturday, September 5, 2026
-- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — *from Hallim Park area: ~20m by car* — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
-- **Afternoon:** Jeju Sheep/Horse Riding Experience — Varies by farm | ~₩25,000-40,000 (~$18.50–30) per ride
+- **Late Morning:** [Bijarim Forest](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70409) & Hallstatt-style Village/Cafe time — Open access | Free
+- 🚗 *Manjanggul Cave → Bijarim Forest: ~20m by car (same Gujwa-eup area)*
+
+- **Afternoon:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
+- 🚗 *Bijarim Forest → Snoopy Garden: ~15m by car (to Jeju Ecoland area)*
+
+- **Late Afternoon:** Jeju Sheep/Horse Riding Experience — *from Snoopy Garden area* | ~₩25,000-40,000 (~$18.50–30) per ride
   > ⚠️ **Call ahead** — pick a specific farm and confirm hours for this date before you go
-- 🍽️ **Dinner:** Last Jeju seafood meal — grilled fish, shrimp, or abalone. **Bingsu** for dessert
-- **Evening:** Prepare for Seoul transition & pack car
+
+- 🍽️ **Dinner:** Grilled fish on the east coast. Return to Hotel by 08:00 PM
+- 🚗 *Dinner area → Areumdaun Resort: ~15m by car back*
+
+### Friday, September 4, 2026 — North → West Cross-Island
+
+- **Early Morning:** [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) (White sand, calm water — best for kids) — Open access | Free
+- 🚗 *Areumdaun Resort → Hamdeok Beach: ~25m by car (north)*
+
+- **Late Morning:** [Hallim Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) — Hours: ~09:00-18:00 | ₩30,000 (~$22) adult
+- 🚗 *Hamdeok Beach → Hallim Park: ~1h 15m by car (north coast to west coast via highway)*
+
+- **Afternoon:** [Teddy Bear Museum](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=71485) — Hours: ~09:30-18:00 | Free
+- 🚗 *Hallim Park → Teddy Bear Museum: ~37m by car (26 km, toward Jungmun)*
+
+- 🌊 **[Cheonjiyeon Waterfall](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70412)** — *from Teddy Bear Museum: ~20m by car (coastal road toward Seogwipo)* — Quick stop (20-30 min) | Free
+
+- 🍽️ **Dinner in Jungmun** — fresh seafood at the harbor. **Bingsu** for dessert
+- 🚗 *Jungmun → Areumdaun Resort: ~50m by car back*
+
+### Saturday, September 5, 2026 — Relaxed East Coast Day
+
+- **Sleep in** — enjoy a slow morning at the resort
+
+- **Late Morning:** [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70413) Coastal Walk (Scenic ocean views, boardwalk trails) — Open access | Free
+- 🚗 *Areumdaun Resort → Seopjikoji: ~20m by car (east to Jeju-eup area)*
+
+- 🍽️ **Cafe stop** — coastal cafe with ocean views, hallabong-themed drinks/desserts & **Bingsu** (shaved ice)
+
+- **Afternoon:** Shopping in Jungmun or Seongsan — souvenir shopping, local crafts
+
+- 🍽️ **Early Seafood Dinner** — fresh catch at Seongsan Harbor — Jeju specialties
+  > ⚠️ **Prepare for Seoul transition & pack car** in the evening
+
+- **Evening:** Pack up rental car for drop-off (Sep 6 morning)
 
 ### Sunday, September 6, 2026 — Morning
 - **Drop off rental car** at CJU Airport by ~8:00 AM (Flight departs ~10:00 AM)
@@ -308,8 +344,6 @@ Your plan already includes most of the big hits: Gyeongbokgung Palace, Lotte Wor
 | **N Seoul Tower (Namsan)** | Seoul | Aug 27 afternoon — after Gwangjang Market, before DDP | **#1 Seoul landmark.** Panoramic city views, cable car ride up. Kids love it. ~2 hours. |
 | **Changdeokgung Palace + Secret Garden** | Seoul | Aug 26 morning — after Gyeongbokgung (10-min walk) | UNESCO site, most beautiful Korean palace. Secret garden needs advance booking. Closed Wednesdays. |
 | **Cheonggyecheon Stream** | Seoul | Aug 27 evening — walk after Gwangjang Market | Restored stream through downtown. Kid-friendly fountains & bridges. Near Myeongdong. |
-| **Waterfalls (Cheonjeyeon or Cheonjiyeon)** | Jeju | Sep 3 — on west coast drive near Manjanggul | Quick stop (20-30 min). Kids love water. |
-| **Jeju Olive Farm** | Jeju | Sep 4 — near Bijarim Forest | Interactive kid-friendly farm, olive oil tasting & ice cream. Coastal location. |
 | **Incheon Grand Park** | Incheon | Sep 7 day trip — pick Incheon from TBD list | Zoo + aquarium + outlet shopping. Best family option for the TBD day trip. |
 
 ### 📌 Decisions To Make
