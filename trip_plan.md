@@ -82,23 +82,24 @@
 <summary><b>Busan & Gyeongju Itinerary (Aug 29 - Sep 1)</b></summary>
 
 ### Saturday, August 29, 2026
-- **Morning:** Travel to Busan (KTX or Bus) (~$120 total)
-- **Afternoon:** [Huinnyeul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) & [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) & Jeoryeong Coastal Trail — Village: weekends 10:00-20:00 | Free (both)
+- **Morning:** Travel to Busan (KTX or Bus) (~$120 total) — *from Seoul Station: ~2h 45m by KTX train*
+- 🏨 **Hotel:** [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) — 19 Heukgyo-ro, Jung-gu, Busan
+- **Afternoon:** [Huinnyeul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) & [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) & Jeoryeong Coastal Trail — Village: weekends 10:00-20:00 | Free (both) — *from GnB Hotel: ~30–45 min by bus*
 - 🍽️ **Evening:** **Grilled seafood dinner** in Busan — grilled fish, scallops, shrimp. Return to Hotel by 08:00 PM
 
 ### Sunday, August 30, 2026
-- **Morning:** [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — Hours: ~05:00-~19:00 (seasonal) | Free
-- **Afternoon:** [Haeundae Blueline Park](https://www.visitbusan.com/english/touring/info.asp?mode=B1_Article&menu_no=2_2&board_idx=293&cat_no=31) & Shinsegae Centum City — Hours: 10:00-22:00 | Free
+- **Morning:** [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — Hours: ~05:00-~19:00 (seasonal) — *from GnB Hotel: ~1h 47m by bus (long drive, consider taxi for family)* | Free
+- **Afternoon:** [Haeundae Blueline Park](https://www.visitbusan.com/english/touring/info.asp?mode=B1_Article&menu_no=2_2&board_idx=293&cat_no=31) & Shinsegae Centum City — Hours: 10:00-22:00 — *from Haedong Yonggungsa: ~1h by bus* | Free
 - 🍽️ **Evening:** **Dinner** by Gwangalli Beach — fresh seafood (crab, clams, grilled squid) before the drone light show. ~19:30 on weekends | Free
-- **Return to Hotel by 08:00 PM**
+- **Return to Hotel by 08:00 PM** — *from Gwangalli Beach: ~56 min by bus*
 
 ### Monday, August 31, 2026
-- **Morning:** [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) (Get the free map!) — Suggested hours: 09:00-18:00 | Free
-- **Afternoon:** Gukje Market, BIFF Square (Try Hotteck), and [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) — Hours vary by stall | Free (all)
+- **Morning:** [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) (Get the free map!) — Suggested hours: 09:00-18:00 — *from GnB Hotel: ~30 min (mostly walkable uphill)* | Free
+- **Afternoon:** Gukje Market, BIFF Square (Try Hotteck), and [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) — Hours vary by stall — *from Gamcheon Culture Village: walkable to Gukje (~15 min)* | Free (all)
   - 🍽️ **BIFF Square:** Must-try **ssiat hotteok** (seed-filled sweet pancake, no pork!)
   - 🍽️ **Jagalchi Market:** Explore Korea's largest wholesale seafood market — try fresh grilled seafood or seafood stew
 - **Evening:** [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) Ride & Dinner with ocean views — Hours: 09:00-21:00 | ₩10,000 (~$7.50) round-trip adult
-- **Return to Hotel by 08:00 PM**
+- **Return to Hotel by 08:00 PM** — *from Songdo Cable Car: ~56 min by bus*
 
 ### Tuesday, September 1, 2026 (Gyeongju Day Trip)
 - **Morning/Afternoon:** [Bulguksa Temple](https://en.wikipedia.org/wiki/Bulguksa) — Hours: 09:00-18:00 | ₩5,000 (~$3.75) adult; [Seokguram Grotto](https://en.wikipedia.org/wiki/Seokguram) — Hours: 06:30-18:00 (summer) | ₩4,000 (~$3.00) adult; [Daereungwon Tomb Complex](https://en.wikipedia.org/wiki/Daereungwon) — Open dawn to dusk | Free
@@ -123,25 +124,28 @@
 
 ### Wednesday, September 2, 2026
 - **Morning:** Arrival in Jeju (via flight from Busan) @ ~11:10 AM — Pick up rental car (~30 min)
+- 🚗 *CJU Airport → Areumdaun Resort: ~45–50m by car (28 mi / 45 km coastal drive)*
+- 🏨 **Hotel:** [Areumdaun Resort](https://share.google/XBSP6Cj9dHhuSMNjo) — Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do
 - **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) (Aquarium) — Hours: 09:30-18:00 (last admission 17:00) | ₩42,000 adult (~$31)
-- **Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required
+- **Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required — *from Aqua Planet: ~10 min by car (same Seongsan-eup area)*
 - 🍽️ **Dinner near Seongsan:** **Abalone porridge** and **grilled mackerel** — must-try Jeju regional specialties
   > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough to make the scenic coastal drive
 
 - **Return to Hotel by 08:00 PM**
 
 ### Thursday, September 3, 2026
-- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration (West Coast Drive) — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
-- **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time — Open access | Free
+- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration (West Coast Drive) — *from Areumdaun Resort: ~20m by car* — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
+- **Afternoon:** Bijarim Forest & Hallstatt-style Village/Cafe time — *from Manjanggul Cave: ~20m by car (same Gujwa-eup area)* — Open access | Free
 - 🍽️ **Dinner:** Grilled fish on the coast, finish with **hallabong desserts** (Jeju's famous citrus). Return to Hotel by 08:00 PM
 
 ### Friday, September 4, 2026
-- **Morning:** Hyeopjae or Hamdeok Beach (Swimming/Sandcastles) — Open access | Free
-- **Afternoon:** Hallim Park & Teddy Bear Museum — Hours: ~09:00-18:00 | ₩30,000 (~$22) adult
+- **Morning:** [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) (White sand, calm water — best for kids) — Open access | Free
+- 🚗 *from Areumdaun Resort: ~25m by car (north to Hamdeok)*
+- **Afternoon:** Hallim Park & Teddy Bear Museum — Hours: ~09:00-18:00 — *from Hamdeok Beach: ~50m by car (long south drive along west coast, ~50 km)* | ₩30,000 (~$22) adult
 - 🍽️ **Dinner:** **Seafood ramen** or grilled squid on the coast — Jeju specialties. Return to Hotel by 08:00 PM
 
 ### Saturday, September 5, 2026
-- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
+- **Morning:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — *from Hallim Park area: ~20m by car* — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
 - **Afternoon:** Jeju Sheep/Horse Riding Experience — Varies by farm | ~₩25,000-40,000 (~$18.50–30) per ride
   > ⚠️ **Call ahead** — pick a specific farm and confirm hours for this date before you go
 - 🍽️ **Dinner:** Last Jeju seafood meal — grilled fish, shrimp, or abalone. **Bingsu** for dessert
@@ -166,7 +170,7 @@
 <summary><b>Seoul Return & Day Trips (Sept 6 - Sept 8)</b></summary>
 
 ### Sunday, September 6, 2026
-- **Morning:** Travel from Jeju to Seoul (~$300 total)
+- **Morning:** Travel from Jeju to Seoul (~$300 total) — *flight ~1h 10m; Gimpo Airport (GMP) → Fully Mini Hotel: ~1h 18m by bus*
 - **Afternoon:** Hotel Check-in & Local Exploration
 - 🍽️ **Evening:** Casual dinner near hotel — **dak galbi** (mild spicy chicken stir-fry) or **bibimbap**. Return to Hotel by 08:00 PM
 
@@ -178,7 +182,7 @@
 ### Tuesday, September 8, 2026
 - 🍽️ **Morning:** Breakfast and last-minute souvenir shopping in Myeongdong — grab **egg bread** and a final **corn dog** as souvenirs snacks
 - **Afternoon:** Prepare for Departure
-- **02:30 PM:** Travel to Incheon Airport (ICN) (~$40 total)
+- **02:30 PM:** Travel to Incheon Airport (ICN) (~$40 total) — *from Jongro-gu hotel: ~1h 45m by bus + AREX*
 - **03:30 PM:** Check-in for Flight Home
 </details>
 
