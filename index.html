@@ -18,23 +18,24 @@
             background-color: #f8fafc;
             font-family: 'Inter', system-ui, -apple-system, sans-serif;
             color: #1e293b;
+            font-size: 15px;
         }
-        .prose h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 1.5rem; color: #0f172a; }
-        .prose h2 { font-size: 1.875rem; font-weight: 700; margin-top: 2rem; margin-bottom: 1rem; color: #334155; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; }
-        .prose h3 { font-size: 1.5rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.75rem; color: #475569; }
-        .prose p, .prose li { line-height: 1.75; margin-bottom: 1rem; }
-        .prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1rem; }
+        .prose h1 { font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem; color: #0f172a; }
+        .prose h2 { font-size: 1.5rem; font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #334155; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.35rem; }
+        .prose h3 { font-size: 1.3rem; font-weight: 600; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #475569; }
+        .prose p, .prose li { line-height: 1.6; margin-bottom: 0.35rem; }
+        .prose ul, .prose ol { padding-left: 1.25rem; margin-bottom: 0.35rem; }
         .prose li::marker { color: #64748b; }
         .prose strong { color: #0f172a; font-weight: 600; }
-        .prose blockquote { border-left: 4px solid #cbd5e1; padding-left: 1rem; font-style: italic; color: #64748b; }
-        .prose hr { margin: 2.5rem 0; border: 0; border-top: 1px solid #e2e8f0; }
+        .prose blockquote { border-left: 3px solid #cbd5e1; padding-left: 0.75rem; font-style: italic; color: #64748b; }
+        .prose hr { margin: 1.5rem 0; border: 0; border-top: 1px solid #e2e8f0; }
         /* Style for the <details> elements */
         details {
             background: white;
-            padding: 1rem;
-            border-radius: 0.75rem;
-            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
-            margin-bottom: 1rem;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.08);
+            margin-bottom: 0.5rem;
             border: 1px solid #e2e8f0;
         }
         summary {
@@ -64,7 +65,9 @@
             details {
                 background: #1e293b;
                 border-color: #334155;
-                box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.4);
+                box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+                padding: 0.75rem;
+                margin-bottom: 0.5rem;
             }
             summary { color: #60a5fa; }
             summary:hover { color: #93c5fd; }
@@ -83,12 +86,12 @@
 </head>
 <body class="antialiased">
 
-    <div class="max-w-4xl mx-auto py-12 px-6 sm:px-8 lg:px-12">
-        <header class="mb-12 text-center">
-            <h1 class="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
+    <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-10">
+        <header class="mb-6 text-center">
+            <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
                 🇰🇷 Family Adventure: Korea
             </h1>
-            <p class="mt-4 text-lg text-slate-600">
+            <p class="mt-2 text-base text-slate-600">
                 Everything you need to know for our trip from NY to Seoul.
             </p>
         </header>
@@ -96,7 +99,7 @@
         <!-- This is where the Markdown content will be injected -->
         <article id="markdown-content" class="prose prose-slate max-w-none"></article>
 
-        <footer class="mt-16 pt-8 border-t border-slate-200 text-center text-sm text-slate-500">
+        <footer class="mt-8 pt-4 border-t border-slate-200 text-center text-sm text-slate-500">
             <p>Generated from trip_plan.md &bull; Updated for 2026</p>
         </footer>
     </div>
