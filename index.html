@@ -112,6 +112,13 @@
                 margin-bottom: 0.3rem !important;
             }
         }
+
+        /* Dark mode calendar */
+        @media (prefers-color-scheme: dark) {
+            .dark-calendar { background:#1e293b !important; border-color:#334155 !important; box-shadow:0 1px 2px 0 rgb(0 0 0 / 0.4) !important; }
+            .dark-calendar summary { color:#60a5fa !important; }
+            .dark-calendar pre { color:#e2e8f0 !important; }
+        }
     </style>
 </head>
 <body class="antialiased">
@@ -125,6 +132,14 @@
                 Everything you need to know for our trip from NY to Seoul.
             </p>
         </header>
+
+        <!-- Trip calendar — static HTML so monospace stays intact -->
+        <details class="mb-4 dark-calendar" style="background:white;padding:0.75rem;border-radius:0.5rem;box-shadow:0 1px 2px 0 rgb(0 0 0 / 0.08);border:1px solid #e2e8f0;font-size:13px;">
+            <summary style="font-weight:700;color:#2563eb;cursor:pointer;padding:0.25rem 0;">Trip Overview</summary>
+            <pre style="font-family:'Courier New',Consolas,monospace;font-size:13px;line-height:1.3;margin-top:0.5rem;margin-bottom:0;overflow-x:auto;-webkit-overflow-scrolling:touch;color:#1e293b;">✈️ JFK→AUH→ICN     🏙️ Seoul         🌊 Busan          🏝️ Jeju        🏙️ Seoul   🛫 Home
+[══════]════[████████████████████][██████████████][█████████████][████████████][════]
+Aug 20-21       Aug 22-28         Aug 29-Sep 1      Sep 2-4        Sep 5-7     Sep 8</pre>
+        </details>
 
         <!-- This is where the Markdown content will be injected -->
         <article id="markdown-content" class="prose prose-slate max-w-none"></article>
