@@ -108,6 +108,7 @@
 
 </details>
 
+
 <details>
 <summary><b>Domestic Connection: Busan -> Jeju (Sept 2)</b></summary>
 
@@ -126,30 +127,29 @@
 - **Morning:** Arrival in Jeju (via flight from Busan) @ ~11:10 AM — Pick up rental car (~30 min)
 - 🚗 *CJU Airport → Areumdaun Resort: ~45–50m by car (28 mi / 45 km coastal drive)*
 - 🏨 **Hotel:** [Areumdaun Resort](https://share.google/XBSP6Cj9dHhuSMNjo) — Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do
-- **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) (Aquarium) — Hours: 09:30-18:00 (last admission 17:00) | ₩42,000 adult (~$31) — *spend ~2–2.5 hr*
+- **Afternoon:** Hotel Check-in (drop bags) → [Aqua Planet Jeju](https://www.aquaplanet.co.kr/jeju/index.do) (Aquarium) — Hours: 09:30–18:00 (last admission 17:00) | ₩42,000 adult (~$31) — *spend ~2–2.5 hr*
 
-- **Late Afternoon:** [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70413) Coastal Walk (Scenic ocean views, boardwalk trails) — *from Aqua Planet: ~5–10 min by car* | Open access | Free — *spend ~45–60 min*
+- **Late Afternoon:** [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?cid=127813) Coastal Walk (Scenic ocean views, boardwalk trails) — *from Aqua Planet: ~5–10 min by car* | Open access | Free — *spend ~45–60 min*
 
-- **Early Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required — *from Seopjikoji: ~10 min by car*
+- **Early Evening:** [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) Sunset Walk (Scenic coastal drive!) — Hours: seasonal ~sunrise-~19:00 | ₩5,000 (~$4), advance reservation required — *from Seopjikoji: ~10 min by car* — *spend ~1–1.5 hr (climb summit = 30–40 min roundtrip + time at top)*
   > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough for the scenic coastal drive
 
 - 🍽️ **Dinner near Seongsan:** **Abalone porridge** and **grilled mackerel** — must-try Jeju regional specialties
-  > ⚠️ **Aim to arrive by 5 PM** — closes ~7 PM in September; leave Aqua Planet early enough to make the scenic coastal drive
 
 - **Return to Hotel by 08:00 PM** — *from Seongsan Ilchulbong area: ~15m by car back to Areumdaun Resort*
 
 ### Thursday, September 3, 2026 — Northeast / Central Loop
 
-- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration — Hours: 09:00-18:00 | ₩12,000 adult (~$9)
+- **Morning:** [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) Exploration — Hours: 09:00-18:00 | ₩12,000 adult (~$9) — *spend ~45–60 min (2 km lava tube walk)*
 - 🚗 *Areumdaun Resort → Manjanggul Cave: ~20m by car (Gujwa-eup area)*
 
-- **Late Morning:** [Bijarim Forest](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70409) & Hallstatt-style Village/Cafe time — Open access | Free
+- **Late Morning:** [Bijarim Forest](https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270) & Hallstatt-style Village/Cafe time — Open access | Free — *spend ~1 hr (forest walk + cafe)*
 - 🚗 *Manjanggul Cave → Bijarim Forest: ~20m by car (same Gujwa-eup area)*
 
-- **Afternoon:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child
+- **Afternoon:** [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) (Interactive garden) — Hours: 09:00-19:00 | ₩18,000 (~$13) adult, ₩12,000 (~$9) child — *spend ~1.5–2 hr*
 - 🚗 *Bijarim Forest → Snoopy Garden: ~15m by car (to Jeju Ecoland area)*
 
-- **Late Afternoon:** Jeju Sheep/Horse Riding Experience — *from Snoopy Garden area* | ~₩25,000-40,000 (~$18.50–30) per ride
+- **Late Afternoon:** Jeju Sheep/Horse Riding Experience — *from Snoopy Garden area* | ~₩25,000–40,000 (~$18.50–30) per ride — *spend ~30–45 min*
   > ⚠️ **Call ahead** — pick a specific farm and confirm hours for this date before you go
 
 - 🍽️ **Dinner:** Grilled fish on the east coast. Return to Hotel by 08:00 PM
@@ -157,62 +157,67 @@
 
 ### Friday, September 4, 2026 — North → West Cross-Island
 
-- **Early Morning:** [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) (White sand, calm water — best for kids) — Open access | Free
+- **Early Morning:** [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) (White sand, calm water — best for kids) — Open access | Free — *spend ~1–2 hr*
 - 🚗 *Areumdaun Resort → Hamdeok Beach: ~25m by car (north)*
 
-- **Late Morning:** [Hallim Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70407) — Hours: ~09:00-18:00 | ₩30,000 (~$22) adult
-- 🚗 *Hamdeok Beach → Hallim Park: ~1h 15m by car (north coast to west coast via highway)*
+- **Late Morning:** [Hallim Park](https://www.hallimpark.co.kr/) — Hours: 09:00–18:30 | ₩30,000 (~$22) adult — *spend ~1.5–2 hr (waterfall, cliff trail, dolphin show if running)*
+- 🚗 *Hamdeok Beach → Hallim Park: ~1h by car (north coast to west coast via Gyeongbu Expressway)*
 
-- **Afternoon:** [Teddy Bear Museum](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=71485) — Hours: ~09:30-18:00 | Free
+- **Afternoon:** [Teddy Bear Museum](http://www.teddybearmuseum.kr/) — Hours: 09:00–18:00 | ₩8,000 (~$6) adult; ₩6,000 (~$4.50) child — *spend ~45–60 min*
 - 🚗 *Hallim Park → Teddy Bear Museum: ~37m by car (26 km, toward Jungmun)*
 
-- 🌊 **[Cheonjiyeon Waterfall](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70412)** — *from Teddy Bear Museum: ~20m by car (coastal road toward Seogwipo)* — Quick stop (20-30 min) | Free
+- 🌊 **[Jusangjeolli Cliffs](https://www.visitjeju.net/en/detail/view?contentsid=CNTS_000000000020476)** — *from Teddy Bear Museum: ~15m by car (coastal road toward Seogwipo)* — Spend ~30–45 min | ₩2,000 (~$1.50) adult
 
 - 🍽️ **Dinner in Jungmun** — fresh seafood at the harbor. **Bingsu** for dessert
 - 🚗 *Jungmun → Areumdaun Resort: ~50m by car back*
 
-### Saturday, September 5, 2026 — Relaxed East Coast Day
+### Saturday, September 5, 2026 — Jeju → Seoul
 
-- **Sleep in** — enjoy a slow morning at the resort
+- **Morning:** Drop off rental car at CJU Airport by ~8:00 AM
+- ✈️ **[Domestic Connection: Jeju -> Seoul](#jeju-seoul)** (Estimated, ~$300 total)
+  - **Departure:** ~10:00 @ Jeju (CJU)
+  - **Arrival:** ~11:10 @ Seoul (GMP)
+  - **Duration:** ~1h 10m
 
-- **Late Morning:** [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70413) Coastal Walk (Scenic ocean views, boardwalk trails) — Open access | Free
-- 🚗 *Areumdaun Resort → Seopjikoji: ~20m by car (east to Jeju-eup area)*
-
-- 🍽️ **Cafe stop** — coastal cafe with ocean views, hallabong-themed drinks/desserts & **Bingsu** (shaved ice)
-
-- **Afternoon:** Shopping in Jungmun or Seongsan — souvenir shopping, local crafts
-
-- 🍽️ **Early Seafood Dinner** — fresh catch at Seongsan Harbor — Jeju specialties
-  > ⚠️ **Prepare for Seoul transition & pack car** in the evening
-
-- **Evening:** Pack up rental car for drop-off (Sep 6 morning)
-
-### Sunday, September 6, 2026 — Morning
-- **Drop off rental car** at CJU Airport by ~8:00 AM (Flight departs ~10:00 AM)
 </details>
 
-<details>
-<summary><b>Domestic Connection: Jeju -> Seoul (Sept 6)</b></summary>
 
-### Sunday, September 6, 2026 (Estimated, ~$300 total)
+<details>
+<summary><b>Domestic Connection: Jeju -> Seoul (Sept 5)</b></summary>
+
+### Saturday, September 5, 2026 (Estimated, ~$300 total)
 - **Airline:** Korean Air or Asiana Airlines (TBD)
 - **Departure:** ~10:00 @ Jeju (CJU)
-	- **Arrival:** ~11:10 @ Seoul (GMP)
+- **Arrival:** ~11:10 @ Seoul (GMP)
 - **Duration:** ~1h 10m
 </details>
 
 
 <details>
-<summary><b>Seoul Return & Day Trips (Sept 6 - Sept 8)</b></summary>
+<summary><b>Seoul Return & Day Trips (Sept 5 - Sept 8)</b></summary>
 
-### Sunday, September 6, 2026
-- **Morning:** Travel from Jeju to Seoul (~$300 total) — *flight ~1h 10m; Gimpo Airport (GMP) → Fully Mini Hotel: ~1h 18m by bus*
-- **Afternoon:** Hotel Check-in & Local Exploration
-- 🍽️ **Evening:** Casual dinner near hotel — **dak galbi** (mild spicy chicken stir-fry) or **bibimbap**. Return to Hotel by 08:00 PM
+### Saturday, September 5, 2026
+
+- 🚗 *GMP Airport → Fully Mini Hotel: ~1h 18m by bus*
+- 🏨 **Hotel:** [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) — 57 Jong-ro 18gil, Jongro-gu, Seoul
+
+- **Afternoon:** Namsan Mountain (N Seoul Tower) — Cable car ride up with panoramic city views, great for kids — *spend ~2–3 hr*
+  - 🚗 *Hotel → Namsan: ~15 min by taxi from Jongro*
+  - Hours: ~09:00–23:00 (varies by season) | Cable car ~₩13,000 (~$10) adult; ₩7,500 (~$5.50) child
+
+- 🍽️ **Evening:** Cheonggyecheon Stream walk after dinner — kid-friendly fountains & bridges — *spend ~1 hr*
+  - 🚗 *Namsan → Cheonggyecheon: ~10 min by taxi / subway 1 stop*
+
+### Sunday, September 6, 2026 — Day Trip Choice
+
+- **Morning:** Choose a day trip (see options below)
+  > 💡 **Recommendation: Incheon Grand Park** — zoo + aquarium + outlet shopping. Best for kids this age (~1h each way).
+- 🍽️ **Evening:** Return to Seoul — casual dinner near hotel. Rest before travel day tomorrow.
 
 ### Monday, September 7, 2026
-- 🍽️ **Lunch during day trip:** Try **dak galbi** (mild option for kids) or **bibimbap** at any of the destinations
-- **Daytime:** Choose a Day Trip (Suwon, Incheon, or Jeonju/Gangneung excursion)
+
+- **Morning/Afternoon:** Pick another day trip (different from Sep 6) OR relax in Seoul neighborhood exploration
+  > 💡 **If you chose Incheon on Sep 6 → try Suwon this day** — Gyeongbokgung Palace + Toy Museum are great for kids. *~40m by ITX.*
 - 🍽️ **Evening:** **Final Korean BBQ feast** — the Hanwoo splurge! Order beef short ribs (galbi), beef brisket (chadolbaegi). Souvenir shopping.
 
 ### Tuesday, September 8, 2026
@@ -221,6 +226,7 @@
 - **02:30 PM:** Travel to Incheon Airport (ICN) (~$40 total) — *from Jongro-gu hotel: ~1h 45m by bus + AREX*
 - **03:30 PM:** Check-in for Flight Home
 </details>
+
 
 <details>
 <summary><b>Flight Itinerary: International Return (Sep 8 - Sep 9)</b></summary>
@@ -246,12 +252,15 @@
 </details>
 
 
-## Seoul Day Trip Options (To be decided)
-- **Suwon:** Metro/ITX (~45m) | ~$3
-- **Incheon:** Metro/Bus (~1h) | ~$3
-- **Daejeon:** KTX (~1h) | ~$20–$40
-- **Jeonju:** KTX (~2h) | ~$20–$40
-- **Gangneung:** KTX (~2h) | ~$25–$45
+## Seoul Day Trip Options (Sep 6 & Sep 7 — pick one per day, don't repeat)
+### Nearby (~1h each way)
+- **Incheon Grand Park** — zoo + aquarium + outlet shopping. Top pick for kids ages 4 & 6. *~1h by subway.*
+- **Suwon Hwaseong Fortress** — UNESCO fortress walls kids can walk on, Suwon Castle, Toy Museum. *~40m by ITX from Seoul Station.*
+
+### Longer Day Trip (~2h+ each way)
+- **Daejeon** (EXPO Science Park) — KTX ~1h | ~$20–$40 — better for older kids
+
+Jeonju and Gangneung have been removed — too far for a day trip with young kids.
 
 
 ## Notes
@@ -263,7 +272,8 @@
 All operating hours have been verified against the itinerary — no conflicts found. Three items to keep on your radar:
 1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
 2. **Seongsan Ilchulbong (Sep 2):** Closes ~7 PM in September; aim to arrive by 5 PM for sunset walk. Leave Aqua Planet early enough for the scenic coastal drive.
-3. **Sheep/Horse Riding (Sep 5):** Pick a specific farm and call ahead to confirm hours on this date
+3. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
+4. **Jeju→Seoul flight (Sep 5):** Book by Aug 29 at latest — flights fill up fast for weekend departures
 
 ## Budget Summary
 - **Accommodations:** $3,400 ($200/night for 17 nights)
@@ -280,11 +290,12 @@ All operating hours have been verified against the itinerary — no conflicts fo
   - Aqua Planet Jeju: ~$93 (₩42,000 × 2 adults; kids ~₩35,000 × 2)
   - Seongsan Ilchulbong: ~$16 (₩5,000 × 4)
   - Manjanggul Cave: ~$36 (₩12,000 × 4)
-  - Hallim Park & Teddy Bear Museum: ~$88 (₩30,000 × 4)
+  - Hallim Park: ~$90 (₩30,000 × 4)
+  - Teddy Bear Museum: ~$16 (₩8,000 × 2 adults + ₩6,000 × 2 children)
   - Snoopy Garden: ~$43 (₩18,000 × 2 adults + ₩12,000 × 2 children)
   - Jeju Sheep/Horse Riding: ~$75 (₩30,000 avg × 4 per ride)
 - **Food Budget (est. family of 4, ~18 days):** ~$900–1,200 (₩150,000–250,000/day including markets, street food, and sit-down meals)
-- **Total Estimated Trip Cost:** ~$7,730 ($3,400 Accommodations + $2,200 Transportation + $350 Rental Car + ~$580 Admission + ~$1,200 Food)
+- **Total Estimated Trip Cost:** ~$7,935 ($3,400 Accommodations + $2,300 Transportation + $350 Rental Car + ~$685 Admission + ~$1,200 Food)
 
 <details>
 <summary><b>🍽️ Food Guide: Must-Eats & Ordering Tips</b></summary>
@@ -296,12 +307,12 @@ All operating hours have been verified against the itinerary — no conflicts fo
 | 2 | 🥈 **Korean Fried Chicken** | Aug 23 COEX, Aug 25 Lotte World |
 | 3 | 🥉 **Gwangjang Market** (bindaetteok, mayak gimbap, kalguksu) | Aug 27 lunch — a highlight! |
 | 4 | **Busan Seafood** (grilled fish, scallops, shrimp, crab) | Aug 29–31 throughout Busan |
-| 5 | **Jeju Specialties** (abalone porridge, grilled mackerel, seafood ramen) | Sep 2–5 near Seongsan and coast |
+| 5 | **Jeju Specialties** (abalone porridge, grilled mackerel, seafood ramen) | Sep 2–4 near Seongsan and coast |
 | 6 | **Samgyetang** (ginseng chicken soup) | Aug 26 after Gyeongbokgung Palace |
 | 7 | **Bibimbap** | Aug 22 arrival day, any casual dinner — safest for kids |
-| 8 | **Dak Galbi** (spicy stir-fried chicken) | Aug 24 Myeongdong, Sep 6–7 Seoul return |
+| 8 | **Dak Galbi** (spicy stir-fried chicken) | Aug 24 Myeongdong, Sep 5 onward in Seoul |
 | 9 | **Ssiat Hotteok** (seed-filled sweet pancake) | Aug 31 BIFF Square |
-| 10 | **Bingsu** (shaved ice dessert) | Aug 23 COEX, Sep 5 Jeju — perfect afternoon treat |
+| 10 | **Bingsu** (shaved ice dessert) | Aug 23 COEX, Sep 4 Jeju & Sep 5 Seoul return — perfect afternoon treat |
 
 ### ⚠️ Pork-Free Ordering Guide
 You don't eat pork. Foods to actively skip:
@@ -330,30 +341,17 @@ You don't eat pork. Foods to actively skip:
 </details>
 
 <details>
-<summary><b>🏆 Korea Must-Dos: Gap Analysis</b></summary>
+<summary><b>📌 Remaining To Decide</b></summary>
 
-> **Based on:** VisitKorea, Lonely Planet, Wikipedia tourism data, VisitSeoul official listings
+- **Sep 6 & Sep 7 day trips:** Pick one per day, don't repeat. Best combo: **Incheon Grand Park** (Sep 6) + **Suwon Hwaseong Fortress** (Sep 7). Both kid-friendly and not exhausting.
+- **Hanbok rental:** Kids love dressing up! Book ahead ([Juwon Hanbok](https://juwonhanbok.com/) or [Noryangjin Hanbok Village](https://en.wikipedia.org/wiki/Noryangjin)). Already covered Sep 6 Gyeongbokgung free entry by wearing one.
 
-### ✅ Already Covered (Impressively Thorough)
-Your plan already includes most of the big hits: Gyeongbokgung Palace, Lotte World, DMZ, COEX Starfield Library, Gamcheon Culture Village, Haedong Yonggungsa Temple, Seongsan Ilchulbong, Manjanggul Cave, Bulguksa Temple + Seokguram, Gwangjang Market, Namdaemun Market, Bukchon Hanok Village, Seoul Children's Museum, National Museum of Korea, National Children's Science Center, Aqua Planet Jeju, and much more.
-
-### 🔍 Notable Must-Dos Missing
-
-| Attraction | City | When | Notes |
-|---|---|---|---|
-| **N Seoul Tower (Namsan)** | Seoul | Aug 27 afternoon — after Gwangjang Market, before DDP | **#1 Seoul landmark.** Panoramic city views, cable car ride up. Kids love it. ~2 hours. |
-| **Changdeokgung Palace + Secret Garden** | Seoul | Aug 26 morning — after Gyeongbokgung (10-min walk) | UNESCO site, most beautiful Korean palace. Secret garden needs advance booking. Closed Wednesdays. |
-| **Cheonggyecheon Stream** | Seoul | Aug 27 evening — walk after Gwangjang Market | Restored stream through downtown. Kid-friendly fountains & bridges. Near Myeongdong. |
-| **Incheon Grand Park** | Incheon | Sep 7 day trip — pick Incheon from TBD list | Zoo + aquarium + outlet shopping. Best family option for the TBD day trip. |
-
-### 📌 Decisions To Make
-- **Sep 7 day trip:** Suwon, Incheon, or Jeonju/Gangneung — not finalized. **Recommendation: Incheon** (zoo + aquarium + shopping for kids)
-- **Hanbok rental:** Mentioned as making Gyeongbokgung free but never scheduled! Kids love dressing up. Book ahead ([Juwon Hanbok](https://juwonhanbok.com/) or [Noryangjin Hanbok Village](https://en.wikipedia.org/wiki/Noryangjin))
-
-### 🏆 Top 3 To Add
-1. **N Seoul Tower** on Aug 27 — fits naturally after Gwangjang Market and before DDP
-2. **Changdeokgung Palace** on Aug 26 morning — 10-min walk from Gyeongbokgung, same block
-3. **Cheonggyecheon Stream** walk on Aug 27 evening — easy add-on near Myeongdong/Gwangjang
+- **Remaining must-dos:** Place these in the original Seoul week (ideally Aug 27 Thu — all fit into a single afternoon/evening near DDP/Gwangjang/Insadong cluster, walkable):
+  - **Deoksugung Palace** — Wed~Fri+Sun 09:00–18:00; ₩1,000/adult; Free kids. Historic grounds with mixed Korean/Western architecture. *Spend ~1.5 hr.* Place after Aug 27 science center or lunch break.
+  - **Myeongdong Cathedral** — Open dawn–dusk; Free. Gothic cathedral in the middle of the city; peaceful courtyard for kids to run around. *Spend ~30–45 min.* Between Deoksugung and Changdeokgung on the loop (~10 min walk).
+  - **Changdeokgung Palace + Secret Garden** — Tue,Thu–Sun 09:00–18:00 (closed Wed); ₩3,000/adult; Free kids. UNESCO crown jewel of Joseon palaces. ⚠️ **Secret Garden tour requires advance reservation** at `changdeokgung.org` or call on-site — tours every 30 min, 45 min guided walk. *Spend ~1.5 hr.* Place late morning after Deoksugung/Myeongdong (~10 min walk uphill).
+  - **Insadong Street** — Open dawn–dusk; Free. Traditional crafts shops, paper museums, calligraphy for kids, souvenir shopping. Walkable from DDP/Gwangjang area ~10 min uphill. *Spend ~1–1.5 hr.* Place in late afternoon after Changdeokgung.
+  - **N Seoul Tower (Namsan)** — ~09:00–23:00; Cable car ₩13,000/adult; ₩7,500/kid. Panoramic city views with cable car — great for kids. *Spend ~2–3 hr.* Best placed late afternoon/evening after the palace loop (walkable from Jongro ~15 min by taxi).
 
 </details>
 
