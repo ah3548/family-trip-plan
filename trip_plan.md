@@ -1,7 +1,15 @@
 # Trip Plan: New York to Seoul (Family Edition)
 
-<details>
-<summary><b>Flight Itinerary: International Arrival (Aug 20 - Aug 22)</b></summary>
+<details><summary><b>Trip Overview</b></summary>
+
+✈️ JFK→AUH→ICN     🏙️ Seoul         🌊 Busan          🏝️ Jeju        🏙️ Seoul   🛫 Home
+[══════]════[████████████████████][██████████████][█████████████][████████████][════]
+Aug 20-21       Aug 22-28         Aug 29-Sep 1      Sep 2-4        Sep 5-7     Sep 8
+
+</details>
+
+
+<details><summary><b>Flight Itinerary: International Arrival (Aug 20 - Aug 22)</b></summary>
 
 ### Departure: Thursday, August 20, 2026
 **Leg 1: JFK -> AUH**
