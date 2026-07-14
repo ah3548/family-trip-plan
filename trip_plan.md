@@ -237,12 +237,12 @@ All operating hours have been verified against the itinerary — no conflicts fo
 
 | Category | Cost | Notes |
 |----------|------|-------|
-| 🏨 Accommodations (17 nights) | $3,400 | $200/night avg |
-| 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX, domestic flights, car ~$350 + fuel |
-| 🎟 Seoul attractions (~10 days) | ~$274 | Children's Museum $44 · Lotte World $172 · DMZ $80 · Science Ctr $6 · Gyeongbokgung free ($8) |
-| 🎟 Busan/Gyeongju attractions (~3 days) | ~$66 | Songdo Cable Car $30 · Bulguksa+Seokguram $18 · Seongsan Ilchulbong $16 |
-| 🎟 Jeju attractions (~4 days) | ~$345 | Aqua Planet $93 · Hallim Park $90 · Snoopy Garden $43 · Sheep Riding $75 · Manjanggul Cave $36 · Teddy Bear Museum $16 |
-| 🍽 Food (~18 days × 4 people) | $900–1,200 | ₩150K–250K/day incl. markets + sit-down meals |
+| 🏨 Accommodations (17 nights) | $3,400 | 2x Fully Mini × 6n · 3x GnB × 3n · 11x Areumdaun<br>~$200/night average |
+| 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX Seoul→Busan (~₩60K/person)<br>Domestic: PUS→CJU + CJU→GMP (~$300/family × 2)<br>Rental car ~$350 (incl. fuel)<br>Local transit (AREX, buses, ferries) |
+| 🎟 Seoul attractions (~10 days) | ~$274 | Children's Museum ₩15K × 4 (~$44)<br>Lotte World ₩62K adt/₩47K child (~$172)<br>DMZ ₩55K × 2 adults (~$80)<br>Science Ctr ₩3K × 4 (~$6) · Gyeongbokgung free w/Hanbok (~$8 optional) |
+| 🎟 Busan/Gyeongju attractions (~3 days) | ~$66 | Songdo Cable Car ₩10K × 4 (~$30)<br>Bulguksa ₩5K + Seokguram ₩4K × 4 (~$18)<br>Seongsan Ilchulbong ₩5K × 4 (~$16) |
+| 🎟 Jeju attractions (~4 days) | ~$345 | Aqua Planet ₩42K adt/₩35K child × 2 (~$93)<br>Hallim Park ₩30K × 4 (~$90)<br>Snoopy Garden ₩18K adt/₩12K child × 2 (~$43)<br>Sheep Riding ₩30K avg × 4 (~$75)<br>Manjanggul Cave ₩12K × 4 (~$36) · Teddy Bear Museum ₩8K adt/₩6K child × 2 (~$16) |
+| 🍽 Food (~18 days × 4 people) | $900–1,200 | ₩150K–250K/day (incl. markets + street food + sit-down meals)<br>Varying per meal type, dietary restrictions noted in food guide |
 | **Total Estimate** | **~$7,935–8,335** | |
 
 <details>
