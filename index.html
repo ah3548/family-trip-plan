@@ -32,6 +32,7 @@
         .prose li::marker { color: #64748b; }
         .prose strong { color: #0f172a; font-weight: 600; }
         .prose blockquote { border-left: 3px solid #cbd5e1; padding-left: 0.75rem; font-style: italic; color: #64748b; overflow-wrap: break-word; }
+        .trip-title { font-size: 1.5rem; font-weight: 700; text-align: center; margin-bottom: 0.5rem; color: #334155; }
         .prose hr { margin: 1.5rem 0; border: 0; border-top: 1px solid #e2e8f0; }
         /* Mobile-friendly details */
         details {
@@ -82,6 +83,7 @@
             .prose strong { color: #f1f5f9; }
             .prose blockquote { border-left-color: #475569; color: #94a3b8; }
             .prose hr { border-top-color: #334155; }
+            .trip-title { color: #cbd5e1; }
             .prose table { background-color: #1e293b; color: #e2e8f0; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: nowrap; width: 100%; }
             .prose table { border-collapse: collapse; border-spacing: 0; }
             .prose th { background-color: #334155; font-weight: 600; color: #cbd5e1; border-bottom: 2px solid #475569; }
@@ -136,121 +138,75 @@
 <body class="antialiased">
 
     <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-10">
-        <header class="mb-6 text-center">
-            <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-                🇰🇷 Family Adventure: Korea
-            </h1>
-            <p class="mt-2 text-base text-slate-600">
-                Everything you need to know for our trip from NY to Seoul.
-            </p>
-        </header>
+        <h1 class="trip-title">🇰🇷 Family Trip: Korea</h1>
 
         <!-- Trip Overview — always visible, not folding -->
         <div class="mb-4 dark-calendar" style="background:white;padding:0.75rem;border-radius:0.5rem;box-shadow:0 1px 2px 0 rgb(0 0 0 / 0.08);border:1px solid #e2e8f0;">
-            <div style="font-weight:700;color:#2563eb;padding:0.25rem 0;font-size:14px;">🗺️ Trip Overview</div>
+
 
             <!-- Animated timeline — segment lengths proportional to days spent -->
             <div style="margin-top:0.85rem;margin-bottom:0.85rem;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px;">
-                <svg viewBox="0 0 610 52" style="width:100%;min-width:340px;height:auto;" xmlns="http://www.w3.org/2000/svg">
+                <svg viewBox="-34 0 678 52" style="width:100%;min-width:340px;height:auto;" xmlns="http://www.w3.org/2000/svg">
                     <!-- No background line. Only colored sections connected end-to-end (no gaps). -->
                     <!-- Proportions: 2d flight, 6d Seoul, 4d Busan, 3d Jeju, 3d Seoul-return = 18d total -->
                     <g>
-                        <!-- Flight (2d = ~58px) -->
-                        <rect x="14" y="24" width="58" height="4" rx="2" fill="#6366f1">
-                            <animate attributeName="width" from="0" to="58" dur="0.4s" begin="0s" fill="freeze"/>
+                        <!-- Flight (2d / 18d = 67.8px) -->
+                        <rect x="0" y="24" width="67.8" height="4" rx="2" fill="#6366f1">
+                            <animate attributeName="width" from="0" to="67.8" dur="0.4s" begin="0s" fill="freeze"/>
                         </rect>
-                        <!-- Seoul (6d = ~174px) -->
-                        <rect x="72" y="24" width="174" height="4" rx="2" fill="#3b82f6">
-                            <animate attributeName="width" from="0" to="174" dur="0.4s" begin="0.25s" fill="freeze"/>
+                        <!-- Seoul (6d / 18d = 203.3px) -->
+                        <rect x="67.8" y="24" width="203.3" height="4" rx="2" fill="#3b82f6">
+                            <animate attributeName="width" from="0" to="203.3" dur="0.4s" begin="0.25s" fill="freeze"/>
                         </rect>
-                        <!-- Busan (4d = ~116px) -->
-                        <rect x="246" y="24" width="116" height="4" rx="2" fill="#10b981">
-                            <animate attributeName="width" from="0" to="116" dur="0.4s" begin="0.5s" fill="freeze"/>
+                        <!-- Busan (4d / 18d = 135.6px) -->
+                        <rect x="271.1" y="24" width="135.6" height="4" rx="2" fill="#10b981">
+                            <animate attributeName="width" from="0" to="135.6" dur="0.4s" begin="0.5s" fill="freeze"/>
                         </rect>
-                        <!-- Jeju (3d = ~87px) -->
-                        <rect x="362" y="24" width="87" height="4" rx="2" fill="#f59e0b">
-                            <animate attributeName="width" from="0" to="87" dur="0.4s" begin="0.75s" fill="freeze"/>
+                        <!-- Jeju (3d / 18d = 101.7px) -->
+                        <rect x="406.7" y="24" width="101.7" height="4" rx="2" fill="#f59e0b">
+                            <animate attributeName="width" from="0" to="101.7" dur="0.4s" begin="0.75s" fill="freeze"/>
                         </rect>
-                        <!-- Seoul-return (3d = ~87px) — departs Sep 8 -->
-                        <rect x="449" y="24" width="87" height="4" rx="2" fill="#8b5cf6">
-                            <animate attributeName="width" from="0" to="87" dur="0.4s" begin="1.0s" fill="freeze"/>
+                        <!-- Seoul-return (3d / 18d = 101.7px) — departs Sep 8 -->
+                        <rect x="508.4" y="24" width="101.7" height="4" rx="2" fill="#3b82f6">
+                            <animate attributeName="width" from="0" to="101.7" dur="0.4s" begin="1.0s" fill="freeze"/>
                         </rect>
                     </g>
 
                     <!-- nodes — at each transition point -->
                     <!-- ✈️ Aug 20–21: departure -->
-                    <circle cx="14" cy="26" r="5" fill="#6366f1"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0s" fill="freeze"/></circle>
-                    <text x="14" y="40" text-anchor="middle" font-size="7" fill="#64748b" font-family="system-ui">✈️ Aug 20–21</text>
+                    <circle cx="0" cy="26" r="5" fill="#6366f1"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0s" fill="freeze"/></circle>
+                    <text x="0" y="40" text-anchor="middle" font-size="7" fill="#64748b" font-family="system-ui">✈️ Aug 20–21</text>
 
                     <!-- Seoul (start of blue) -->
-                    <circle cx="72" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.25s" fill="freeze"/></circle>
-                    <text x="72" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
-                    <text x="72" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
+                    <circle cx="67.8" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.25s" fill="freeze"/></circle>
+                    <text x="67.8" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
+                    <text x="67.8" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
 
                     <!-- ✈️ Aug 29 above Busan dot -->
-                    <circle cx="246" cy="26" r="5" fill="#10b981"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.5s" fill="freeze"/></circle>
-                    <text x="246" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Aug 29</text>
-                    <text x="246" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🌊</text>
-                    <text x="246" y="40" text-anchor="middle" font-size="7.5" fill="#10b981" font-weight="bold" font-family="system-ui">Busan</text>
+                    <circle cx="271.1" cy="26" r="5" fill="#10b981"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.5s" fill="freeze"/></circle>
+                    <text x="271.1" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Aug 29</text>
+                    <text x="338.9" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🌊</text>
+                    <text x="338.9" y="40" text-anchor="middle" font-size="7.5" fill="#10b981" font-weight="bold" font-family="system-ui">Busan</text>
 
                     <!-- ✈️ Sep 2 above Jeju dot -->
-                    <circle cx="362" cy="26" r="5" fill="#f59e0b"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.75s" fill="freeze"/></circle>
-                    <text x="362" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 2</text>
-                    <text x="362" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏝️</text>
-                    <text x="362" y="40" text-anchor="middle" font-size="7.5" fill="#f59e0b" font-weight="bold" font-family="system-ui">Jeju</text>
+                    <circle cx="406.7" cy="26" r="5" fill="#f59e0b"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.75s" fill="freeze"/></circle>
+                    <text x="406.7" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 2</text>
+                    <text x="457.5" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏝️</text>
+                    <text x="457.5" y="40" text-anchor="middle" font-size="7.5" fill="#f59e0b" font-weight="bold" font-family="system-ui">Jeju</text>
 
                     <!-- ✈️ Sep 5 above Seoul-return dot -->
-                    <circle cx="449" cy="26" r="5" fill="#8b5cf6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.0s" fill="freeze"/></circle>
-                    <text x="449" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 5</text>
-                    <text x="449" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
-                    <text x="449" y="40" text-anchor="middle" font-size="7.5" fill="#8b5cf6" font-weight="bold" font-family="system-ui">Seoul</text>
+                    <circle cx="508.4" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.0s" fill="freeze"/></circle>
+                    <text x="508.4" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 5</text>
+                    <text x="559.2" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
+                    <text x="559.2" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
 
                     <!-- departure at end of Seoul-return segment -->
-                    <circle cx="536" cy="26" r="5" fill="#ef4444"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.25s" fill="freeze"/></circle>
-                    <text x="536" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🛫</text>
-                    <text x="536" y="40" text-anchor="middle" font-size="7.5" fill="#ef4444" font-weight="bold" font-family="system-ui">Sep 8</text>
+                    <circle cx="610.1" cy="26" r="5" fill="#ef4444"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.25s" fill="freeze"/></circle>
+                    <text x="610.1" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🛫</text>
+                    <text x="610.1" y="40" text-anchor="middle" font-size="7.5" fill="#ef4444" font-weight="bold" font-family="system-ui">Sep 8</text>
                 </svg>
             </div>
 
-            <!-- Key stats -->
-            <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin-bottom:0.65rem;">
-                <div class="ob-card" style="padding:6px 8px;border-radius:6px;text-align:center;border-width:1px;border-style:solid;">
-                    <div class="ob-stat-lg" style="font-size:16px;font-weight:700;">18 days</div>
-                    <div class="ob-stat-sm" style="font-size:10px;">Aug 22 – Sep 8</div>
-                </div>
-                <div class="ob-card" style="padding:6px 8px;border-radius:6px;text-align:center;border-width:1px;border-style:solid;">
-                    <div class="ob-stat-lg" style="font-size:16px;font-weight:700;color:#10b981;">~$7,935</div>
-                    <div class="ob-stat-sm" style="font-size:10px;">Family of 4 total</div>
-                </div>
-                <div class="ob-card" style="padding:6px 8px;border-radius:6px;text-align:center;border-width:1px;border-style:solid;">
-                    <div class="ob-stat-lg" style="font-size:16px;font-weight:700;color:#f59e0b;">4 cities</div>
-                    <div class="ob-stat-sm" style="font-size:10px;">Seoul · Busan · Jeju</div>
-                </div>
-            </div>
-
-            <!-- Budget breakdown -->
-            <div class="ob-budget" style="padding:6px 8px;border-radius:6px;border-width:1px;border-style:solid;margin-bottom:0.5rem;">
-                <div class="ob-budget-header" style="font-size:10px;font-weight:700;margin-bottom:4px;cursor:pointer;" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none';this.textContent=this.textContent.includes('Hide')?'Budget ▾':'Budget ▸'">
-                    💰 Budget ▸ breakdown
-                </div>
-                <div style="font-size:10px;display:none;">
-                    <div style="display:flex;justify-content:space-between;margin:2px 0;"><span>🏨 Accommodations</span><strong class="ob-budget-val" style="font-weight:700;">$3,400</strong></div>
-                    <div style="display:flex;justify-content:space-between;margin:2px 0;"><span>✈️ Transport</span><strong class="ob-budget-val" style="font-weight:700;">$2,300</strong></div>
-                    <div style="display:flex;justify-content:space-between;margin:2px 0;"><span>🚗 Rental Car (Jeju)</span><strong class="ob-budget-val" style="font-weight:700;">$350</strong></div>
-                    <div style="display:flex;justify-content:space-between;margin:2px 0;"><span>🎟️ Attractions</span><strong class="ob-budget-val" style="font-weight:700;">~$685</strong></div>
-                    <div style="display:flex;justify-content:space-between;margin:2px 0;"><span>🍽️ Food (~18 days)</span><strong class="ob-budget-val" style="font-weight:700;">~$1,200</strong></div>
-                </div>
-            </div>
-
-            <!-- Remaining decisions -->
-            <div class="ob-warn" style="padding:6px 8px;border-radius:6px;border-width:1px;border-style:solid;">
-                <div class="ob-warn-title" style="font-size:10px;font-weight:700;">📌 Remaining To Decide</div>
-                <ul class="ob-warn-text" style="margin:3px 0 0 14px;font-size:10px;line-height:1.5;">
-                    <li><strong>Sep 6–7 day trips</strong> → Incheon Grand Park + Suwon Fortress</li>
-                    <li><strong>Hanbok rental</strong> — for free Gyeongbokgung entry on Sep 6</li>
-                    <li><strong>Jeju→Seoul flight</strong> — book by Aug 29, weekend fills fast</li>
-                </ul>
-            </div>
         </div>
 
         <style>
@@ -270,13 +226,13 @@
                 .dark-calendar svg text[fill="#3b82f6"],
                 .dark-calendar svg text[fill="#10b981"],
                 .dark-calendar svg text[fill="#f59e0b"],
-                .dark-calendar svg text[fill="#8b5cf6"],
+                .dark-calendar svg text[fill="#3b82f6"],
                 .dark-calendar svg text[fill="#ef4444"] { fill: #93c5fd !important; }
                 .dark-calendar svg line[stroke="#6366f1"] { stroke: #818cf8 !important; }
                 .dark-calendar svg circle[fill="#3b82f6"] { fill: #60a5fa !important; }
                 .dark-calendar svg circle[fill="#10b981"] { fill: #34d399 !important; }
                 .dark-calendar svg circle[fill="#f59e0b"] { fill: #fbbf24 !important; }
-                .dark-calendar svg circle[fill="#8b5cf6"] { fill: #a78bfa !important; }
+                .dark-calendar svg circle[fill="#3b82f6"] { fill: #a78bfa !important; }
                 .dark-calendar svg circle[fill="#ef4444"] { fill: #f87171 !important; }
 
                 /* Overview-box class overrides in dark mode */
