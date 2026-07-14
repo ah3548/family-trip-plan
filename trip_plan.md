@@ -41,8 +41,8 @@
   - Walk from the drop-off — ~100m (5–7 min flat walk) to the hotel (near Exit 15).
 
 - 🍽️ **Lunch:** Light meal after landing — try **bibimbap** near hotel (kids love mixing it all together!)
-- 🏨 **Hotel:** [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) — 57 Jong-ro 18gil, Jongro-gu, Seoul
-- 🍽️ **Lunch:** Light meal after landing — try **bibimbap** near hotel (kids love mixing it all together!)
+- **Hotel:** [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) — 57 Jong-ro 18gil, Jongro-gu, Seoul
+
 - **Evening:** Rest and prepare for next day
 - **Return to Hotel by 08:00 PM**
 
