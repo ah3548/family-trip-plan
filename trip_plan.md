@@ -28,7 +28,19 @@
 <summary><b>Seoul Itinerary (Aug 22 - Aug 28)</b></summary>
 
 ### Saturday, August 22, 2026
-- **Arrival:** 10:50 AM @ Seoul Incheon International Airport (ICN) — ~1h 45m to hotel by AREX + subway
+- **Arrival:** 10:50 AM @ Seoul Incheon International Airport (ICN) — two options to Fully Mini Hotel (5 Jong-ro 18-gil, Jongro-gu):
+
+  **Option A: AREX Express Train + Subway (~$7 total)** ⚡ Fastest
+  - Take **AREX Express Train** from ICN to Seoul Station — 43 min (from Terminal 1) or 51 min (Terminal 2), ~₩10,800. Book/schedule via Klook or KKday.
+  - At Seoul Station, transfer to **Subway Line 1** — 2 stops to **Jongno 3-ga Station**.
+  - Walk from **Exit 14** — short 2-minute walk to the hotel.
+
+  **Option B: Airport Limousine Bus 6002 (~$13, direct)** 🧳 Easier with kids/luggage
+  - Board at Terminal 1 (1F, Gate 5) or Terminal 2 (B1, Gate 30). Cost ~₩17,000.
+  - Ride ~1h 15min to **Jongno 3-ga Station** stop — no transfers needed.
+  - Walk from the drop-off — ~100m (5–7 min flat walk) to the hotel (near Exit 15).
+
+- 🍽️ **Lunch:** Light meal after landing — try **bibimbap** near hotel (kids love mixing it all together!)
 - 🏨 **Hotel:** [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) — 57 Jong-ro 18gil, Jongro-gu, Seoul
 - 🍽️ **Lunch:** Light meal after landing — try **bibimbap** near hotel (kids love mixing it all together!)
 - **Evening:** Rest and prepare for next day
