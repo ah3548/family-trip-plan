@@ -36,7 +36,8 @@
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00* | Free permanent exhibit | from hotel |
 | 🏛 Lat-Af | **[Children's Museum of NMK](https://www.museum.go.kr/site/eng/content/hours_and_fees)** — *Free (online reservation required for children's section)* · **spend ≈1 hr** | Free — ⚠️ reserve online at museum.go.kr | same building as NMK |
-| 🌤 PM | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) + Myeongdong street food (open 24h) — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | walk from museum area |
+| 🌤 PM | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) — *weekdays 11:00 AM–5:00 PM* + Myeongdong street food — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | walk from museum area |
+| 🔲 Lat-Af | [Deoksugung Palace](https://deoksulgung.seoul.go.kr/en/) — *09:00–18:00* · **₩1K adt, Free kids** | ₩1K/adt | 🚌 from Myeongdong ≈15m |
 | 🍽 Eve | **Dak galbi** (spicy stir-fried chicken — ask for mild) or bibimbap near hotel | est. ₩15K/person | near hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
 
@@ -62,9 +63,7 @@
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚌+subway 21m from hotel |
 | 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
-| 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories, street food) · *open ≈10:00–23:00 weekdays* | Free | from Gwangjang walkable ≈5m |
-| 🔲 Lat-Af | [Deoksugung Palace](https://deoksulgung.seoul.go.kr/en/) 09:00–18:00 ₩1K/adt · **Myeongdong Cathedral** dawn–dusk Free · [Changdeokgung + Secret Garden](https://changdeokgung.org) 09:00-18:00 ₩3K (tour req. advance res.) | ₩1K adt / Free kids / ₩3K | cluster walkable about 10m between each |
-| 🔲 Eve | [Insadong Street](https://insadong.org) dawn–dusk Free — crafts, calligraphy for kids, souvenirs | Free | from DDP 🚶10m uphill |
+| 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories) · *open ≈10:00–23:00 weekdays* | Free | 🚶5m from Gwangjang |
 | 🍽 Dinner + 🏁 | **Dinner:** Light near DDP · **Back at hotel by 20:00** | est. ₩15K/person | from DDP area |
 
 ### Fri Aug 28 🏨 [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) · Jongro-gu
