@@ -239,7 +239,9 @@ All operating hours have been verified against the itinerary — no conflicts fo
 |----------|------|-------|
 | 🏨 Accommodations (17 nights) | $3,400 | $200/night avg |
 | 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX, domestic flights, car ~$350 + fuel |
-| 🎟 Attraction fees | ~$685 | Seoul Children's Museum $44 · Lotte World $172 · Gyeongbokgung free ($8) · DMZ $80 · Songdo Cable Car $30 · Aqua Planet $93 · Hallim Park $90 · Snoopy Garden $43 · Sheep Riding $75 · Manjanggul Cave $36 · Seongsan $16 · Teddy Bear Museum $16 · Bulguksa+Seokguram $18 |
+| 🎟 Seoul attractions (~10 days) | ~$274 | Children's Museum $44 · Lotte World $172 · DMZ $80 · Science Ctr $6 · Gyeongbokgung free ($8) |
+| 🎟 Busan/Gyeongju attractions (~3 days) | ~$66 | Songdo Cable Car $30 · Bulguksa+Seokguram $18 · Seongsan Ilchulbong $16 |
+| 🎟 Jeju attractions (~4 days) | ~$345 | Aqua Planet $93 · Hallim Park $90 · Snoopy Garden $43 · Sheep Riding $75 · Manjanggul Cave $36 · Teddy Bear Museum $16 |
 | 🍽 Food (~18 days × 4 people) | $900–1,200 | ₩150K–250K/day incl. markets + sit-down meals |
 | **Total Estimate** | **~$7,935–8,335** | |
 
