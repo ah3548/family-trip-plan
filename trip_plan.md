@@ -2,11 +2,13 @@
 
 
 <details><summary><b>✈️ Outbound — Aug 20 to Aug 22 · Ref: CVZC45</b></summary>
+
 | Leg | Route | Departure → Arrival | Airline | Duration |
 |-----|-------|-------------------|---------|----------|
 | 1 | JFK → AUH | Thu 22:20 → Fri 19:20 | Etihad EY 4 (Econ Basic) | 13h |
 | ⏱ Layover | — in Abu Dhabi 1h 50m — | | | |
 | 2 | AUH → ICN | Fri 21:10 → Sat 10:50 | Etihad EY 822 (Econ Basic) | 8h 40m |
+
 </details>
 
 
@@ -116,9 +118,14 @@
 
 <details>
 <summary><b>✈️ Domestics — All TBD, book early</b></summary>
-### Wed Sep 2: [Busan (PUS)](https://share.google/OIJDBK1MEmZ3cSK3g) → Jeju (CJU), ≈10:00→11:10 (≈1h 10m) | Korean Air / Jeju Air (TBD) · est. $300 total (family)
-### Sat Sep 5: [Jeju (CJU)](https://share.google/XBSP6Cj9dHhuSMNjo) → Seoul (GMP), ≈10:00→11:10 (≈1h 10m) | Korean Air / Asiana Airlines (TBD) · est. $300 total (family)
+
+| Leg | Route | Departure → Arrival | Airline | Duration |
+|-----|-------|-------------------|---------|----------|
+| 1 | **[Busan (PUS)](https://share.google/OIJDBK1MEmZ3cSK3g)** → Jeju (CJU) | Wed Sep 2: ≈10:00 → ≈11:10 | Korean Air / Jeju Air (TBD) · est. $300/family | ≈1h 10m |
+| 2 | **[Jeju (CJU)](https://share.google/XBSP6Cj9dHhuSMNjo)** → Seoul (GMP) | Sat Sep 5: ≈10:00 → ≈11:10 | Korean Air / Asiana Airlines (TBD) · est. $300/family | ≈1h 10m |
+
 > ⚠️ **Jeju→Seoul flight:** Book by Aug 29 at latest — flights fill up fast for weekend departures
+
 </details>
 
 
@@ -165,11 +172,13 @@
 | 🌤 Lat-Af | **Flight Jeju → Seoul (Gimpo GMP)** — depart ≈10:00, arrive ≈11:10 | est. $300 total (family) | ✈️ ≈1h 10m |
 
 🏨 [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) · 57 Jong-ro 18gil, Jongro-gu, Seoul · 🚌≈1h 18m from GMP to hotel
+
 </details>
 
 
 <details>
 <summary><b>Seoul Return (Sep 5 - Sep 8)</b></summary>
+
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 
 ### Sat Sep 5 🏨 [Fully Mini Hotel](https://share.google/XBSP6Cj9dHhuSMNjo) · Jongro-gu, Seoul
@@ -198,15 +207,18 @@
 |------|----------|---------------|---------|
 | ☀️ AM | Breakfast + last-minute souvenir shopping in Myeongdong — **egg bread, corn dog** as snack souvenirs | est. ₩10K/person | from hotel |
 | 🌤 PM | Travel to Incheon Airport (ICN) for departure ⚠️ check-in 15:30 | ≈₩50K (≈$40) total | 🚌+AREX ≈1h 45m from Jongro-gu |
+
 </details>
 
 
 <details><summary><b>✈️ Return — Sep 8 to Sep 9 · Ref: CVZC45</b></summary>
+
 | Leg | Route | Departure → Arrival | Airline | Duration |
 |-----|-------|-------------------|---------|----------|
 | 1 | ICN → AUH | Tue 17:45 → Tue 23:00 | Etihad EY 823 (Econ Basic) | 10h 15m |
 | ⏱ Layover | — in Abu Dhabi 3h 35m — | | | |
 | 2 | AUH → JFK | Wed 02:35 → Wed 08:35 | Etihad EY 1 (Econ Basic) | 14h |
+
 </details>
 
 
