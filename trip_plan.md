@@ -76,10 +76,11 @@
 
 
 <details>
-<summary><b>Busan & Gyeongju (Aug 29 - Sep 1)</b></summary>
+<summary><b>Busan & Gyeongju (Aug 29 - Sep 1) · 🏨 GnB Hotel</b></summary>
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
+> 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
-### Sat Aug 29 🏨 [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) · 19 Heukgyo-ro, Jung-gu, Busan
+### Sat Aug 29 📍 Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
@@ -89,7 +90,7 @@
 | 🏁 | **Back at hotel by 20:00** | | |
 
 
-### Sun Aug 30 🏨 [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) · Jung-gu, Busan
+### Sun Aug 30 📍 Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* | Free (entry) / ₩17K taxi (per person, shared family ride) | 🚕 ~45m from hotel
@@ -99,7 +100,7 @@
 | 🏁 | **Back at hotel by 20:00** | | |
 > ⚡ **If running 60+ min behind:** Skip Songjeong Beach. After Blueline Park/Sky Capsule, head straight to Gwangalli — it's the higher-priority evening regardless.
 
-### Mon Aug 31 🏨 [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) · Jung-gu, Busan
+### Mon Aug 31 📍 Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* open to 18:00 | Free (suggest tip) | 🚶30m mostly uphill |
@@ -122,11 +123,11 @@
 
 
 <details>
-<summary><b>Jeju Island (Sep 2 - Sep 5)</b></summary>
+<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 Areumdaun Resort</b></summary>
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted. 🚗 Rental car (≈$350 incl. fuel)
+> 📍 <a href="https://share.google/XBSP6Cj9dHhuSMNjo">Areumdaun Resort</a> · Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do
 
 ### Wed Sep 2 ✈️ PUS→CJU ≈10:00 → Arrive CJU ≈11:10 → Pick up rental car (≈30 min)
-🏨 [Areumdaun Resort](https://share.google/XBSP6Cj9dHhuSMNjo) · Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do | 🚗 28 mi /about 45m coastal drive to resort
 
 | Time | Activity | Cost (person) | Duration |
 |------|----------|---------------|----------|
