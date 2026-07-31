@@ -11,10 +11,11 @@
 
 
 <details>
-<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8)</b></summary>
+<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 SSH Ikseon Peter Cat Hostel</b></summary>
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
+> 📍 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
 
-### Sat Aug 22 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
+### Sat Aug 22 📍 Jongno-gu, Seoul
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ AM | Arrive ICN 10:50 → Hotel. **Jongno-gu location:** AREX Rapid (non-stop) ≈43m + subway transfer ≈7m + walk ≈8m ≈1h total (≈₩6.8K) OR Limousine Bus from ICN T1 basement ≈₩17K, no transfers, drop right at hotel area | est. $7–13 | AREX+walk ≈1h or limo bus ≈1h 15m (no transfers) |
@@ -164,9 +165,10 @@
 
 
 <details>
-<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8)</b></summary>
+<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 SSH Ikseon Peter Cat Hostel</b></summary>
 
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
+> 📍 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu, Seoul
 
 ### Sat Sep 5 📍 Jongno-gu, Seoul
 | Time | Activity | Cost (person) | Transit from Prev |
