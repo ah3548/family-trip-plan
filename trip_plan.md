@@ -166,16 +166,16 @@
 
 
 <details>
-<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 SSH Ikseon Peter Cat Hostel</b></summary>
+<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 Myeongdong New Stay Inn</b></summary>
 
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
-> 📍 <a href="https://share.google/ttOCu4ayAyoiiLgA8">SSH Ikseon Peter Cat Hostel</a> · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
+> 📍 <a href="https://maps.google.com/?q=14+Supyo-ro,+Jung-gu,+Seoul">Myeongdong New Stay Inn</a> · 14 Supyo-ro, Jung-gu, Seoul (Myeongdong)
 
-### Sat Sep 5 📍 Jongno-gu, Seoul
+### Sat Sep 5 📍 Myeongdong, Seoul
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
-| 🌤 Lat-Af | [Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower) cable car ride up w/panoramic views — *great for kids, open to ≈23:00* | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Jongno → hotel drop-off |
+| 🌤 Lat-Af | [Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower) cable car ride up w/panoramic views — *great for kids, open to ≈23:00* | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
 | 🍽 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
 
 ### Sun Sep 6 — Day Trip Choice (pick one)
@@ -190,11 +190,11 @@
 | ☀️ Full day | 🔲 **If chose Incheon → try Suwon** OR neighborhood exploration + **Final Korean BBQ feast:** Hanwoo galbi/chadolbaegi splurge! + souvenir shopping | est. ₩30–50K/person | from hotel area |
 | 🍽 Dinner + 🏁 | **Dinner:** Final Korean BBQ feast — beef short ribs (galbi), brisket (chadolbaegi) · **Back by 20:00** | included in activity | from shopping area |
 
-### Tue Sep 8 📍 Jongno-gu, Seoul
+### Tue Sep 8 📍 Myeongdong, Seoul
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ AM | Breakfast + last-minute souvenir shopping in Myeongdong — **egg bread, corn dog** as snack souvenirs | est. ₩10K/person | from hotel |
-| 🌤 PM | Travel to Incheon Airport (ICN) for departure ⚠️ check-in 15:30 | ≈₩50K (≈$40) total | 🚌+AREX ≈1h 45m from Jongno-gu |
+| 🌤 PM | Travel to Incheon Airport (ICN) for departure ⚠️ check-in 15:30 | ≈₩50K (≈$40) total | 🚌+AREX ≈1h 45m from Myeongdong |
 
 </details>
 
