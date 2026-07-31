@@ -14,14 +14,14 @@
 <summary><b>Seoul Itinerary (Aug 22 - Aug 28)</b></summary>
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 
-### Sat Aug 22 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Sat Aug 22 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ AM | Arrive ICN 10:50 → Hotel. **Pickup via new hotel share:** ≈₩10.8K (≈$7, 43m) OR Limousine Bus ≈₩17K (≈$13, direct, 1h 15m) | est. $7–13 | AREX 43m or bus 1h 15m |
+| ☀️ AM | Arrive ICN 10:50 → Hotel. **Jongno-gu location:** AREX Rapid (non-stop) ≈43m + subway transfer ≈7m + walk ≈8m ≈1h total (≈₩6.8K) OR Limousine Bus from ICN T1 basement ≈₩17K, no transfers, drop right at hotel area | est. $7–13 | AREX+walk ≈1h or limo bus ≈1h 15m (no transfers) |
 | 🍽 Lunch | Light meal — **bibimbap** near hotel (kids love mixing it!) | est. ₩10K | from hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Sun Aug 23 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Sun Aug 23 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Seoul Children's Museum](https://www.seoulchildrensmuseum.org/eng/) + [Grand Park](https://grandpark.seoul.go.kr/conts/contsView/en/S00201001.do) — *open to 18:00* | ≈₩15K (≈$11) adt | 🚌 33m from hotel |
@@ -31,7 +31,7 @@
 | 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Mon Aug 24 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Mon Aug 24 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00* | Free permanent exhibit | from hotel |
@@ -41,32 +41,32 @@
 | 🍽 Eve | **Dak galbi** (spicy stir-fried chicken — ask for mild) or bibimbap near hotel | est. ₩15K/person | near hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Tue Aug 25 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Tue Aug 25 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | from hotel area |
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Wed Aug 26 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Wed Aug 26 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — *open 09:00-18:00 (Aug), **Free with Hanbok!*** | ₩3K (≈$2) if no hanbok | 🚌 19m from hotel |
 | 🍽 Lunch | **Samgyetang** (ginseng chicken soup) — restorative post-palace meal | est. ₩15K/person | near palace |
-| 🌤 PM | [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) + [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — *open to 21:00* | Free (both) — **dosirak lunch** at Tongin (buy coins, pick items) | 🚶30m from palace → 🚶15m uphill |
+| 🌤 PM | [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) + [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — *open to 21:00* | Free (both) — **dosirak lunch** at Tongin (buy coins, pick items) | 🚶15m from palace → 🚶15m uphill |
 | 🔲 Lat-Af | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · Free — crafts, art galleries, paper museums, calligraphy for kids, souvenirs · **spend ≈1–1.5 hr** | Free | 🚌20m to Anguk Stn → downhill from Bukchon walkable ≈15m |
 | 🍽 Eve | Dinner near Bukchon — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon |
 | 🏁 | **Back at hotel by 20:00** · **TBD Hanbok rental:** wear for free entry — book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) | | |
 
-### Thu Aug 27 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Thu Aug 27 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚌+subway 21m from hotel |
+| ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚌+AREX+subway ~55m from hotel |
 | 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
 | 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories) · *open ≈10:00–23:00 weekdays* | Free | 🚶5m from Gwangjang |
 | 🍽 Dinner + 🏁 | **Dinner:** Light near DDP · **Back at hotel by 20:00** | est. ₩15K/person | from DDP area |
 
-### Fri Aug 28 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu
+### Fri Aug 28 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [DMZ Tour](https://dmztours.com/) — *book ≥72h in advance* ⚠️ **Book by Aug 19** | ≈₩55K (≈$40) adt; kids vary | 🚌+tour bus ≈1–1.5h north to Goyang area |
@@ -168,7 +168,7 @@
 
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 
-### Sat Sep 5 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongro-gu, Seoul
+### Sat Sep 5 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu, Seoul
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
@@ -187,11 +187,11 @@
 | ☀️ Full day | 🔲 **If chose Incheon → try Suwon** OR neighborhood exploration + **Final Korean BBQ feast:** Hanwoo galbi/chadolbaegi splurge! + souvenir shopping | est. ₩30–50K/person | from hotel area |
 | 🍽 Dinner + 🏁 | **Dinner:** Final Korean BBQ feast — beef short ribs (galbi), brisket (chadolbaegi) · **Back by 20:00** | included in activity | from shopping area |
 
-### Tue Sep 8 🏨 [Fully Mini Hotel](https://share.google/ttOCu4ayAyoiiLgA8)
+### Tue Sep 8 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8)
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ AM | Breakfast + last-minute souvenir shopping in Myeongdong — **egg bread, corn dog** as snack souvenirs | est. ₩10K/person | from hotel |
-| 🌤 PM | Travel to Incheon Airport (ICN) for departure ⚠️ check-in 15:30 | ≈₩50K (≈$40) total | 🚌+AREX ≈1h 45m from Jongro-gu |
+| 🌤 PM | Travel to Incheon Airport (ICN) for departure ⚠️ check-in 15:30 | ≈₩50K (≈$40) total | 🚌+AREX ≈1h 45m from Jongno-gu |
 
 </details>
 
@@ -234,7 +234,7 @@ All operating hours have been verified against the itinerary — no conflicts fo
 
 | Category | Cost | Notes |
 |----------|------|-------|
-| 🏨 Accommodations (17 nights) | $3,400 | 2x Fully Mini × 6n · 3x GnB × 3n · 11x Areumdaun<br>≈$200/night average |
+| 🏨 Accommodations (17 nights) | $3,400 | 2x SSH Peter Cat × 6n · 3x GnB × 3n · 11x Areumdaun<br>≈$200/night average |
 | 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX Seoul→Busan (≈₩60K/person)<br>Domestic: PUS→CJU + CJU→GMP (≈$300/family × 2)<br>Rental car ≈$350 (incl. fuel)<br>Local transit (AREX, buses, ferries) |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Children's Museum ₩15K × 4 (≈$44)<br>Lotte World ₩62K adt/₩47K child (≈$172)<br>DMZ ₩55K × 2 adults (≈$80)<br>Science Ctr ₩3K × 4 (≈$6) · Gyeongbokgung free w/Hanbok (≈$8 optional) |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Songdo Cable Car ₩10K × 4 (≈$30)<br>Bulguksa ₩5K + Seokguram ₩4K × 4 (≈$18)<br>Seongsan Ilchulbong ₩5K × 4 (≈$16) |
