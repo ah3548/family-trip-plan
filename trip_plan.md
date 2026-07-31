@@ -36,7 +36,7 @@
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00* | Free permanent exhibit | from hotel |
 | 🏛 Lat-Af | **[Children's Museum of NMK](https://www.museum.go.kr/site/eng/content/hours_and_fees)** — *Free (online reservation required for children's section)* · **spend ≈1 hr** | Free — ⚠️ reserve online at museum.go.kr | same building as NMK |
-| 🌤 PM | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) — *weekdays 11:00 AM–5:00 PM* + Myeongdong street food — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | walk from museum area |
+| 🌤 PM | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) — *weekdays 11:00 AM–5:00 PM* + Myeongdong street food — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | 🚇 subway/taxi from NMK area |
 | 🔲 Lat-Af | [Deoksugung Palace](https://deoksulgung.seoul.go.kr/en/) — *09:00–18:00* · **₩1K adt, Free kids** | ₩1K/adt | 🚌 from Myeongdong ≈15m |
 | 🍽 Eve | **Dak galbi** (spicy stir-fried chicken — ask for mild) or bibimbap near hotel | est. ₩15K/person | near hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
@@ -44,7 +44,7 @@
 ### Tue Aug 25 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | from hotel area |
+| ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | 🚇Line 1→2 ≈35–40m to Olympic Park Stn |
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | **Back at hotel by 20:00** | | |
 
@@ -54,14 +54,14 @@
 | ☀️ AM | [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — *open 09:00-18:00 (Aug), **Free with Hanbok!*** | ₩3K (≈$2) if no hanbok | 🚌 19m from hotel |
 | 🍽 Lunch | **Samgyetang** (ginseng chicken soup) — restorative post-palace meal | est. ₩15K/person | near palace |
 | 🌤 PM | [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) + [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — *open to 21:00* | Free (both) — **dosirak lunch** at Tongin (buy coins, pick items) | 🚶15m from palace → 🚶15m uphill |
-| 🔲 Lat-Af | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · Free — crafts, art galleries, paper museums, calligraphy for kids, souvenirs · **spend ≈1–1.5 hr** | Free | 🚌20m to Anguk Stn → downhill from Bukchon walkable ≈15m |
+| 🔲 Lat-Af | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · Free — crafts, art galleries, paper museums, calligraphy for kids, souvenirs · **spend ≈1–1.5 hr** | Free | 🚶15m downhill from Bukchon
 | 🍽 Eve | Dinner near Bukchon — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon |
 | 🏁 | **Back at hotel by 20:00** · **TBD Hanbok rental:** wear for free entry — book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) | | |
 
 ### Thu Aug 27 🏨 [SSH Ikseon Peter Cat Hostel](https://share.google/ttOCu4ayAyoiiLgA8) · Jongno-gu
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚌+AREX+subway ~55m from hotel |
+| ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚶10–15m or subway from hotel |
 | 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
 | 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories) · *open ≈10:00–23:00 weekdays* | Free | 🚶5m from Gwangjang |
 | 🍽 Dinner + 🏁 | **Dinner:** Light near DDP · **Back at hotel by 20:00** | est. ₩15K/person | from DDP area |
