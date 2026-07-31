@@ -84,40 +84,38 @@
 | ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
 | 🌤 PM | [Huinnyeoul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) + [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) + Jeoryeong Coastal Trail — *Village weekends 10:00-20:00, Free entry* | 🚌30–45m from hotel |
 | 🍽 Lunch | Light meal after arrival — **bibimbap** near hotel (book via [Klook](https://www.klook.com) or [KKday](https://www.kkday.com)) | est. ₩10K/person | from hotel area |
-| 🔲 | *Optional if early arrival/extra energy:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free) | Free | 🚕~10m from hotel area; easy to skip if tired |
+| 🔲 Lat-Af | *Optional if early arrival/extra energy:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free) | Free | 🚕~10m from hotel area; easy to skip if tired |
 | 🏁 | **Back at hotel by 20:00** | | |
 
 
 ### Sun Aug 30 🏨 [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) · Jung-gu, Busan
-> ⚡ **If running 60+ min behind:** Skip Songjeong Beach. After Blueline Park/Sky Capsule, head straight to Gwangalli — it's the higher-priority evening regardless.
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* | Free | 🚕 **Recommend taxi** ~₩17K (~45m with family, saves ~1h vs transit) |
 | 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + Sky Capsule (₩8–10K adt one-way). *If weather is good and everyone's up for it, continue to **Songjeong Beach** below — otherwise skip directly.* | Free (park) / ₩8–10K ride | 🚌≈1h from temple |
-| | 🔲 *Optional:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
+| 🔲 PM | *Optional:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
 | 🍽 Eve | Dinner at [Gwangalli Beach](https://en.wikipedia.org/wiki/Gwangalli_Beach) — crab, clams, grilled squid + **🎆 Drone Show: 8 PM & 10 PM (Aug/Sep)** — arrive by 6:30–7:00 PM for good spot. Best viewing: on the beach or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30m from Blueline Park/Cheongsapo area |
 | 🏁 | **Back at hotel by 20:00** | | |
+> ⚡ **If running 60+ min behind:** Skip Songjeong Beach. After Blueline Park/Sky Capsule, head straight to Gwangalli — it's the higher-priority evening regardless.
 
 ### Mon Aug 31 🏨 [GnB Hotel](https://share.google/OIJDBK1MEmZ3cSK3g) · Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* open to 18:00 | Free (suggest tip) | 🚶30m mostly uphill |
-| | [Yongdusan Park](https://en.wikipedia.org/wiki/Yongdusan_Park) — escalators up from BIFF area, free park with ocean views. 🔲 *If visibility is clear and everyone has energy:* go up to [Busan Tower](https://en.wikipedia.org/wiki/Busan_Tower) observatory (~₩3K/adult; loses appeal in haze/rain). | Free (park) / ₩3K adt (tower) | 🚶20m uphill via escalator corridor |
+| 🔲 Lat-Af | [Yongdusan Park](https://en.wikipedia.org/wiki/Yongdusan_Park) — escalators up from BIFF area, free park with ocean views. *If visibility is clear and everyone has energy:* go up to [Busan Tower](https://en.wikipedia.org/wiki/Busan_Tower) observatory (~₩3K/adult; loses appeal in haze/rain). | Free (park) / ₩3K adt (tower) | 🚶20m uphill via escalator corridor |
 | 🌤 PM | [BIFF Square](https://en.wikipedia.org/wiki/BIFF_Square) (**ssiats hotteok**) → [Gukje Market](https://en.wikipedia.org/wiki/Gukje_Market) → [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) (Korea's largest seafood market) — **seafood feast at Jagalchi** 🐟🦀 | Free (pay food) | 🚶 downhill flow ~2.5km through Nampo |
-> ⚡ **If kids are tired after Gamcheon:** Skip Yongdusan/Busan Tower, go straight to BIFF/Jagalchi for seafood lunch instead of waiting for evening dinner. End the day at Jagalchi — taxi back directly.
-
-> ⚡ **Evening optional skip:** If energy is low, do just Songdo Cable Car and skip the Cloud Walk walk. Dinner at the cable car station area.
 | 🍽 Eve | [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) ride & dinner w/ocean views — *open to 21:00* | ₩10K (≈$7.50) rt adt | from Gukje → 🚕 to Songdo |
-| | [Songdo Cloud Walk](https://en.wikipedia.org/wiki/Songdo_Cloud_Walk) — scenic coastal boardwalk from Cable Car to Turtle Island (~15 min walk), ocean views, relaxing wind-down sight | Free | Extension of Cable Car stop (walk toward Turtle Island) |
+| 🔲 Eve | [Songdo Cloud Walk](https://en.wikipedia.org/wiki/Songdo_Cloud_Walk) — scenic coastal boardwalk from Cable Car to Turtle Island (~15 min walk), ocean views, relaxing wind-down sight. *Skip if energy is low.* | Free | Extension of Cable Car stop (walk toward Turtle Island) |
 | 🏁 | **Back at hotel by 20:00** · 🚕 about 56m from Songdo | | |
+> ⚡ **If kids are tired after Gamcheon:** Skip Yongdusan/Busan Tower, go straight to BIFF/Jagalchi for seafood lunch. End at Jagalchi — taxi back directly.
+> ⚡ **Low-energy evening:** Just Songdo Cable Car, skip the Cloud Walk. Dinner at the cable car station area.
 
 ### Tue Sep 1 — Gyeongju Day Trip (from Busan)
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [Bulguksa Temple](https://en.wikipedia.org/wiki/Bulguksa) 09:00-18:00 ₩5K + [Seokguram Grotto](https://en.wikipedia.org/wiki/Seokguram) 06:30-18:00 ₩4K + [Daereungwon Tomb Complex](https://en.wikipedia.org/wiki/Daereungwon) free — **Hwangnam-ppang** (sesame bread snack) | ₩9K (≈$7) total temples | 🚗 ≈1h 30m from Busan |
-> ⚡ **If kids are worn out mid-day:** Do Bulguksa only (easier walk, more kid-friendly grounds), skip Seokguram (steep stairs to the grotto). Return to Busan via Daereungwon flat paths as a calm wind-down.
-
 | 🍽 Evening + 🏁 | **Return to Busan & Rest** | — | 🚗 ≈1h 30m from Gyeongju |
+> ⚡ **If worn out mid-day:** Do Bulguksa only (easier walk), skip Seokguram (steep stairs to the grotto). Return via Daereungwon flat paths as a calm wind-down.
 
 </details>
 
