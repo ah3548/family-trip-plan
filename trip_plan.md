@@ -15,14 +15,14 @@
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 > 📍 <a href="https://share.google/ttOCu4ayAyoiiLgA8">SSH Ikseon Peter Cat Hostel</a> · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
 
-### Sat Aug 22 📍 Jongno-gu, Seoul
+### Sat Aug 22 — **"Arrival Day — Land in Korea & Settle into Ikseon"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ AM | Arrive ICN 10:50 → Hotel. **Jongno-gu location:** AREX Rapid (non-stop) ≈43m + subway transfer ≈7m + walk ≈8m ≈1h total (≈₩6.8K) OR Limousine Bus from ICN T1 basement ≈₩17K, no transfers, drop right at hotel area | est. $7–13 | AREX+walk ≈1h or limo bus ≈1h 15m (no transfers) |
 | 🍽 Lunch | Light meal — **bibimbap** near hotel (kids love mixing it!) | est. ₩10K | from hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Sun Aug 23 📍 Jongno-gu, Seoul
+### Sun Aug 23 — **"Museums, Butterflies & the Moonlight Fountain Show"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Seoul Children's Museum](https://www.seoulchildrensmuseum.org/eng/) + [Grand Park](https://grandpark.seoul.go.kr/conts/contsView/en/S00201001.do) — *open to 18:00* | ≈₩15K (≈$11) adt | 🚌 33m from hotel |
@@ -32,7 +32,7 @@
 | 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Mon Aug 24 📍 Jongno-gu, Seoul
+### Mon Aug 24 — **"Palaces, Namdaemun Market & Myeongdong Street Food Crawl"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00* | Free permanent exhibit | from hotel |
@@ -42,14 +42,14 @@
 | 🍽 Eve | **Dak galbi** (spicy stir-fried chicken — ask for mild) or bibimbap near hotel | est. ₩15K/person | near hotel |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Tue Aug 25 📍 Jongno-gu, Seoul
+### Tue Aug 25 — **"Lotte World Theme Park Day — Rides, Magic & Fireworks"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | 🚇Line 1→2 ≈35–40m to Olympic Park Stn |
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Wed Aug 26 📍 Jongno-gu, Seoul
+### Wed Aug 26 — **"Hanbok Day — Royal Palace, Bukchon Hanok Alleyways & Insa-dong Arts"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — *open 09:00-18:00 (Aug), **Free with Hanbok!*** | ₩3K (≈$2) if no hanbok | 🚌 19m from hotel |
@@ -59,7 +59,7 @@
 | 🍽 Eve | Dinner near Bukchon — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon |
 | 🏁 | **Back at hotel by 20:00** · **TBD Hanbok rental:** wear for free entry — book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) | | |
 
-### Thu Aug 27 📍 Jongno-gu, Seoul
+### Thu Aug 27 — **"Science Center & Gwangjang Market — Eat Your Way Through Food Heaven"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚶10–15m or subway from hotel |
@@ -67,7 +67,7 @@
 | 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories) · *open ≈10:00–23:00 weekdays* | Free | 🚶5m from Gwangjang |
 | 🍽 Dinner + 🏁 | **Dinner:** Light near DDP · **Back at hotel by 20:00** | est. ₩15K/person | from DDP area |
 
-### Fri Aug 28 📍 Jongno-gu, Seoul
+### Fri Aug 28 — **"DMZ Day — History, Tension & Border Landmarks"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [DMZ Tour](https://dmztours.com/) — *book ≥72h in advance* ⚠️ **Book by Aug 19** | ≈₩55K (≈$40) adt; kids vary | 🚌+tour bus ≈1–1.5h north to Goyang area |
@@ -80,7 +80,7 @@
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 > 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
-### Sat Aug 29 📍 Jung-gu, Busan
+### Sat Aug 29 — **"KTX to the Sea — Arrival, Dongbaek Coast & Gwangalli Beach Show"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
@@ -90,7 +90,7 @@
 | 🏁 | **Back at hotel by 20:00** (or later with drone show) | | |
 
 
-### Sun Aug 30 📍 Jung-gu, Busan
+### Sun Aug 30 — **"Ocean Temple, Sky Capsule & Blueline Coast"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* — start early (8–9 AM) when light is good and crowds are thin | Free (entry) / ₩5K/person (shared taxi, split among family of 4) | 🚕 ~45 min from hotel |
@@ -99,7 +99,7 @@
 | 🍽 Eve | Dinner near Haeundae/Gwangalli area — casual seafood or Korean set menu | est. ₩15–30K/person | 🚕~20 min from Blueline Park/Songjeong area |
 | 🏁 | **Back at hotel by 20:00** · No drone show on Sundays | | |
 
-### Mon Aug 31 📍 Jung-gu, Busan
+### Mon Aug 31 — **"Gamcheon Stamp Hunt, BIFF Street Food & Songdo Cable Car at Sunset"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* **Take shuttle bus UP first**, then walk down at kids' pace. Open to 18:00 | Free (suggest tip) | 🚕~30 min from hotel |
@@ -111,7 +111,7 @@
 > ⚡ **If kids are tired after Gamcheon:** Skip Yongdusan/Busan Tower, go straight to BIFF/Jagalchi for seafood lunch. End at Jagalchi — taxi back directly.
 > ⚡ **Low-energy evening:** Just Songdo Cable Car, skip the Cloud Walk. Dinner at the cable car station area.
 
-### Tue Sep 1 — Gyeongju Day Trip (from Busan)
+### Tue Sep 1 — Gyeongju Day Trip (from Busan) — **"Bulguksa Temples, Seokguram Grotto & Ancient Silla Tombs"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [Bulguksa Temple](https://en.wikipedia.org/wiki/Bulguksa) 09:00-18:00 ₩5K + [Seokguram Grotto](https://en.wikipedia.org/wiki/Seokguram) 06:30-18:00 ₩4K + [Daereungwon Tomb Complex](https://en.wikipedia.org/wiki/Daereungwon) free — **Hwangnam-ppang** (sesame bread snack) | ₩9K (≈$7) total temples | 🚗 ≈1h 30m from Busan |
@@ -126,8 +126,7 @@
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted. 🚗 Rental car (≈$350 incl. fuel)
 > 📍 <a href="https://share.google/iVUPJ8yguvdiBzbgD">The Cordelia S</a> · Seongsan-eup, Seogwipo-si, Jeju-do
 
-### Wed Sep 2 ✈️ PUS→CJU ≈10:00 → Arrive CJU ≈11:10 → Pick up rental car (≈30 min)
-
+### Wed Sep 2 ✈️ PUS→CJU ≈10:00 → Arrive CJU ≈11:10 → Pick up rental car (≈30 min) — **"Flight to Jeju, Aqua Planet & Seongsan Ilchulbong Sunset"**
 | Time | Activity | Cost (person) | Duration |
 |------|----------|---------------|----------|
 | ☀️ AM | **Arrival + car pickup** | est. ₩35K–55K/person (flight) | ≈1h total |
@@ -136,7 +135,7 @@
 | 🌅 Eve | [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) sunset walk (climb summit = 30–40m RT + time at top) — *⚠️ **arrive by 17:00** closes ≈19:00 in Sep; advance res. req.* | ₩5K (≈$4) | 1–1.5h · 🚗10m from Seopjikoji |
 | 🍽 Dinner + 🏁 | **Dinner:** Abalone porridge + grilled mackerel near Seongsan · **Back by 20:00** · 🚗 about 15m to resort | est. ₩15K/person | from Seongsan |
 
-### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area)
+### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests & Snoopy Garden Day"**
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ AM | [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) lava tube walk (2 km) — *open to 18:00* | ₩12K (≈$9) adt | 45–60m | 🚗20m from hotel |
@@ -145,7 +144,7 @@
 | 🐎 Late-Af | Sheep/Horse Riding — **call ahead to pick a farm & confirm hours for this date** | about ₩25K-40K per ride | 30–45m | from Snoopy Garden area |
 | 🍽 Dinner + 🏁 | **Dinner:** Grilled fish east coast · **Back by 20:00** · 🚗≈15m to resort | est. ₩15K/person | from Snoopy Garden |
 
-### Fri Sep 4 — North → West Cross-Island
+### Fri Sep 4 — North → West Cross-Island — **"Hamdeok Beach Sand, Hallim Dolphins & Teddy Bear Museum"**
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ Early AM | [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) white sand, calm water — *best for kids* | Free | 1–2h | 🚗25m north from resort |
@@ -154,7 +153,7 @@
 | 🌊 Lat-Af | [Jusangjeolli Cliffs](https://www.visitjeju.net/en/detail/view?contentsid=CNTS_000000000020476) coastal columns — *coastal road toward Seogwipo* | ₩2K (≈$1.50) adt | 30–45m | 🚗≈15m from Teddy Bear Museum |
 | 🍽 Dinner + 🏁 | **Dinner:** Fresh seafood in Jungmun harbor · **Back by 20:00** · 🚗≈50m to resort | est. ₩15K/person | from Jungmun |
 
-### Sat Sep 5 ✈️ [CJU→GMP](https://share.google/XBSP6Cj9dHhuSMNjo) ≈10:00→11:10 (≈1h 10m) | Korean Air / Asiana (TBD) · est. $300 total (family)
+### Sat Sep 5 ✈️ [CJU→GMP](https://share.google/XBSP6Cj9dHhuSMNjo) ≈10:00→11:10 (≈1h 10m) | Korean Air / Asiana (TBD) · est. $300 total (family) — **"Jeju Farewell — Fly to Seoul & Namsan Tower Views"**
 | Time | Activity | Cost | Transit |
 |------|----------|------|---------|
 | ☀️ Early AM | Drop off rental car at CJU by about 08:00 | included in rental | to airport |
@@ -170,26 +169,26 @@
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 > 📍 <a href="https://maps.google.com/?q=14+Supyo-ro,+Jung-gu,+Seoul">Myeongdong New Stay Inn</a> · 14 Supyo-ro, Jung-gu, Seoul (Myeongdong)
 
-### Sat Sep 5 📍 Myeongdong, Seoul
+### Sat Sep 5 — **"Seoul Returns — Namsan Tower & Cheonggyecheon Fountains"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
 | 🌤 Lat-Af | [Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower) cable car ride up w/panoramic views — *great for kids, open to ≈23:00* | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
 | 🍽 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
 
-### Sun Sep 6 — Day Trip Choice (pick one)
+### Sun Sep 6 — Day Trip Choice (pick one) — **"Day Trip Decision — Incheon Zoo or Suwon Fortress Walk"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | 🔲 **Pick one:** Incheon Grand Park zoo+aquarium+outlets (🏆 rec for ages 4&6, ≈1h each way) OR Suwon Hwaseong Fortress UNESCO walls kids walk on + Toy Museum (≈40m by ITX) | ₩5–20K depending on choice | Incheon: 🚇≈1h · Suwon: ITX≈40m from Seoul Station |
 | 🍽 Dinner + 🏁 | **Dinner:** Casual near hotel · **Back by 20:00** | est. ₩15K/person | from day trip area |
 
-### Mon Sep 7 — Second Day Trip Choice (pick different from Sep 6)
+### Mon Sep 7 — Second Day Trip Choice (pick different from Sep 6) — **"Final Adventure — Pick-your-adventure or Neighborhood BBQ Feast"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | 🔲 **If chose Incheon → try Suwon** OR neighborhood exploration + **Final Korean BBQ feast:** Hanwoo galbi/chadolbaegi splurge! + souvenir shopping | est. ₩30–50K/person | from hotel area |
 | 🍽 Dinner + 🏁 | **Dinner:** Final Korean BBQ feast — beef short ribs (galbi), brisket (chadolbaegi) · **Back by 20:00** | included in activity | from shopping area |
 
-### Tue Sep 8 📍 Myeongdong, Seoul
+### Tue Sep 8 — **"Souvenir Sweep & Flight Home — Egg Bread Last Bite"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ AM | Breakfast + last-minute souvenir shopping in Myeongdong — **egg bread, corn dog** as snack souvenirs | est. ₩10K/person | from hotel |
