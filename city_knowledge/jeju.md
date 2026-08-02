@@ -37,10 +37,46 @@
 
 ## Where You're Staying
 
-### The Cordelia S — Seogwipo-si (Southern Jeju)
-- **Location**: Seongsan-eup, Seogwipo — near Seongsan Ilchulbong (~10m drive). Walking distance to coastal paths and the fish market.
-- **Nearest major airport**: CJU (Jeju International Airport) in northern part (~45m drive from hotel)
-- **Note**: Staying in the SOUTH means you'll want to focus on south/east attractions first, then work northward. Don't waste time driving back and forth across the island daily.
+### The Cordelia S (Jeju Cordelia S Hotel) — Seongsan-eup, Seogwipo-si
+- **Address**: 4186 Iljudong-ro, Ojo-ri, Seongsan-eup, Seogwipo-si, Jeju-do 63639
+- **Phone**: 064-783-0053 | **Website**: cordelias.co.kr
+- **Rating**: 3.5/5 Google (~2,469 reviews) — budget-tier property
+- **Room types**: Deluxe Twin, Standard Twin, Deluxe Sunrise Peak View (Seongsan Ilchulbong sunrise view rooms highly recommended for Sep 2 stay)
+- **Check-in/out**: 24-hour front desk; express check-in available
+- **Price range**: ~$21–35/night — budget-friendly compared to resort-tier Jeju properties
+- **Nearest major airport**: CJU (~50m drive)
+- **Distance to Seongsan Ilchulbong**: <10 min drive (very close for Sep 2 sunrise/sunset plans)
+- **Distance to Seopjikoji coastal path**: ~5–10 min drive from hotel
+- **Amenities**: Outdoor pool (open May 1 – Sep 30, 2026 — your dates qualify), restaurant, cafe, free WiFi, free private parking, free luggage storage, laundry facilities (extra fee), convenience store in lobby, vending machines 24h, garden
+
+#### ⚠️ CRITICAL: Towel Policy — Bring Your Own Bath Towels
+Multiple verified reviews (Google + Kayak + multiple booking sites) confirm: **The Cordelia S does NOT provide bath towels.** Only small hand towels are provided. This is common among some Jeju budget hotels but MUST be addressed for a family with 2 young kids. Options:
+- Bring ~4–6 bath towels on the flight (check baggage allowance)
+- Buy at Convenience Store (CU/Lotte/GS25) or local mart in Seongsan (~₩3K–5K per towel pack)
+- Ask front desk upon check-in if they can supply any — some guests report being given hand towels when bath towels were requested
+
+#### Family-of-4 Room Configuration
+- The hotel is couple/mid-range oriented, not family-resort sized
+- **Recommendation**: Book two Deluxe Twin rooms or one larger family suite (if available). Standard twins may be tight for a family of 4 with luggage + double stroller. Sunrise Peak View rooms are best value and give the kids a special experience.
+- Rooms have: flat-screen TV, AC, hairdryer, slippers, shower amenities, en-suite bathroom
+
+#### Stroller & Luggage
+- Hotel offers free luggage storage — can stash large bags upon arrival/departure if needed
+- Free parking on-site — important since you're renting a car
+- Hotel corridor widths adequate for standard double stroller (no reported narrow corridor issues)
+- **No elevator confirmed** in some reviews — if your room is on an upper floor and luggage is heavy, confirm elevator availability at booking
+
+#### Location Pros for Your Itinerary
+- Perfect base for south/east Jeju day 1–2 (Seongsan Ilchulbong + Seopjikoji + Aqua Planet)
+- On the way to Manjanggul Cave area (Bijarim Forest) — minimal extra driving
+- East coast fishing restaurants near hotel for affordable local seafood dinners
+
+#### Known Issues from Recent Reviews
+- Some guests report rooms not matching online photos — manage expectations on room size/quality
+- Carpet condition and general wear noted in older reviews; September 2026 stay should be recent enough to have any updates
+- Pool water can be shallow or closed for maintenance during shoulder seasons (you're right in peak season so this is fine)
+- No elevators confirmed in some guest reports — verify at booking if upper floors requested
+- English at front desk is limited — use translation apps for special requests
 
 ## Attractions — Verified Hours & Pricing
 
