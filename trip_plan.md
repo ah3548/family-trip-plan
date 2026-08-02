@@ -84,31 +84,30 @@
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
-| 🌤 PM | [Huinnyeoul Culture Village](https://www.koreatodo.com/huinnyeoul-culture-village) + [Oryukdo Skywalk](https://en.wikipedia.org/wiki/Oryukdo) + Jeoryeong Coastal Trail — *Village weekends 10:00-20:00, Free entry* | Free | 🚌30–45m from hotel |
 | 🍽 Lunch | Light meal after arrival — **bibimbap** near hotel (book via [Klook](https://www.klook.com) or [KKday](https://www.kkday.com)) | est. ₩10K/person | from hotel area |
-| 🔲 Lat-Af | *Optional if early arrival/extra energy:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free) | Free | 🚕~10m from hotel area; easy to skip if tired |
-| 🏁 | **Back at hotel by 20:00** | | |
+| 🌤 PM | **Drop bags at hotel → rest** — let kids cool down. *Optional if energy allows:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free). Flat paths, zero stairs. Skip if tired. | Free | 🚕~10 min from hotel area; easy to skip |
+| 🍽 Eve | **Gwangalli Beach** — dinner at a beachfront restaurant + **[🎆 Gwangalli M Drone Light Show: 8 PM & 10 PM (Aug/Sep, Saturdays only)]** — arrive by 6:30–7:00 PM for good spot. Best viewing on the sandy beach (let kids play) or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30 min from hotel area |
+| 🏁 | **Back at hotel by 20:00** (or later with drone show) | | |
 
 
 ### Sun Aug 30 📍 Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* | Free (entry) / ₩17K taxi (per person, shared family ride) | 🚕 ~45m from hotel
-| 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + Sky Capsule (₩8–10K adt one-way). *If weather is good and everyone's up for it, continue to **Songjeong Beach** below — otherwise skip directly.* | Free (park) / ₩8–10K ride | 🚌≈1h from temple |
-| 🔲 PM | *Optional:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
-| 🍽 Eve | Dinner at [Gwangalli Beach](https://en.wikipedia.org/wiki/Gwangalli_Beach) — crab, clams, grilled squid + **🎆 Drone Show: 8 PM & 10 PM (Aug/Sep)** — arrive by 6:30–7:00 PM for good spot. Best viewing: on the beach or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30m from Blueline Park/Cheongsapo area |
-| 🏁 | **Back at hotel by 20:00** | | |
-> ⚡ **If running 60+ min behind:** Skip Songjeong Beach. After Blueline Park/Sky Capsule, head straight to Gwangalli — it's the higher-priority evening regardless.
+| ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* — start early (8–9 AM) when light is good and crowds are thin | Free (entry) / ₩5K/person (shared taxi, split among family of 4) | 🚕 ~45 min from hotel |
+| 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + **Sky Capsule round-trip 4DVR (~₩65K–92K per capsule, up to 4 ppl)** — *~₩16K–23K per person. Book at [sky-capsule.kr](https://www.sky-capsule.kr) in advance — peak-season walk-up availability is unreliable.* Flat paths to station, 45–60 min ride above the coast. Kids' favorite Busan sight — arrive by early afternoon for best light and shorter queues | Free (park) / ₩16K–23K per person (round-trip capsule) | 🚕~30 min from Temple area |
+| 🌊 PM | *Optional if time and energy allow:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
+| 🍽 Eve | Dinner near Haeundae/Gwangalli area — casual seafood or Korean set menu | est. ₩15–30K/person | 🚕~20 min from Blueline Park/Songjeong area |
+| 🏁 | **Back at hotel by 20:00** · No drone show on Sundays | | |
 
 ### Mon Aug 31 📍 Jung-gu, Busan
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* open to 18:00 | Free (suggest tip) | 🚶30m mostly uphill |
-| 🔲 Lat-Af | [Yongdusan Park](https://en.wikipedia.org/wiki/Yongdusan_Park) — escalators up from BIFF area, free park with ocean views. *If visibility is clear and everyone has energy:* go up to [Busan Tower](https://en.wikipedia.org/wiki/Busan_Tower) observatory (~₩3K/adult; loses appeal in haze/rain). | Free (park) / ₩3K adt (tower) | 🚶20m uphill via escalator corridor |
+| ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* **Take shuttle bus UP first**, then walk down at kids' pace. Open to 18:00 | Free (suggest tip) | 🚕~30 min from hotel |
+| 🔲 Lat-Af | [Yongdusan Park](https://en.wikipedia.org/wiki/Yongdusan_Park) — escalators up from BIFF area, free park with ocean views. *If visibility is clear and everyone has energy:* go up to [Busan Tower](https://en.wikipedia.org/wiki/Busan_Tower) observatory (~₩3K/adult; loses appeal in haze/rain). | Free (park) / ₩3K adt (tower) | 🚶~20 min uphill via escalator corridor |
 | 🌤 PM | [BIFF Square](https://en.wikipedia.org/wiki/BIFF_Square) (**ssiats hotteok**) → [Gukje Market](https://en.wikipedia.org/wiki/Gukje_Market) → [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) (Korea's largest seafood market) — **seafood feast at Jagalchi** 🐟🦀 | Free (pay food) | 🚶 downhill flow ~2.5km through Nampo |
-| 🍽 Eve | [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) ride & dinner w/ocean views — *open to 21:00* | ₩10K (≈$7.50) rt adt | from Gukje → 🚕 ~20m to Songdo
+| 🍽 Eve | [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) ride & dinner w/ocean views — *open to 21:00* | ₩10K (≈$7.50) rt adt | from Gukje → 🚕 ~20 min to Songdo
 | 🔲 Eve | [Songdo Cloud Walk](https://en.wikipedia.org/wiki/Songdo_Cloud_Walk) — scenic coastal boardwalk from Cable Car to Turtle Island (~15 min walk), ocean views, relaxing wind-down sight. *Skip if energy is low.* | Free | (walk extension from Cable Car)
-| 🏁 | **Back at hotel by 20:00** · 🚕 ~56m from Songdo (estimated) | | |
+| 🏁 | **Back at hotel by 20:00** · 🚕 ~20-25 min from Songdo (estimated) | | |
 > ⚡ **If kids are tired after Gamcheon:** Skip Yongdusan/Busan Tower, go straight to BIFF/Jagalchi for seafood lunch. End at Jagalchi — taxi back directly.
 > ⚡ **Low-energy evening:** Just Songdo Cable Car, skip the Cloud Walk. Dinner at the cable car station area.
 
@@ -123,9 +122,9 @@
 
 
 <details>
-<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 Areumdaun Resort</b></summary>
+<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S</b></summary>
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted. 🚗 Rental car (≈$350 incl. fuel)
-> 📍 <a href="https://share.google/XBSP6Cj9dHhuSMNjo">Areumdaun Resort</a> · Seogwipo-si, Seongsan-eup, Siheung-ri, Jeju-do
+> 📍 <a href="https://share.google/iVUPJ8yguvdiBzbgD">The Cordelia S</a> · Seongsan-eup, Seogwipo-si, Jeju-do
 
 ### Wed Sep 2 ✈️ PUS→CJU ≈10:00 → Arrive CJU ≈11:10 → Pick up rental car (≈30 min)
 
@@ -237,7 +236,7 @@ All operating hours have been verified against the itinerary — no conflicts fo
 
 | Category | Cost | Notes |
 |----------|------|-------|
-| 🏨 Accommodations (17 nights) | $3,400 | 2x SSH Peter Cat × 6n · 3x GnB × 3n · 11x Areumdaun<br>≈$200/night average |
+| 🏨 Accommodations (17 nights) | $3,400 | 2x SSH Peter Cat × 6n · 3x GnB × 3n · 8x Gyeongju + **3x The Cordelia S (Jeju)**<br>≈$200/night average |
 | 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX Seoul→Busan (≈₩60K/person)<br>Domestic: PUS→CJU + CJU→GMP (≈$300/family × 2)<br>Rental car ≈$350 (incl. fuel)<br>Local transit (AREX, buses, ferries) |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Children's Museum ₩15K × 4 (≈$44)<br>Lotte World ₩62K adt/₩47K child (≈$172)<br>DMZ ₩55K × 2 adults (≈$80)<br>Science Ctr ₩3K × 4 (≈$6) · Gyeongbokgung free w/Hanbok (≈$8 optional) |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Songdo Cable Car ₩10K × 4 (≈$30)<br>Bulguksa ₩5K + Seokguram ₩4K × 4 (≈$18)<br>Seongsan Ilchulbong ₩5K × 4 (≈$16) |
