@@ -80,13 +80,14 @@
 > 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted.
 > 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
-### Sat Aug 29 — **"KTX to the Sea — Arrival, Dongbaek Coast & Gwangalli Beach Show"**
+### Sat Aug 29 — **"Arrival — Nampo-dong & Gwangalli Beach Show"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
-| 🍽 Lunch | Light meal after arrival — **bibimbap** near hotel (book via [Klook](https://www.klook.com) or [KKday](https://www.kkday.com)) | est. ₩10K/person | from hotel area |
-| 🌤 PM | **Drop bags at hotel → rest** — let kids cool down. *Optional if energy allows:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free). Flat paths, zero stairs. Skip if tired. | Free | 🚕~10 min from hotel area; easy to skip |
-| 🍽 Eve | **Gwangalli Beach** — dinner at a beachfront restaurant + **[🎆 Gwangalli M Drone Light Show: 8 PM & 10 PM (Aug/Sep, Saturdays only)]** — arrive by 6:30–7:00 PM for good spot. Best viewing on the sandy beach (let kids play) or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30 min from hotel area |
+| ☀️ AM | Travel Seoul → Busan: KTX ≈10:00 depart, arrive ~12:45 | est. ₩60K/person (KTX) | Seoul Station → Busan |
+| 🍽 Lunch | Drop bags at GnB Hotel → **[Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market)** top-floor sashimi restaurant — fresh seafood lunch with ocean views + floors 1–2 for the seafood displays (live octopus, giant tanks) | est. ₩15–20K/person | walkable from hotel area |
+| 🌤 PM | **Nampo-dong** continued — BIFF Square street food (**hotteok, tteokbokki**) → Gwangbok-ro shopping walk | est. ₩5K–8K/person | 🚶 downhill flow ~20 min |
+| 🌊 Late PM | **Gwangalli Beach** — let kids play on sand, dinner at beachfront restaurant or food truck area | est. ₩15–30K/person | 🚕~15 min / ₩12K–15K shared taxi |
+| 🌙 Eve | **[🎆 Gwangalli M Drone Light Show: 8 PM]** — arrive by 7:00–7:30 for good spot. Best viewing on the sandy beach (kids play) or Bronx Brewing Co. patio | Free | from hotel area |
 | 🏁 | **Back at hotel by 20:00** (or later with drone show) | | |
 
 
