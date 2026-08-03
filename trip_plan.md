@@ -99,12 +99,12 @@
 | 🍽 Eve | Dinner near Haeundae/Gwangalli area — casual seafood or Korean set menu | est. ₩15–30K/person | 🚕~20 min from Blueline Park/Songjeong area |
 | 🏁 | **Back at hotel by 20:00** · No drone show on Sundays | | |
 
-### Mon Aug 31 — **"Gamcheon Stamp Hunt, BIFF Street Food & Songdo Cable Car at Sunset"**
+### Mon Aug 31 — **"Nampo-dong Day — BIFF Street Food & Jagalchi Seafood Feast"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [Gamcheon Culture Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=72894) — *get free map + stamp hunt at main entrance!* **Take shuttle bus UP first**, then walk down at kids' pace. Open to 18:00 | Free (suggest tip) | 🚕~30 min from hotel |
 | 🔲 Lat-Af | [Yongdusan Park](https://en.wikipedia.org/wiki/Yongdusan_Park) — escalators up from BIFF area, free park with ocean views. *If visibility is clear and everyone has energy:* go up to [Busan Tower](https://en.wikipedia.org/wiki/Busan_Tower) observatory (~₩3K/adult; loses appeal in haze/rain). | Free (park) / ₩3K adt (tower) | 🚶~20 min uphill via escalator corridor |
-| 🌤 PM | [BIFF Square](https://en.wikipedia.org/wiki/BIFF_Square) (**ssiats hotteok**) → [Gukje Market](https://en.wikipedia.org/wiki/Gukje_Market) → [Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market) (Korea's largest seafood market) — **seafood feast at Jagalchi** 🐟🦀 | Free (pay food) | 🚶 downhill flow ~2.5km through Nampo |
+| 🌤 PM | **[BIFF Square](https://en.wikipedia.org/wiki/BIFF_Square)** (**ssiats hotteok**) → **[Gukje Market](https://en.wikipedia.org/wiki/Gukje_Market)** → **[Jagalchi Market](https://en.wikipedia.org/wiki/Jagalchi_Market)** (Korea's largest seafood market) — **seafood feast at Jagalchi** 🐟🦀 · *All three are in Nampo-dong, connected by a ~2.5 km downhill walkable path along Gwangbok-ro* | Free (pay food) | 🚶 downhill flow through Nampo
 | 🍽 Eve | [Songdo Cable Car](https://www.koreatodo.com/busan-air-cruise) ride & dinner w/ocean views — *open to 21:00* | ₩10K (≈$7.50) rt adt | from Gukje → 🚕 ~20 min to Songdo
 | 🔲 Eve | [Songdo Cloud Walk](https://en.wikipedia.org/wiki/Songdo_Cloud_Walk) — scenic coastal boardwalk from Cable Car to Turtle Island (~15 min walk), ocean views, relaxing wind-down sight. *Skip if energy is low.* | Free | (walk extension from Cable Car)
 | 🏁 | **Back at hotel by 20:00** · 🚕 ~20-25 min from Songdo (estimated) | | |
