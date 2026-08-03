@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korea Trip — Interactive Map</title>
+    <!-- Same CDN deps as index.html (already cached after first page load) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Leaflet CSS/JS (cached after first visit to this page) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.min.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.min.js"></script>
+    <style>
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+
+        /* Dark mode overrides */
+        @media (prefers-color-scheme: dark) {
+            .prose h1, .prose h2, .prose h3, .prose strong,
+            .dark-text { color: #f1f5f9 !important; }
+            .dark-text-muted { color: #94a3b8 !important; }
+            .dark-bg { background-color: #0f172a !important; }
+            .dark-card { background: #1e293b !important; border-color: #334155 !important; }
+            .dark-row td, .dark-row tr:nth-child(even) td { background-color: #243044 !important; }
+            .dark-row tr:hover td { background-color: #2d3e56 !important; }
+        }
+
+        /* Leaflet overrides for dark mode */
+        @media (prefers-color-scheme: dark) {
+            .leaflet-tile-pane { filter: invert(1) hue-rotate(200deg) saturate(0.5); }
+            .leaflet-control-zoom a { background: #1e293b !important; color: #cbd5e1 !important; border-color: #334155 !important; }
+        }
+
+        /* Place card hover */
+        .place-card { transition: box-shadow .15s, transform .15s; cursor: pointer; }
+        .place-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,.1) !important; transform: translateY(-2px); }
+
+        /* Smooth day tab transitions */
+        .day-tab { transition: all .15s; }
+
+        /* Loading overlay for map */
+        #map-loading { position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:#e8f5ee;z-index:1000;transition:opacity .4s;pointer-events:none;font-weight:600;color:#0a6e3d;font-size:.9rem; }
+        #map-loading.hidden { opacity:0; }
+
+        /* Mobile tweaks */
+        @media (max-width:768px) {
+            .sidebar { height:auto!important; max-height:45vh; }
+            #map { height:45vh; min-height:250px; }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 dark-bg">
+
+<!-- Header -->
+<header class="bg-emerald-700 text-white px-4 py-4 sm:px-6 lg:px-10">
+    <div class="max-w-6xl mx-auto flex items-center gap-3">
+        <a href="index.html" class="text-white/80 hover:text-white font-medium text-sm transition">&larr; Back to Trip Plan</a>
+        <h1 class="text-xl font-bold tracking-tight">🇰🇷 Korea Itinerary Map</h1>
+    </div>
+</header>
+
+<!-- City tabs -->
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-10 pt-4">
+    <div class="flex gap-2 border-b border-slate-200 pb-0" id="city-tabs">
+        <button class="day-tab px-5 py-2.5 font-semibold text-sm border-b-[3px] border-emerald-700 bg-emerald-50 text-emerald-700 transition" data-city="seoul" onclick="switchCity('seoul')">Seoul</button>
+        <button class="day-tab px-5 py-2.5 font-semibold text-sm border-b-[3px] border-transparent text-slate-400 hover:text-slate-600 hover:bg-slate-50 transition" data-city="busan" onclick="switchCity('busan')">Busan</button>
+    </div>
+</div>
+
+<!-- Day tabs -->
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-10 py-2 overflow-x-auto">
+    <div class="flex gap-2" id="day-tabs"></div>
+</div>
+
+<!-- Main content -->
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-10 pb-8">
+    <div class="flex flex-col md:flex-row gap-5 h-[calc(100vh-230px)] min-h-[500px]">
+
+        <!-- Sidebar: place list -->
+        <div class="sidebar md:w-[360px] lg:w-[400px] flex-shrink-0 overflow-y-auto pr-1" id="place-list"></div>
+
+        <!-- Map -->
+        <div class="flex-1 relative rounded-xl overflow-hidden shadow-lg border border-slate-200 dark-card">
+            <div id="map-loading">Loading map…</div>
+            <div id="map"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ═══════════════════ DATA ═══════════════════
+const ITINERARY = {
+  seoul: {
+    center: [37.5665, 126.9780], zoom: 13,
+    days: {
+      2: { date:"Sunday Aug 23", places:[
+        {name:"Seoul Children's Grand Park / Museum", lat:37.5645,lng:127.0980},
+        {name:"Seoul Forest Park",                    lat:37.5440,lng:127.1185, notes:"Deer farm & butterfly house"},
+        {name:"Starfield Library (COEX Mall)",        lat:37.5126,lng:127.0535},
+        {name:"Banpo Bridge Moonlight Rainbow Fountain", lat:37.5248,lng:126.9860, notes:"Shows at 19:30 · 20:00 · 20:30 · 21:00"},
+      ]},
+      3: { date:"Monday Aug 24", places:[
+        {name:"National Museum of Korea",             lat:37.5236,lng:127.0333, notes:"Free admission"},
+        {name:"Namdaemun Market",                     lat:37.5638,lng:126.9940, notes:"Weekdays 11AM–5PM for stalls"},
+        {name:"Myeongdong Shopping Street",            lat:37.5636,lng:126.9850, notes:"Street food stalls from ~3PM"},
+        {name:"Deoksugung Palace",                    lat:37.5645,lng:126.9990, notes:"Free courtyard · stone wall road at dusk"},
+      ]},
+      4: { date:"Tuesday Aug 25", places:[
+        {name:"Lotte World Adventure & Magic",       lat:37.5227,lng:127.1103, notes:"Best Tue–Thu (fewer crowds)"},
+      ]},
+      5: { date:"Wednesday Aug 26", places:[
+        {name:"Gyeongbokgung Palace",                 lat:37.5797,lng:126.9770, notes:"Guard Changing Cer: 10:00"},
+        {name:"Bukchon Hanok Village",                lat:37.5840,lng:126.9950},
+        {name:"Insadong Street",                      lat:37.5740,lng:126.9850, notes:"Traditional shops & tea houses"},
+        {name:"Changdeokgung Palace (Secret Garden)",  lat:37.5790,lng:126.9990, notes:"Reservation required"},
+      ]},
+      6: { date:"Thursday Aug 27", places:[
+        {name:"Namsan Seoul Tower / Namsan Park",     lat:37.5514,lng:126.9880},
+        {name:"Myeongdong Cathedral",                 lat:37.5642,lng:126.9970},
+        {name:"Dongdaemun Design Plaza (DDP)",        lat:37.5672,lng:127.0095},
+        {name:"Gwangjang Market",                     lat:37.5700,lng:127.0070, notes:"Try Korean street food here!"},
+      ]},
+    }
+  },
+  busan: {
+    center: [35.1796, 129.0756], zoom: 13,
+    days: {
+      1: { date:"Saturday Aug 29", places:[
+        {name:"Huinnyeoul Culture Village",           lat:35.1640,lng:129.1140},
+        {name:"Jeoryeong Coastal Trail (Oryukdo)",    lat:35.1750,lng:129.1200},
+        {name:"Oryukdo Skywalk",                      lat:35.1070,lng:129.0340},
+      ]},
+      2: { date:"Sunday Aug 30", places:[
+        {name:"Haedong Yonggungsa Temple (seaside)",   lat:35.1710,lng:129.1040},
+        {name:"Blueline Park — Cheongsapo Station",    lat:35.1628,lng:129.1570},
+        {name:"Shinsegae Dept Store (Centum City)",    lat:35.1672,lng:129.1197, notes:"World's largest dept store"},
+        {name:"Gwangalli Drone Light Show",            lat:35.1580,lng:129.0680, notes:"Sat 8PM · near Bronx Brewing Co"},
+      ]},
+      3: { date:"Monday Aug 31", places:[
+        {name:"Gamcheon Culture Village",              lat:35.0965,lng:129.0280, notes:"Free map at Tourist Info Center"},
+        {name:"Gukje Market",                          lat:35.1180,lng:129.0310},
+        {name:"BIFF Square (Haeundae)",                lat:35.1055,lng:129.0300, notes:"Try Hotteok sweet pancake"},
+        {name:"Jagalchi Market",                       lat:35.1045,lng:129.0270, notes:"Korea's largest fish market"},
+        {name:"Songdo Sea Cable Car",                  lat:35.0870,lng:129.0400},
+      ]},
+    }
+  },
+};
+
+// Naver Maps URL helpers
+const placeURL = (lat,lng,name) => `https://map.naver.com/v5/search/${encodeURIComponent(name)}&lat=${lat}&lng=${lng}&zoom=17`;
+const routeURL = (fl,fn,tl,tname) => `https://map.naver.com/v5/directions/?c=15.0,0.0,0,co,df&lat=${fl}&lng=${fn}&dlat=${tl}&dlng=${encodeURIComponent(tname)}`;
+
+// ═══════════════ STATE ═══════════════
+let map, markersLayer, routePolyline;
+let currentCity='seoul', currentDay=null;
+
+// ═══════════════ MAP INIT ═══════════════
+function initMap(){
+  map = L.map('map',{zoomControl:true,zoomSnap:0.25,zoomDelta:0.5,wheelZoom:false}).setView([37.5665,126.9780],13);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertile/voyager/{z}/{x}/{y}{r}.png',{
+    attribution:'&copy; OSM &copy; CARTO',maxZoom:19,tiled:true,
+    tileSize:512,zoomOffset:0
+  }).addTo(map);
+
+  markersLayer = L.layerGroup().addTo(map);
+
+  // Hide loading overlay after tiles load
+  map.once('tileloadall', ()=>{ document.getElementById('map-loading').classList.add('hidden'); });
+  setTimeout(()=>{ document.getElementById('map-loading').classList.add('hidden'); },2000);
+}
+
+// ═══════════════ HELPERS ═══════════════
+function clearOverlays(){
+  markersLayer.clearLayers();
+  if(routePolyline){ map.removeLayer(routePolyline); routePolyline=null; }
+}
+
+function createIcon(n){
+  return L.divIcon({
+    className:'',html:`<div style="width:32px;height:32px;background:#059669;color:white;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:14px;box-shadow:0 2px 6px rgba(0,0,0,.25);border:2px solid white;">${n}</div>`,
+    iconSize:[32,32],iconAnchor:[16,16]
+  });
+}
+
+// ═══════════════ SWITCH CITY ═══════════════
+function switchCity(city){
+  currentCity = city;
+  document.querySelectorAll('#city-tabs .day-tab').forEach(b=>{
+    b.classList.toggle('border-emerald-700',b.dataset.city===city);
+    b.classList.toggle('bg-emerald-50',b.dataset.city===city);
+    b.classList.toggle('text-emerald-700',b.dataset.city===city);
+    b.classList.toggle('border-transparent',b.dataset.city!==city);
+    b.classList.toggle('text-slate-400',b.dataset.city!==city);
+  });
+
+  const tc = document.getElementById('day-tabs');
+  tc.innerHTML='';
+  Object.keys(ITINERARY[city].days).sort((a,b)=>a-b).forEach(d=>{
+    const bEl=document.createElement('button');
+    bEl.className=`day-tab px-4 py-1.5 font-medium text-xs border border-slate-200 rounded-full ${currentDay===parseInt(d)?'border-emerald-700 bg-emerald-50 text-emerald-700':'text-slate-500 hover:text-slate-700 hover:bg-slate-100'}`;
+    bEl.textContent=`Day ${d} · ${ITINERARY[city].days[d].date.split(' ').slice(2).join(' ')}`;
+    bEl.onclick=()=>switchDay(parseInt(d));
+    tc.appendChild(bEl);
+  });
+
+  if(currentDay===null) currentDay=parseInt(Object.keys(ITINERARY[city].days).sort((a,b)=>a-b)[0]);
+  render(currentDay);
+}
+
+// ═══════════════ SWITCH DAY / RENDER ═══════════════
+function switchDay(day){
+  currentDay=day;
+  document.querySelectorAll('#day-tabs .day-tab').forEach(b=>b.classList.remove('border-emerald-700','bg-emerald-50','text-emerald-700'));
+  document.querySelectorAll('#day-tabs .day-tab').forEach(b=>{
+    if(b.textContent.startsWith(`Day ${day}`)) b.classList.add('border-emerald-700','bg-emerald-50','text-emerald-700');
+  });
+  render(day);
+}
+
+function render(day){
+  const dd=ITINERARY[currentCity].days[day];
+  if(!dd) return;
+
+  clearOverlays();
+
+  const allC = dd.places.map(p=>[p.lat,p.lng]);
+  const fitCenter=[
+    (Math.min(...allC.map(p=>p[0]))+Math.max(...allC.map(p=>p[0]))) / 2,
+    (Math.min(...allC.map(p=>p[1]))+Math.max(...allC.map(p=>p[1]))) / 2,
+  ];
+
+  map.setView(fitCenter, currentCity==='seoul'?13:13);
+
+  // Markers
+  dd.places.forEach((p,i)=>{
+    const m = L.marker([p.lat,p.lng],{icon:createIcon(i+1)})
+      .bindPopup(`<b>${i+1}. ${p.name}</b><br><a href="${placeURL(p.lat,p.lng,p.name)}" target="_blank" style="color:#059669;font-weight:600;">Open in Naver Maps →</a>`,{maxWidth:240});
+    markersLayer.addLayer(m);
+    m.on('click',()=>map.panTo([p.lat,p.lng]));
+  });
+
+  // Route polyline (red dashed line)
+  if(dd.places.length>=2){
+    const path = dd.places.map(p=>[p.lat,p.lng]);
+    routePolyline = L.polyline(path,{color:'#ef4444',weight:5,opacity:.7,dashArray:'10 6'}).addTo(map);
+
+    // Red dots at intermediate stops
+    dd.places.forEach((p,i)=>{
+      if(i===0) return;
+      L.circleMarker([p.lat,p.lng],{radius:6,fillColor:'#ef4444',color:'white',fillOpacity:.9}).addTo(map);
+    });
+
+    map.fitBounds(path,{padding:[50,50]});
+  }
+
+  // ── Place cards (sidebar) ──
+  const listEl = document.getElementById('place-list');
+  listEl.innerHTML='';
+
+  dd.places.forEach((p,i)=>{
+    const notesHTML = p.notes ? `<div class="text-xs text-slate-500 mt-1 dark-text-muted">📝 ${p.notes}</div>` : '';
+    const card = document.createElement('div');
+    card.className='place-card dark-card bg-white border border-slate-200 rounded-lg p-3 mb-2';
+
+    let actions='<div class="flex gap-1.5 flex-wrap">';
+    actions+=`<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md bg-emerald-700 text-white hover:bg-emerald-800 transition" href="${placeURL(p.lat,p.lng,p.name)}" target="_blank">📍 Open ↗</a>`;
+
+    // Forward route button
+    if(i<dd.places.length-1){
+      const nxt=dd.places[i+1];
+      actions+=`<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="${routeURL(p.lat,p.lng,nxt.lat,nxt.name)}" target="_blank">→ ${nxt.name.split('(')[0].trim()}</a>`;
+    }
+
+    // Backward route button (2nd+ place)
+    if(i>0){
+      const prev=dd.places[i-1];
+      actions+=`<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="${routeURL(prev.lat,prev.lng,p.lat,p.name)}" target="_blank">← ${prev.name.split('(')[0].trim()}</a>`;
+    }
+
+    actions+='</div>';
+
+    card.innerHTML=`
+      <div class="flex gap-2.5 items-start">
+        <div class="w-7 h-7 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs font-bold flex-shrink-0 mt-px">${i+1}</div>
+        <div class="flex-1 min-w-0 dark-text">
+          <div class="font-semibold text-sm leading-tight truncate">${p.name}</div>
+          ${notesHTML}
+          <div class="text-[10px] text-slate-400 font-mono mt-1">${p.lat.toFixed(4)}, ${p.lng.toFixed(4)}</div>
+          ${actions}
+        </div>
+      </div>`;
+
+    card.onclick = ()=>{ map.panTo([p.lat,p.lng]); markersLayer.getLayers()[i]?.openPopup(); };
+    listEl.appendChild(card);
+  });
+}
+
+// ═══════════════ START ═══════════════
+initMap();
+switchCity('seoul');
+</script>
+
+</body>
+</html>
