@@ -104,6 +104,28 @@
 
             .prose li::marker { color: #94a3b8; }
 
+            /* Map link buttons */
+            .map-btn {
+                display: inline-flex; align-items: center; gap: 4px; padding: 5px 14px; border-radius: 20px;
+                font-size: 0.78rem; font-weight: 600; white-space: nowrap; text-decoration: none;
+                background: #f1f5f9; color: #475569; border: 1px solid #e2e8f0;
+                transition: all 0.15s; cursor: pointer;
+            }
+            .map-btn:hover { background: #e2e8f0; border-color: #cbd5e1; color: #334155; }
+            .map-btn.active { background: #ecfdf5; color: #065f46; border-color: #a7f3d0; box-shadow: 0 0 0 1px #a7f3d0; }
+
+            /* Dark mode overrides */
+            @media (prefers-color-scheme: dark) {
+                .prose li::marker { color: #94a3b8; }
+
+                /* Map link buttons */
+                .map-btn {
+                    background: #1e293b; color: #cbd5e1; border-color: #334155;
+                }
+                .map-btn:hover { background: #334155; border-color: #475569; color: #f1f5f9; }
+                .map-btn.active { background: #064e3b; color: #6ee7b7; border-color: #059669; box-shadow: 0 0 0 1px #059669; }
+            }
+
             /* Override Tailwind utility classes in dark mode */
             header h1, .text-slate-900 { color: #f8fafc !important; }
             .text-slate-600 { color: #cbd5e1 !important; }
@@ -251,6 +273,11 @@
         <!-- This is where the Markdown content will be injected -->
         <article id="markdown-content" class="prose prose-slate max-w-none"></article>
 
+        <!-- Map link bar — inline with content -->
+        <div class="mb-4 flex gap-2 overflow-x-auto pb-1" id="map-links">
+            <!-- Filled by JS below -->
+        </div>
+
         <footer class="mt-8 pt-4 border-t border-slate-200 text-center text-sm text-slate-500">
             <p>Generated from trip_plan.md &bull; Updated for 2026</p>
         </footer>
@@ -274,6 +301,50 @@
         }
 
         renderMarkdown();
+        renderMapLinks();
+    </script>
+
+    <!-- Map link generator -- runs after page loads -->
+    <script>
+        function renderMapLinks() {
+            var container = document.getElementById('map-links');
+            if (!container) return;
+
+            // Auto-detect today's region/day (only during trip window 2026-08-22 to 2026-09-08)
+            function getTodayCityDay() {
+                var now = new Date();
+                var y = now.getFullYear(), m = now.getMonth()+1, d = now.getDate();
+                if (y !== 2026) return null;
+                if (m===8 && d>=22 && d<=28) return {city:'seoul1', day:d};
+                if (m===8 && d===29 || m===9 && d<=1) return {city:'busan', day:d===29?1:(d===30?2:3)};
+                if (m===9 && d>=2 && d<=4) return {city:'jeju', day:'sep'+d};
+                if (m===9 && d===5) return {city:'seoul2', day:'sep5'};
+                return null;
+            }
+
+            var today = getTodayCityDay();
+
+            // Build buttons — each region gets its own link, during trip highlights current day
+            var regions = [
+                {key:'seoul1',  icon:'🏛️', label:'Seoul (Aug 22-28)'},
+                {key:'busan',   icon:'🌊', label:'Busan/Gyeongju'},
+                {key:'jeju',    icon:'🏝', label:'Jeju Island'},
+                {key:'seoul2',  icon:'🔙', label:'Seoul Return'}
+            ];
+
+            var html = '';
+            for (var i = 0; i < regions.length; i++) {
+                var r = regions[i];
+                var cityDay = today && today.city === r.key ? '?city=' + r.key + '&day=' + today.day : '?city=' + r.key;
+                var cls = (today && today.city === r.key) ? 'map-btn active' : 'map-btn';
+                html += '<a class="' + cls + '" href="map.html' + cityDay + '">' + r.icon + ' ' + r.label + '</a> ';
+            }
+
+            // "View all days" — goes to default map view (all regions)
+            html += '<a class="map-btn active" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0;" href="map.html">\u{1F5FA}️ All Days</a>';
+
+            container.innerHTML = html;
+        }
     </script>
 </body>
 </html>

@@ -451,9 +451,52 @@ function render(day) {
   }
 }
 
-// ═══ START ═══
+// ═══ URL PARAMS ═══
+// Support ?city=X&day=Y so index.html can link directly to a day
+function getParams() {
+  var p = {};
+  var qs = window.location.search.substring(1);
+  var parts = qs.split('&');
+  for (var i = 0; i < parts.length; i++) {
+    var kv = parts[i].split('=');
+    if (kv[0]) p[decodeURIComponent(kv[0])] = decodeURIComponent(kv[1] || '');
+  }
+  return p;
+}
+
+// ═══ INIT ═══
 initMap();
-switchCity('seoul1');
+
+// Auto-detect current trip day based on today's date (during Aug 22 - Sep 8 window)
+function autoDayForToday() {
+  var now = new Date();
+  var y = now.getFullYear(), m = now.getMonth() + 1, d = now.getDate();
+  // Return mapping of month-day -> city+day key
+  if (y >= 2026) {
+    if (m===8 && d>=22 && d<=28) return 'seoul1';   // Seoul days arr-6
+    if (m===9 && d<=4) return 'jeju';                // Jeju
+    if (d===5 && m===9) return 'seoul2';             // Seoul return
+  }
+  return null;
+}
+
+var params = getParams();
+var targetCity = params.city || autoDayForToday() || 'seoul1';
+
+if (!ITINERARY[targetCity]) targetCity = 'seoul1';
+
+// Determine which day to show
+var targetDay = params.day;  // may be null, 'arr', 'sep2', 3, etc.
+currentCity = targetCity;
+if (targetDay && ITINERARY[currentCity].days[targetDay]) {
+  currentDay = targetDay;
+}
+
+switchCity(currentCity);
+if (currentDay) {
+  // Force re-render with the target day if different from default
+  render(currentDay);
+}
 </script>
 
 </body>
