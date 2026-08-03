@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Korea Trip — Interactive Map</title>
+    <title>Korea Trip - Interactive Map</title>
     <!-- Tailwind CSS (same as index.html) -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Leaflet CSS/JS — jsdelivr only (unpkg returns 404 from Korea) -->
+    <!-- Leaflet CSS/JS - jsdelivr only (unpkg returns 404 from Korea) -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.css" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.min.js"></script>
     <script>
-        // Quick check: if Leaflet didn't load, show an error immediately
+        // Quick check: if Leaflet didnt load, show an error immediately
         window.addEventListener('load', function() {
             if (typeof L === 'undefined') {
                 document.getElementById('page-body').innerHTML =
@@ -38,7 +38,7 @@
             .leaflet-control-zoom a { background: #1e293b !important; color: #cbd5e1 !important; border-color: #334155 !important; }
         }
 
-        /* Map container — always fills remaining viewport height */
+        /* Map container - always fills remaining viewport height */
         #page-body { display: flex; flex-direction: column; height: 100vh; }
         .header-bar { min-height: 56px; max-height: 56px; flex-shrink: 0; }
         .tab-bar { min-height: 48px; max-height: 48px; flex-shrink: 0; overflow-x: auto; white-space: nowrap; }
@@ -85,13 +85,13 @@
     <!-- City/region tabs (fixed 48px) -->
     <div class="tab-bar border-b border-slate-200 bg-white flex items-center px-4 sm:px-6 gap-2" id="city-tabs">
         <button class="city-tab px-5 py-2 font-semibold text-sm border-b-[3px] border-emerald-700 bg-emerald-50 text-emerald-700 transition"
-                data-city="seoul1" onclick="switchCity('seoul1')">Seoul (Days 1–7)</button>
+                data-city="seoul1" onclick="switchCity('seoul1')">Seoul (Days 1-7)</button>
         <button class="city-tab px-5 py-2 font-semibold text-sm border-b-[3px] border-transparent text-slate-400 hover:text-slate-600 hover:bg-slate-50 transition"
-                data-city="busan" onclick="switchCity('busan')">Busan (Days 1–3)</button>
+                data-city="busan" onclick="switchCity('busan')">Busan (Days 1-3)</button>
         <button class="city-tab px-5 py-2 font-semibold text-sm border-b-[3px] border-transparent text-slate-400 hover:text-slate-600 hover:bg-slate-50 transition"
-                data-city="jeju" onclick="switchCity('jeju')">Jeju (Days 1–4)</button>
+                data-city="jeju" onclick="switchCity('jeju')">Jeju (Days 1-4)</button>
         <button class="city-tab px-5 py-2 font-semibold text-sm border-b-[3px] border-transparent text-slate-400 hover:text-slate-600 hover:bg-slate-50 transition"
-                data-city="seoul2" onclick="switchCity('seoul2')">Seoul Return (Days 1–4)</button>
+                data-city="seoul2" onclick="switchCity('seoul2')">Seoul Return (Days 1-4)</button>
     </div>
 
     <!-- Day tabs -->
@@ -112,119 +112,129 @@
 </div>
 
 <script>
-// ═══════ DATA ═══════
-const ITINERARY = {
-  seoul1: {
-    label: "Seoul",
-    days: {
-      'arr': { date:"Sat Aug 22", places:[
-        {name:"Incheon International Airport (ICN)",             lat:37.4586,lng:126.4420},
-        {name:"SSH Ikseon Peter Cat Hostel",                    lat:37.5743,lng:126.9897, notes:"Ikseon-dong area · Check-in"},
-      ]},
-      1:  { date:"Sun Aug 23", places:[
-        {name:"Seoul Children's Grand Park / Museum",           lat:37.5645,lng:127.0980},
-        {name:"Seoul Forest Park",                              lat:37.5440,lng:127.1185, notes:"Deer farm & butterfly house"},
-        {name:"Starfield Library (COEX Mall)",                  lat:37.5126,lng:127.0535},
-        {name:"Banpo Bridge Moonlight Rainbow Fountain",        lat:37.5248,lng:126.9860, notes:"Shows at 19:30 · 20:00 · 20:30 · 21:00"},
-      ]},
-      2:  { date:"Mon Aug 24", places:[
-        {name:"National Museum of Korea",                       lat:37.5236,lng:127.0333, notes:"Free admission · Children's museum requires online res."},
-        {name:"Namdaemun Market",                               lat:37.5638,lng:126.9940, notes:"Weekdays 11AM–5PM"},
-        {name:"Myeongdong Shopping Street",                     lat:37.5636,lng:126.9850, notes:"Street food stalls from ~3PM"},
-        {name:"Deoksugung Palace",                              lat:37.5645,lng:126.9990, notes:"Free courtyard · stone wall road at dusk"},
-      ]},
-      3:  { date:"Tue Aug 25", places:[
-        {name:"Lotte World Adventure & Magic",                  lat:37.5227,lng:127.1103, notes:"Best Tue–Thu · fewer crowds"},
-      ]},
-      4:  { date:"Wed Aug 26", places:[
-        {name:"Gyeongbokgung Palace",                           lat:37.5797,lng:126.9770, notes:"Guard Changing Cer: 10:00 · Free with Hanbok"},
-        {name:"Bukchon Hanok Village (lower paths)",            lat:37.5840,lng:126.9950, notes:"Stroller-friendly ridge walk"},
-        {name:"Insadong Street",                                lat:37.5740,lng:126.9850, notes:"Traditional shops & tea houses"},
-        {name:"Cheonggyecheon Stream",                          lat:37.5691,lng:126.9787, notes:"Fountains 12PM–9PM · cool mist walk"},
-      ]},
-      5:  { date:"Thu Aug 27", places:[
-        {name:"National Children's Science Center",             lat:37.5340,lng:127.0360, notes:"Open to 17:30"},
-        {name:"Gwangjang Market",                               lat:37.5700,lng:127.0070, notes:"Try Korean street food here!"},
-        {name:"Dongdaemun Design Plaza (DDP)",                  lat:37.5672,lng:127.0095, notes:"Zaha Hadid architecture · photo stop at sunset"},
-      ]},
-      6:  { date:"Fri Aug 28", places:[
-        {name:"DMJ / Dorasan Station",                          lat:37.8986,lng:126.7098, notes:"Book tour ≥72h in advance · by Aug 19"},
-        {name:"JSA (Panmunjom)",                                lat:37.9940,lng:126.7320},
-      ]},
-    }
-  },
-  busan: {
-    label: "Busan",
-    days: {
-      'arr': { date:"Fri Aug 28", places:[
-        {name:"KTX Seoul → Busan Station",                      lat:35.1690,lng:129.0530, notes:"≈2h 45m · Arrive evening"},
-      ]},
-      1:  { date:"Sat Aug 29", places:[
-        {name:"Huinnyeoul Culture Village",                     lat:35.1640,lng:129.1140},
-        {name:"Jeoryeong Coastal Trail (Oryukdo area)",        lat:35.1750,lng:129.1200},
-        {name:"Oryukdo Skywalk",                                lat:35.1070,lng:129.0340},
-        {name:"Gwangalli Beach Drone Show",                     lat:35.1580,lng:129.0680, notes:"Sat 8PM · near Bronx Brewing Co"},
-      ]},
-      2:  { date:"Sun Aug 30", places:[
-        {name:"Haedong Yonggungsa Temple (seaside)",            lat:35.1710,lng:129.1040, notes:"Start early 8–9AM · open to 19:00"},
-        {name:"Haeundae Blueline Park — Cheongsapo Station",   lat:35.1628,lng:129.1570, notes:"Sky Capsule round-trip · book in advance"},
-        {name:"Shinsegae Dept Store (Centum City)",             lat:35.1672,lng:129.1197, notes:"World's largest dept store"},
-      ]},
-      3:  { date:"Mon Aug 31", places:[
-        {name:"Gamcheon Culture Village",                       lat:35.0965,lng:129.0280, notes:"Free map at Tourist Info Center"},
-        {name:"Gukje Market",                                   lat:35.1180,lng:129.0310},
-        {name:"BIFF Square (Haeundae)",                         lat:35.1055,lng:129.0300, notes:"Try Hotteok sweet pancake"},
-        {name:"Jagalchi Market",                                lat:35.1045,lng:129.0270, notes:"Korea's largest fish market"},
-        {name:"Songdo Sea Cable Car",                           lat:35.0870,lng:129.0400, notes:"Open to 21:00 · Ocean views"},
-      ]},
-    }
-  },
-  jeju: {
-    label: "Jeju",
-    days: {
-      'sep2': { date:"Wed Sep 2", places:[
-        {name:"Aqua Planet Jeju",                               lat:33.3855,lng:126.9395, notes:"Open to 18:00 · Last adm 17:00"},
-        {name:"Seopjikoji Coastal Walk",                        lat:33.3810,lng:126.9550, notes:"Ocean views · boardwalk trails"},
-        {name:"Seongsan Ilchulbong (Sunrise Peak)",             lat:33.4575,lng:127.0940, notes="⚠ Arrive by 17:00 · closes ≈19:00 in Sep"},
-      ]},
-      'sep3': { date:"Thu Sep 3", places:[
-        {name:"Manjanggul Cave",                                lat:33.2860,lng:126.4940, notes:"2 km lava tube · open to 18:00"},
-        {name:"Bijarim Forest & Hallstatt Village",             lat:33.2935,lng:126.4860, notes:"Free · lush forest walk"},
-        {name:"Snoopy Garden",                                  lat:33.3010,lng:126.4760, notes:"Open to 19:00 · interactive garden"},
-      ]},
-      'sep4': { date:"Fri Sep 4", places:[
-        {name:"Hamdeok Beach (white sand)",                     lat:33.4955,lng:126.5405, notes:"Calm water · great for kids"},
-        {name:"Hallim Park",                                    lat:33.3580,lng:126.4720, notes:"Waterfall + cliff trail · open to 18:30"},
-        {name:"Teddy Bear Museum",                              lat:33.2540,lng:126.5480, notes:"Open to 18:00"},
-        {name:"Jusangjeolli Cliffs",                            lat:33.2480,lng:126.5460, notes:"Columnar jointed cliffs · ₩2K adt"},
-      ]},
-    }
-  },
-  seoul2: {
-    label: "Seoul Return",
-    days: {
-      'sep5': { date:"Sat Sep 5", places:[
-        {name:"Gimpo Airport (GMP)",                            lat:37.5655,lng:126.8013, notes:"≈10:00→11:10 · Domestic flight from Jeju"},
-        {name:"Myeongdong New Stay Inn",                        lat:37.5623,lng:126.9906, notes:"Drop bags at hotel"},
-        {name:"Namsan Seoul Tower",                             lat:37.5514,lng:126.9880, notes:"Cable car only · panoramic views · open to 23:00"},
-      ]},
-      'sep6': { date:"Sun Sep 6", places:[
-        {name:"Incheon Grand Park (zoo + aquarium)",            lat:37.4592,lng:126.7522, notes:"Top pick for ages 4&6 · ≈1h by subway"},
-      ]},
-      'sep7': { date:"Mon Sep 7", places:[
-        {name:"Suwon Hwaseong Fortress",                        lat:37.2871,lng:127.0119, notes:"UNESCO walls kids can walk on · ≈40m by ITX"},
-      ]},
-    }
-  },
-};
+// All notes use ASCII-only strings to avoid encoding issues across browsers/CDNs
 
-// Naver Maps URLs (direct links — no API key needed)
+// Naver Maps URLs (direct links - no API key needed)
 function placeURL(lat, lng, name) {
   return 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '&lat=' + lat + '&lng=' + lng + '&zoom=17';
 }
 function routeURL(fl, fn, tl, tname) {
   return 'https://map.naver.com/v5/directions/?c=15.0,0.0,0,co,df&lat=' + fl + '&lng=' + fn + '&dlat=' + tl + '&dlng=' + encodeURIComponent(tname);
 }
+
+// ═══ DATA ═══
+var ITINERARY = {
+  seoul1: {
+    label: "Seoul",
+    days: {}
+  },
+  busan: {
+    label: "Busan",
+    days: {}
+  },
+  jeju: {
+    label: "Jeju",
+    days: {}
+  },
+  seoul2: {
+    label: "Seoul Return",
+    days: {}
+  }
+};
+
+// Build itinerary data programmatically - no Unicode in strings
+function buildDays() {
+  // === SEOUL (Aug 22-28) ===
+  ITINERARY.seoul1.days['arr'] = { date:"Sat Aug 22", places:[
+    {name:"Incheon International Airport (ICN)",      lat:37.4586,lng:126.4420},
+    {name:"SSH Ikseon Peter Cat Hostel",              lat:37.5743,lng:126.9897, notes:"Ikseon-dong area - Check-in"},
+  ]};
+  ITINERARY.seoul1.days[1] = { date:"Sun Aug 23", places:[
+    {name:"Seoul Children's Grand Park / Museum",     lat:37.5645,lng:127.0980},
+    {name:"Seoul Forest Park",                         lat:37.5440,lng:127.1185, notes:"Deer farm & butterfly house"},
+    {name:"Starfield Library (COEX Mall)",             lat:37.5126,lng:127.0535},
+    {name:"Banpo Bridge Moonlight Rainbow Fountain",   lat:37.5248,lng:126.9860, notes:"Shows at 19:30 / 20:00 / 20:30 / 21:00"},
+  ]};
+  ITINERARY.seoul1.days[2] = { date:"Mon Aug 24", places:[
+    {name:"National Museum of Korea",                  lat:37.5236,lng:127.0333, notes:"Free admission - Children's museum requires online res."},
+    {name:"Namdaemun Market",                          lat:37.5638,lng:126.9940, notes:"Weekdays 11AM-5PM"},
+    {name:"Myeongdong Shopping Street",                lat:37.5636,lng:126.9850, notes:"Street food stalls from ~3PM"},
+    {name:"Deoksugung Palace",                         lat:37.5645,lng:126.9990, notes:"Free courtyard - stone wall road at dusk"},
+  ]};
+  ITINERARY.seoul1.days[3] = { date:"Tue Aug 25", places:[
+    {name:"Lotte World Adventure & Magic",             lat:37.5227,lng:127.1103, notes:"Best Tue-Thu - fewer crowds"},
+  ]};
+  ITINERARY.seoul1.days[4] = { date:"Wed Aug 26", places:[
+    {name:"Gyeongbokgung Palace",                      lat:37.5797,lng:126.9770, notes:"Guard Changing Cer: 10:00 - Free with Hanbok"},
+    {name:"Bukchon Hanok Village (lower paths)",       lat:37.5840,lng:126.9950, notes:"Stroller-friendly ridge walk"},
+    {name:"Insadong Street",                           lat:37.5740,lng:126.9850, notes:"Traditional shops & tea houses"},
+    {name:"Cheonggyecheon Stream",                     lat:37.5691,lng:126.9787, notes:"Fountains 12PM-9PM - cool mist walk"},
+  ]};
+  ITINERARY.seoul1.days[5] = { date:"Thu Aug 27", places:[
+    {name:"National Children's Science Center",        lat:37.5340,lng:127.0360, notes:"Open to 17:30"},
+    {name:"Gwangjang Market",                          lat:37.5700,lng:127.0070, notes:"Try Korean street food here!"},
+    {name:"Dongdaemun Design Plaza (DDP)",             lat:37.5672,lng:127.0095, notes:"Zaha Hadid architecture - photo stop at sunset"},
+  ]};
+  ITINERARY.seoul1.days[6] = { date:"Fri Aug 28", places:[
+    {name:"DMJ / Dorasan Station",                     lat:37.8986,lng:126.7098, notes:"Book tour 72h in advance - by Aug 19"},
+    {name:"JSA (Panmunjom)",                           lat:37.9940,lng:126.7320},
+  ]};
+
+  // === BUSAN (Aug 28-Sep 1) ===
+  ITINERARY.busan.days['arr'] = { date:"Fri Aug 28", places:[
+    {name:"KTX Seoul to Busan Station",                lat:35.1690,lng:129.0530, notes:"~2h 45m - Arrive evening"},
+  ]};
+  ITINERARY.busan.days[1] = { date:"Sat Aug 29", places:[
+    {name:"Huinnyeoul Culture Village",                lat:35.1640,lng:129.1140},
+    {name:"Jeoryeong Coastal Trail (Oryukdo area)",   lat:35.1750,lng:129.1200},
+    {name:"Oryukdo Skywalk",                           lat:35.1070,lng:129.0340},
+    {name:"Gwangalli Beach Drone Show",                lat:35.1580,lng:129.0680, notes:"Sat 8PM - near Bronx Brewing Co"},
+  ]};
+  ITINERARY.busan.days[2] = { date:"Sun Aug 30", places:[
+    {name:"Haedong Yonggungsa Temple (seaside)",       lat:35.1710,lng:129.1040, notes:"Start early 8-9AM - open to 19:00"},
+    {name:"Haeundae Blueline Park - Cheongsapo Stn",   lat:35.1628,lng:129.1570, notes:"Sky Capsule round-trip - book in advance"},
+    {name:"Shinsegae Dept Store (Centum City)",        lat:35.1672,lng:129.1197, notes:"World's largest dept store"},
+  ]};
+  ITINERARY.busan.days[3] = { date:"Mon Aug 31", places:[
+    {name:"Gamcheon Culture Village",                  lat:35.0965,lng:129.0280, notes:"Free map at Tourist Info Center"},
+    {name:"Gukje Market",                              lat:35.1180,lng:129.0310},
+    {name:"BIFF Square (Haeundae)",                    lat:35.1055,lng:129.0300, notes:"Try Hotteok sweet pancake"},
+    {name:"Jagalchi Market",                           lat:35.1045,lng:129.0270, notes:"Korea's largest fish market"},
+    {name:"Songdo Sea Cable Car",                      lat:35.0870,lng:129.0400, notes:"Open to 21:00 - Ocean views"},
+  ]};
+
+  // === JEJU (Sep 2-5) ===
+  ITINERARY.jeju.days['sep2'] = { date:"Wed Sep 2", places:[
+    {name:"Aqua Planet Jeju",                          lat:33.3855,lng:126.9395, notes:"Open to 18:00 - Last adm 17:00"},
+    {name:"Seopjikoji Coastal Walk",                   lat:33.3810,lng:126.9550, notes:"Ocean views - boardwalk trails"},
+    {name:"Seongsan Ilchulbong (Sunrise Peak)",        lat:33.4575,lng:127.0940, notes:"Arrive by 17:00 - closes ~19:00 in Sep"},
+  ]};
+  ITINERARY.jeju.days['sep3'] = { date:"Thu Sep 3", places:[
+    {name:"Manjanggul Cave",                           lat:33.2860,lng:126.4940, notes:"2 km lava tube - open to 18:00"},
+    {name:"Bijarim Forest & Hallstatt Village",        lat:33.2935,lng:126.4860, notes:"Free - lush forest walk"},
+    {name:"Snoopy Garden",                             lat:33.3010,lng:126.4760, notes:"Open to 19:00 - interactive garden"},
+  ]};
+  ITINERARY.jeju.days['sep4'] = { date:"Fri Sep 4", places:[
+    {name:"Hamdeok Beach (white sand)",                lat:33.4955,lng:126.5405, notes:"Calm water - great for kids"},
+    {name:"Hallim Park",                               lat:33.3580,lng:126.4720, notes:"Waterfall + cliff trail - open to 18:30"},
+    {name:"Teddy Bear Museum",                         lat:33.2540,lng:126.5480, notes:"Open to 18:00"},
+    {name:"Jusangjeolli Cliffs",                       lat:33.2480,lng:126.5460, notes:"Columnar jointed cliffs - 2K won adt"},
+  ]};
+
+  // === SEOUL RETURN (Sep 5-7) ===
+  ITINERARY.seoul2.days['sep5'] = { date:"Sat Sep 5", places:[
+    {name:"Gimpo Airport (GMP)",                       lat:37.5655,lng:126.8013, notes:"~10:00-11:10 - Domestic flight from Jeju"},
+    {name:"Myeongdong New Stay Inn",                   lat:37.5623,lng:126.9906, notes:"Drop bags at hotel"},
+    {name:"Namsan Seoul Tower",                        lat:37.5514,lng:126.9880, notes:"Cable car only - panoramic views - open to 23:00"},
+  ]};
+  ITINERARY.seoul2.days['sep6'] = { date:"Sun Sep 6", places:[
+    {name:"Incheon Grand Park (zoo + aquarium)",       lat:37.4592,lng:126.7522, notes:"Top pick for ages 4&6 - ~1h by subway"},
+  ]};
+  ITINERARY.seoul2.days['sep7'] = { date:"Mon Sep 7", places:[
+    {name:"Suwon Hwaseong Fortress",                   lat:37.2871,lng:127.0119, notes:"UNESCO walls kids can walk on - ~40m by ITX"},
+  ]};
+}
+buildDays();
 
 // ═══ STATE ═══
 var map, markersLayer, routePolyline;
@@ -235,14 +245,7 @@ function initMap() {
   if (typeof L === 'undefined') return;
 
   var centerLat, centerLng, zoom;
-  // Default view depends on first city
-  switch('seoul1') {
-    case 'seoul1': case 'seoul2': centerLat=37.5665; centerLng=126.9780; zoom=13; break;
-    case 'busan':   centerLat=35.1280; centerLng=129.0580; zoom=12; break;
-    case 'jeju':    centerLat=33.3640; centerLng=126.6370; zoom=10; break;
-  }
-
-  map = L.map('map', { zoomControl: true }).setView([centerLat, centerLng], zoom);
+  map = L.map('map').setView([37.5665, 126.9780], 13);
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; OSM &copy; CARTO', maxZoom: 19, detectRetina: true
   }).addTo(map);
@@ -288,34 +291,46 @@ function switchCity(city) {
       ' transition');
   }
 
-  // Build day tabs — support both numeric and string keys
+  // Build day tabs
   var tc = document.getElementById('day-tabs');
   tc.innerHTML = '';
   var dayKeys = Object.keys(ITINERARY[city].days);
-  // Sort: arrival/early days first, then by natural order
-  var sortOrder = { 'arr': 0, 'sep1': 1, 'sep2': 2, 'sep3': 3, 'sep4': 4, 'sep5': 5 };
-  dayKeys.sort(function(a, b) {
-    return (sortOrder[a] !== undefined ? sortOrder[a] : parseInt(a) || 99) -
-           (sortOrder[b] !== undefined ? sortOrder[b] : parseInt(b) || 99);
-  });
+
+  // Sort days: arrival first, then chronological
+  function sortKey(key) {
+    if (key === 'arr') return -10;
+    var n = parseInt(key);
+    if (!isNaN(n)) return n;
+    // Extract month/day from strings like sep2, sep3
+    var m = key.match(/([a-z])(\d+)/);
+    if (m) {
+      var months = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+      return months[m[1]] * 100 + parseInt(m[2]);
+    }
+    return 99;
+  }
+  dayKeys.sort(function(a, b) { return sortKey(a) - sortKey(b); });
 
   for (var i = 0; i < dayKeys.length; i++) {
     var d = dayKeys[i];
     var displayDate = ITINERARY[city].days[d].date.split(' ').slice(1).join(' ');
-    var shortLabel = d === 'arr' ? 'Arrival' : (d.startsWith('sep') ? d.toUpperCase() : 'Day ' + d);
+    var shortLabel = d === 'arr' ? 'Arrival' : (d.toUpperCase());
     var isAct = currentDay === d;
     var btn = document.createElement('button');
+    btn.setAttribute('data-day', d);
     btn.setAttribute('class',
       'px-4 py-1.5 font-medium text-xs border rounded-full whitespace-nowrap ' +
       (isAct ? 'border-emerald-700 bg-emerald-50 text-emerald-700' : 'border-slate-200 text-slate-500 hover:text-slate-700 hover:bg-slate-100') +
       ' transition');
     btn.textContent = shortLabel + ' · ' + displayDate;
-    (function(day) { btn.onclick = function() { switchDay(day); }; })(d);
+    (function(day) {
+      btn.onclick = function() { switchDay(day); };
+    })(d);
     tc.appendChild(btn);
   }
 
   // Default to first day
-  if (!currentDay) {
+  if (!currentDay || !ITINERARY[city].days[currentDay]) {
     currentDay = dayKeys[0];
   }
   render(currentDay);
@@ -324,16 +339,13 @@ function switchCity(city) {
 // ═══ SWITCH DAY / RENDER ═══
 function switchDay(day) {
   currentDay = day;
-  // Update tab highlight
+  // Update tab highlight using data-day attribute
   var btns = document.querySelectorAll('#day-tabs button');
   for (var i = 0; i < btns.length; i++) {
-    var b = btns[i];
-    var isActive = (currentDay === b.getAttribute('onclick') && currentDay !== null);
-    // Simpler: check onclick text contains the day
-    if (b.getAttribute('onclick') && b.getAttribute('onclick').indexOf("'" + day + "'") !== -1) {
-      b.setAttribute('class', 'city-tab px-4 py-1.5 font-medium text-xs border rounded-full border-emerald-700 bg-emerald-50 text-emerald-700 transition');
+    if (btns[i].getAttribute('data-day') === day) {
+      btns[i].setAttribute('class', 'city-tab px-4 py-1.5 font-medium text-xs border rounded-full border-emerald-700 bg-emerald-50 text-emerald-700 transition');
     } else {
-      b.setAttribute('class', 'city-tab px-4 py-1.5 font-medium text-xs border rounded-full border-slate-200 text-slate-500 hover:text-slate-700 hover:bg-slate-100 transition');
+      btns[i].setAttribute('class', 'city-tab px-4 py-1.5 font-medium text-xs border rounded-full border-slate-200 text-slate-500 hover:text-slate-700 hover:bg-slate-100 transition');
     }
   }
   render(day);
@@ -363,20 +375,22 @@ function render(day) {
 
   map.setView([centerLat, centerLng], zoom);
 
-  // ── Markers ──
+  // Store place reference for click handlers
+  var currentPlaces = dd.places;
+
+  // Markers
   for (var i = 0; i < dd.places.length; i++) {
-    var p = dd.places[i];
     (function(idx) {
       var place = dd.places[idx];
       var m = L.marker([place.lat, place.lng], { icon: createIcon(idx + 1) })
         .bindPopup('<b>' + (idx + 1) + '. ' + place.name + '</b><br>' +
-                   '<a href="' + placeURL(place.lat, place.lng, place.name) + '" target="_blank" style="color:#059669;font-weight:600;">Open in Naver Maps →</a>');
+                   '<a href="' + placeURL(place.lat, place.lng, place.name) + '" target="_blank" style="color:#059669;font-weight:600;">Open in Naver Maps</a>');
       markersLayer.addLayer(m);
       m.on('click', function() { map.panTo([place.lat, place.lng]); });
     })(i);
   }
 
-  // ── Route polyline (red dashed) ──
+  // Route polyline (red dashed)
   if (dd.places.length >= 2) {
     routePolyline = L.polyline(path, { color: '#ef4444', weight: 5, opacity: 0.7, dashArray: '10 6' }).addTo(map);
 
@@ -393,9 +407,9 @@ function render(day) {
                    [Math.max.apply(null, lats), Math.max.apply(null, lngs)]], { padding: [50, 50] });
   }
 
-  // ── Place cards (sidebar) ──
+  // Place cards (sidebar)
   var listEl = document.getElementById('place-list');
-  listEl.innerHTML = '<div class="text-sm font-semibold text-emerald-700 mb-3">' + ITINERARY[currentCity].label + ' — ' + dd.date + '</div>';
+  listEl.innerHTML = '<div class="text-sm font-semibold text-emerald-700 mb-3">' + ITINERARY[currentCity].label + ' - ' + dd.date + '</div>';
 
   for (var i = 0; i < dd.places.length; i++) {
     var p = dd.places[i];
@@ -405,17 +419,17 @@ function render(day) {
     var notesHTML = p.notes ? '<div class="text-xs text-gray-500 mt-1">Note: ' + p.notes + '</div>' : '';
 
     var actions = '<div class="flex gap-1.5 flex-wrap mt-2">';
-    actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md bg-emerald-700 text-white hover:bg-emerald-800 transition" href="' + placeURL(p.lat, p.lng, p.name) + '" target="_blank">Open ↓</a>';
+    actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md bg-emerald-700 text-white hover:bg-emerald-800 transition" href="' + placeURL(p.lat, p.lng, p.name) + '" target="_blank">Open</a>';
 
     // Forward route
     if (i < dd.places.length - 1) {
       var nxt = dd.places[i + 1];
-      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(p.lat, p.lng, nxt.lat, nxt.name) + '" target="_blank">→ ' + nxt.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(p.lat, p.lng, nxt.lat, nxt.name) + '" target="_blank">-> ' + nxt.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
     }
     // Backward route
     if (i > 0) {
       var prev = dd.places[i - 1];
-      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(prev.lat, prev.lng, p.lat, p.name) + '" target="_blank">← ' + prev.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(prev.lat, prev.lng, p.lat, p.name) + '" target="_blank"><- ' + prev.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
     }
     actions += '</div>';
 
@@ -430,10 +444,9 @@ function render(day) {
         '</div>' +
       '</div>';
 
-    (function(idx) {
-      var place = dd.places[idx];
+    (function(idx, place) {
       card.onclick = function() { map.panTo([place.lat, place.lng]); markersLayer.getLayers()[idx] && markersLayer.getLayers()[idx].openPopup(); };
-    })(i);
+    })(i, p);
     listEl.appendChild(card);
   }
 }
