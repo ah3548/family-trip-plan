@@ -293,3 +293,5 @@ You don't eat pork. Foods to actively skip:
 ## Resources
 - [Busan Plan (ScoutExplore)](https://scoutexplore.com/t/z7j4EyXtb1uEfUDQBWbT/edit?t=6314948e-ad5b-4483-9ee5-cfc8edd9bc35)
 - [Seoul Plan (ScoutExplore)](https://scoutexplore.com/t/HJyVsYrsDV2oTBc7IlH2/edit?t=029c720d-b588-4868-961d-0000b9c46354)
+- [Seoul Guide (Google Docs)](https://docs.google.com/document/d/1kKwJl6MbEuIZMQczmkg1wj3-rknMNHrkBoSxZD4cHUs/edit?tab=t.0)
+- [Busan Guide (Google Docs)](https://docs.google.com/document/d/1R2kgms8P1PxKN1ZspflKI6CbI-lnNr25KjKpExgTj5Y/edit?tab=t.0)
