@@ -32,39 +32,43 @@
 | 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Mon Aug 24 — **"Palaces, Namdaemun Market & Myeongdong Street Food Crawl"**
+### Mon Aug 24 — **"NMK, Palace Walls & Myeongdong via Seoullo 7017"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00* | Free permanent exhibit | from hotel |
-| 🏛 Lat-Af | **[Children's Museum of NMK](https://www.museum.go.kr/site/eng/content/hours_and_fees)** — *Free (online reservation required for children's section)* · **spend ≈1 hr** | Free — ⚠️ reserve online at museum.go.kr | same building as NMK |
-| 🌤 PM | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) — *weekdays 11:00 AM–5:00 PM* + Myeongdong street food — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | 🚇 subway/taxi from NMK area |
-| 🔲 Lat-Af | [Deoksugung Palace](https://deoksulgung.seoul.go.kr/en/) — *09:00–18:00* · **₩1K adt, Free kids** | ₩1K/adt | 🚌 from Myeongdong ≈15m |
+| 🏛 Lat-Af | **[Children's Museum of NMK](https://www.museum.go.kr/site/eng/content/hours_and_fees)** — *Free (online reservation required for children's section)* · **spend ≈1 hr** | Free — ⚠️ reserve online at museum.go.kr by Aug 23 | same building as NMK |
+| 🌤 Lat-Af PM | [Deoksugung Palace](https://deoksulgung.seoul.go.kr/en/) — *09:00–18:00* · **₩1K adt, Free kids** — **⭐ walk the stone wall path (seoseong-gil)** for kids. Wide paved paths, stroller-friendly, the only palace where you can "walk on a castle wall." Spend 30–45 min here | ₩1K/adt | 🚇 subway/taxi from NMK ≈10 min |
+| ☁️ Late PM | **Seoullo 7017** ⭐ NEW — heat-safe elevated garden walk between Deoksugung and Myeongdong. Free, flat, AC-adjacent transit path on a former highway overpass. Kids enjoy watching people below from above. Adds ~45 min but worth it in August heat | Free | 🚶 20–25m walk from Deoksugung area (follow signs to Seoullo) |
+| 🌤 Late PM → Eve | [Namdaemun Market](https://en.wikipedia.org/wiki/Namdaemun_Market) — *weekdays 11:00 AM–5:00 PM* + Myeongdong street food — **kalguksu, hotteok, egg bread, tteokbokki, tanghulu** | est. ₩10K/person | 🚶 from Seoullo/Namdaemun area |
 | 🍽 Eve | **Dak galbi** (spicy stir-fried chicken — ask for mild) or bibimbap near hotel | est. ₩15K/person | near hotel |
-| 🏁 | **Back at hotel by 20:00** | | |
+| 🏁 | **Back at hotel by 20:00** · *⚠️ Reserve Children's Museum online at museum.go.kr before Aug 24* | | |
 
 ### Tue Aug 25 — **"Lotte World Theme Park Day — Rides, Magic & Fireworks"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | 🚇Line 1→2 ≈35–40m to Olympic Park Stn |
+| ☀️ Early AM | **Seokchon Lake walk** ⭐ NEW (optional) — if arriving at park early, walk the lake periphery first. 1.5km flat paved path, shaded in morning, deer grazing near water. Free, ~30 min gentle stroll before park crowds build | Free | 🚶 from Lotte World entrance |
+| ☀️ Full day | [Lotte World](https://en.wikipedia.org/wiki/Lotte_World) Theme Park — *hours vary by month* · **💡 indoor rides 2–4PM for heat** | ≈₩62K (≈$46) adt / ₩47K (≈$35) child | 🚇Line 1→2 ≈35–40m to Olympic Park Stn |
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | **Back at hotel by 20:00** | | |
 
-### Wed Aug 26 — **"Hanbok Day — Royal Palace, Bukchon Hanok Alleyways & Insa-dong Arts"**
+### Wed Aug 26 — **"Hanbok Day — Palace, Temple Break & Stream Cooling Walk"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung) — *open 09:00-18:00 (Aug), **Free with Hanbok!*** | ₩3K (≈$2) if no hanbok | 🚌 19m from hotel |
-| 🍽 Lunch | **Samgyetang** (ginseng chicken soup) — restorative post-palace meal | est. ₩15K/person | near palace |
-| 🌤 PM | [Tongin Traditional Market](https://english.visitseoul.net/attractions/Tongin-Market_/282) + [Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village) — *open to 21:00* | Free (both) — **dosirak lunch** at Tongin (buy coins, pick items) | 🚶15m from palace → 🚶15m uphill |
-| 🔲 Lat-Af | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · Free — crafts, art galleries, paper museums, calligraphy for kids, souvenirs · **spend ≈1–1.5 hr** | Free | 🚶15m downhill from Bukchon
-| 🍽 Eve | Dinner near Bukchon — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon |
-| 🏁 | **Back at hotel by 20:00** · **TBD Hanbok rental:** wear for free entry — book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) | | |
+| ☀️ AM | **[Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung)** — *open 09:00-18:00 (Aug), **Free with Hanbok!*** · **⭐ arrive by 09:45 for guard ceremony at 10AM** (morning one; another at 2PM). Kids love the color-changing guards. Walk the grand courtyards in hanbok | Free with hanbok / ₩3K without | 🚌 19m from hotel |
+| 🍽 Lunch | **Samgyetang** (ginseng chicken soup) — restorative post-palace meal near palace | est. ₩15K/person | 🚶 5 min from palace |
+| 🌤 Early PM | **[Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village)** — *open to 21:00* · **⭐ USE LOWER PATHS ONLY** (upper alleys have steep stone stairs, NOT stroller-friendly). Flat ridge walk along Seonggyungwan University side with classic hanok views | Free | 🚕 ₩4K taxi from samgyetang area (~5 min) |
+| ☁️ Lat-Af PM | **[Jogyesa Temple](https://english.visitseoul.net/attractions/Jogyesa-Temple-/234)** ⭐ NEW — flat, shaded, AC break. Kids can buy mini incense sticks (~₩500). Quick 20-min stop to escape August heat and rest feet | Free (incense ~₩500/person for kids) | 🚶 10 min from Bukchon lower paths (southward walk) |
+| 💦 Late PM | **[Cheonggyecheon Stream](https://english.visitseoul.net/attractions/Cheonggyecheon-Corridor-/3)** ⭐ NEW — southward stream walk with **fountains (12PM–9PM, mist fountain through November)**. Essential August cooling tool. Kids love water play; flat paths throughout. Walk from City Hall toward Jongno (~45 min) | Free | 🚶 5 min from Jogyesa Temple toward City Hall |
+| 🔲 Eve | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · crafts, art galleries, paper museums, calligraphy for kids, souvenirs. **spend ≈1–1.5 hr** | Free | 🚶 15 min downhill from Cheonggyecheon toward Insa-dong |
+| 🍽 Dinner | Dinner near Bukchon/Insa-dong — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon/Insa-dong |
+| 🏁 | **Back at hotel by 20:00** · **📌 Hanbok rental:** wear for free entry — book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) near Gwanghwamun Station Exit 3/4 (~₩20K–25K family package) | | |
 
 ### Thu Aug 27 — **"Science Center & Gwangjang Market — Eat Your Way Through Food Heaven"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚶10–15m or subway from hotel |
 | 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
-| 🔲 Lat-Af | **[Dongdaemun General Market](https://english.visitseoul.net/attractions/Dongdaemun-Design-Plaza-DDP-/157)** — huge wholesale market (clothing, accessories) · *open ≈10:00–23:00 weekdays* | Free | 🚶5m from Gwangjang |
+| 🔲 Lat-Af | **[Dongdaemun Design Plaza (DDP) exterior](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza)** ⭐ ADD — Zaha Hadid's futuristic architecture lit up at night. Brief (~15 min) photo stop at sunset — the lit-up exterior is visually engaging for kids. **Interior adds no value for young kids; skip going inside.** | Free | 🚶 5m from Gwangjang Market |
 | 🍽 Dinner + 🏁 | **Dinner:** Light near DDP · **Back at hotel by 20:00** | est. ₩15K/person | from DDP area |
 
 ### Fri Aug 28 — **"DMZ Day — History, Tension & Border Landmarks"**
@@ -173,7 +177,7 @@
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
-| 🌤 Lat-Af | [Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower) cable car ride up w/panoramic views — *great for kids, open to ≈23:00* | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
+| 🌤 Lat-Af | **[Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower)** — cable car ONLY (up and down) · *⭐ NO hiking with double stroller, August heat + mountain stairs = tough* — great for kids, panoramic views, open to ≈23:00. **Spend ≈45 min max** | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
 | 🍽 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
 
 ### Sun Sep 6 — Day Trip Choice (pick one) — **"Day Trip Decision — Incheon Zoo or Suwon Fortress Walk"**
