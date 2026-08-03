@@ -300,12 +300,7 @@
             }
         }
 
-        renderMarkdown();
-        renderMapLinks();
-    </script>
-
-    <!-- Map link generator -- runs after page loads -->
-    <script>
+        // Generate map navigation buttons (inline with itinerary)
         function renderMapLinks() {
             var container = document.getElementById('map-links');
             if (!container) return;
@@ -345,6 +340,9 @@
 
             container.innerHTML = html;
         }
+
+        renderMarkdown();
+        renderMapLinks();
     </script>
 </body>
 </html>
