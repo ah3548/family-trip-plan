@@ -104,28 +104,6 @@
 
             .prose li::marker { color: #94a3b8; }
 
-            /* Map link buttons */
-            .map-btn {
-                display: inline-flex; align-items: center; gap: 4px; padding: 5px 14px; border-radius: 20px;
-                font-size: 0.78rem; font-weight: 600; white-space: nowrap; text-decoration: none;
-                background: #f1f5f9; color: #475569; border: 1px solid #e2e8f0;
-                transition: all 0.15s; cursor: pointer;
-            }
-            .map-btn:hover { background: #e2e8f0; border-color: #cbd5e1; color: #334155; }
-            .map-btn.active { background: #ecfdf5; color: #065f46; border-color: #a7f3d0; box-shadow: 0 0 0 1px #a7f3d0; }
-
-            /* Dark mode overrides */
-            @media (prefers-color-scheme: dark) {
-                .prose li::marker { color: #94a3b8; }
-
-                /* Map link buttons */
-                .map-btn {
-                    background: #1e293b; color: #cbd5e1; border-color: #334155;
-                }
-                .map-btn:hover { background: #334155; border-color: #475569; color: #f1f5f9; }
-                .map-btn.active { background: #064e3b; color: #6ee7b7; border-color: #059669; box-shadow: 0 0 0 1px #059669; }
-            }
-
             /* Override Tailwind utility classes in dark mode */
             header h1, .text-slate-900 { color: #f8fafc !important; }
             .text-slate-600 { color: #cbd5e1 !important; }
@@ -195,36 +173,36 @@
                     </g>
 
                     <!-- nodes — at each transition point -->
-                    <!-- ✈️ Aug 20–21: departure -->
+                    <!-- Aug 20–21: departure -->
                     <circle cx="0" cy="26" r="5" fill="#6366f1"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0s" fill="freeze"/></circle>
-                    <text x="0" y="40" text-anchor="middle" font-size="7" fill="#64748b" font-family="system-ui">✈️ Aug 20–21</text>
+                    <text x="0" y="40" text-anchor="middle" font-size="7" fill="#64748b" font-family="system-ui">Aug 20-21</text>
 
                     <!-- Seoul (start of blue) -->
                     <circle cx="67.8" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.25s" fill="freeze"/></circle>
-                    <text x="67.8" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
+                    <text x="67.8" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
                     <text x="67.8" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
 
-                    <!-- ✈️ Aug 29 above Busan dot -->
+                    <!-- Aug 29 above Busan dot -->
                     <circle cx="271.1" cy="26" r="5" fill="#10b981"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.5s" fill="freeze"/></circle>
-                    <text x="271.1" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Aug 29</text>
-                    <text x="338.9" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🌊</text>
+                    <text x="271.1" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Aug 29</text>
+                    <text x="338.9" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
                     <text x="338.9" y="40" text-anchor="middle" font-size="7.5" fill="#10b981" font-weight="bold" font-family="system-ui">Busan</text>
 
-                    <!-- ✈️ Sep 2 above Jeju dot -->
+                    <!-- Sep 2 above Jeju dot -->
                     <circle cx="406.7" cy="26" r="5" fill="#f59e0b"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.75s" fill="freeze"/></circle>
-                    <text x="406.7" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 2</text>
-                    <text x="457.5" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏝️</text>
+                    <text x="406.7" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Sep 2</text>
+                    <text x="457.5" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
                     <text x="457.5" y="40" text-anchor="middle" font-size="7.5" fill="#f59e0b" font-weight="bold" font-family="system-ui">Jeju</text>
 
-                    <!-- ✈️ Sep 5 above Seoul-return dot -->
+                    <!-- Sep 5 above Seoul-return dot -->
                     <circle cx="508.4" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.0s" fill="freeze"/></circle>
-                    <text x="508.4" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">✈️ Sep 5</text>
-                    <text x="559.2" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🏛️</text>
+                    <text x="508.4" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Sep 5</text>
+                    <text x="559.2" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
                     <text x="559.2" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
 
                     <!-- departure at end of Seoul-return segment -->
                     <circle cx="610.1" cy="26" r="5" fill="#ef4444"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.25s" fill="freeze"/></circle>
-                    <text x="610.1" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui">🛫</text>
+                    <text x="610.1" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
                     <text x="610.1" y="40" text-anchor="middle" font-size="7.5" fill="#ef4444" font-weight="bold" font-family="system-ui">Sep 8</text>
                 </svg>
             </div>
@@ -232,6 +210,20 @@
         </div>
 
         <style>
+            /* Inline date links in itinerary text — styled as clickable map anchors */
+            .date-link {
+                display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px;
+                border-radius: 6px; font-size: inherit; font-weight: 600; text-decoration: none;
+                background: #e8f5ee; color: #065f46; border: 1px solid #a7f3d0;
+                transition: all .15s; cursor: pointer; white-space: nowrap;
+            }
+            .date-link:hover { background: #d1fae5; border-color: #6ee7b7; }
+            /* Dark mode overrides */
+            @media (prefers-color-scheme: dark) {
+                .date-link { background: #064e3b !important; color: #6ee7b7 !important; border-color: #059669 !important; }
+                .date-link:hover { background: #065f46 !important; border-color: #10b981 !important; }
+            }
+
             /* Overview-box classes — for dark mode support */
             .ob-card { background:#f8fafc; border-color:#e2e8f0; }
             .ob-stat-lg { color:#3b82f6; }
@@ -248,13 +240,11 @@
                 .dark-calendar svg text[fill="#3b82f6"],
                 .dark-calendar svg text[fill="#10b981"],
                 .dark-calendar svg text[fill="#f59e0b"],
-                .dark-calendar svg text[fill="#3b82f6"],
                 .dark-calendar svg text[fill="#ef4444"] { fill: #93c5fd !important; }
                 .dark-calendar svg line[stroke="#6366f1"] { stroke: #818cf8 !important; }
                 .dark-calendar svg circle[fill="#3b82f6"] { fill: #60a5fa !important; }
                 .dark-calendar svg circle[fill="#10b981"] { fill: #34d399 !important; }
                 .dark-calendar svg circle[fill="#f59e0b"] { fill: #fbbf24 !important; }
-                .dark-calendar svg circle[fill="#3b82f6"] { fill: #a78bfa !important; }
                 .dark-calendar svg circle[fill="#ef4444"] { fill: #f87171 !important; }
 
                 /* Overview-box class overrides in dark mode */
@@ -273,76 +263,59 @@
         <!-- This is where the Markdown content will be injected -->
         <article id="markdown-content" class="prose prose-slate max-w-none"></article>
 
-        <!-- Map link bar — inline with content -->
-        <div class="mb-4 flex gap-2 overflow-x-auto pb-1" id="map-links">
-            <!-- Filled by JS below -->
-        </div>
-
         <footer class="mt-8 pt-4 border-t border-slate-200 text-center text-sm text-slate-500">
             <p>Generated from trip_plan.md &bull; Updated for 2026</p>
         </footer>
     </div>
 
     <script>
-        // Fetch the markdown file and render it
-        async function renderMarkdown() {
-            const contentDiv = document.getElementById('markdown-content');
-            try {
-                const response = await fetch('trip_plan.md');
-                if (!response.ok) throw new Error('Could not find trip_plan.md');
-                const markdownText = await response.text();
+        var DATE_MAP = {};
+        (function buildDateMap() {
+            // Seoul week 1: Aug 22-27 (loop stops at 27; Aug 28 is DMV day = seoul1/6)
+            for (var i = 22; i <= 27; i++) { d = 'Aug '+i; DATE_MAP[d] = {city:'seoul1', day: i===22?'arr':(i-22)}; }
+            // Aug 28 is DMZ day (Seoul) — not a Busan arrival day
+            d = 'Aug 28'; DATE_MAP[d] = {city:'seoul1', day:6};
+            d = 'Aug 29'; DATE_MAP[d] = {city:'busan', day:1};
+            d = 'Aug 30'; DATE_MAP[d] = {city:'busan', day:2};
+            d = 'Aug 31'; DATE_MAP[d] = {city:'busan', day:3};
+            d = 'Sep 2'; DATE_MAP[d] = {city:'jeju', day:'sep2'};
+            d = 'Sep 3'; DATE_MAP[d] = {city:'jeju', day:'sep3'};
+            d = 'Sep 4'; DATE_MAP[d] = {city:'jeju', day:'sep4'};
+            // Gyeongju day trip — stays in Busan region
+            d = 'Sep 1'; DATE_MAP[d] = {city:'busan', day:'daytrip'};
+            d = 'Sep 5'; DATE_MAP[d] = {city:'seoul2', day:'sep5'};
+            d = 'Sep 6'; DATE_MAP[d] = {city:'seoul2', day:'sep6'};
+            d = 'Sep 7'; DATE_MAP[d] = {city:'seoul2', day:'sep7'};
+            // Departure day — link to all Seoul return days for reference
+            d = 'Sep 8'; DATE_MAP[d] = {city:'seoul2', day:'dep'};
+        })();
 
-                // Use marked.parse to convert markdown to HTML
-                contentDiv.innerHTML = marked.parse(markdownText);
+        async function renderMarkdown() {
+            var contentDiv = document.getElementById('markdown-content');
+            try {
+                var response = await fetch('trip_plan.md');
+                if (!response.ok) throw new Error('Could not find trip_plan.md');
+                var markdownText = await response.text();
+                // First pass: wrap dates in the raw markdown (before parsing)
+                var linkedMD = markdownText.replace(
+                    /((?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(Aug|Sep)\s+(\d{1,2}))/g,
+                    function(full, weekday, month, day) {
+                        var lookupKey = month + ' ' + day;
+                        if (DATE_MAP[lookupKey]) {
+                            var cd = DATE_MAP[lookupKey];
+                            return '[' + full + '](map.html?city=' + cd.city + '&day=' + cd.day + ')';
+                        }
+                        return full;
+                    }
+                );
+                contentDiv.innerHTML = marked.parse(linkedMD);
             } catch (error) {
                 console.error(error);
                 contentDiv.innerHTML = '<p class="text-red-500">Error loading the trip plan. Please ensure trip_plan.md is in the same folder.</p>';
             }
         }
 
-        // Generate map navigation buttons (inline with itinerary)
-        function renderMapLinks() {
-            var container = document.getElementById('map-links');
-            if (!container) return;
-
-            // Auto-detect today's region/day (only during trip window 2026-08-22 to 2026-09-08)
-            function getTodayCityDay() {
-                var now = new Date();
-                var y = now.getFullYear(), m = now.getMonth()+1, d = now.getDate();
-                if (y !== 2026) return null;
-                if (m===8 && d>=22 && d<=28) return {city:'seoul1', day:d};
-                if (m===8 && d===29 || m===9 && d<=1) return {city:'busan', day:d===29?1:(d===30?2:3)};
-                if (m===9 && d>=2 && d<=4) return {city:'jeju', day:'sep'+d};
-                if (m===9 && d===5) return {city:'seoul2', day:'sep5'};
-                return null;
-            }
-
-            var today = getTodayCityDay();
-
-            // Build buttons — each region gets its own link, during trip highlights current day
-            var regions = [
-                {key:'seoul1',  icon:'🏛️', label:'Seoul (Aug 22-28)'},
-                {key:'busan',   icon:'🌊', label:'Busan/Gyeongju'},
-                {key:'jeju',    icon:'🏝', label:'Jeju Island'},
-                {key:'seoul2',  icon:'🔙', label:'Seoul Return'}
-            ];
-
-            var html = '';
-            for (var i = 0; i < regions.length; i++) {
-                var r = regions[i];
-                var cityDay = today && today.city === r.key ? '?city=' + r.key + '&day=' + today.day : '?city=' + r.key;
-                var cls = (today && today.city === r.key) ? 'map-btn active' : 'map-btn';
-                html += '<a class="' + cls + '" href="map.html' + cityDay + '">' + r.icon + ' ' + r.label + '</a> ';
-            }
-
-            // "View all days" — goes to default map view (all regions)
-            html += '<a class="map-btn active" style="background:#ecfdf5;color:#065f46;border-color:#a7f3d0;" href="map.html">\u{1F5FA}️ All Days</a>';
-
-            container.innerHTML = html;
-        }
-
         renderMarkdown();
-        renderMapLinks();
     </script>
 </body>
 </html>

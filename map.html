@@ -114,12 +114,12 @@
 <script>
 // All notes use ASCII-only strings to avoid encoding issues across browsers/CDNs
 
-// Naver Maps URLs (direct links - no API key needed)
+// Naver Maps URLs (reliable in Korea)
 function placeURL(lat, lng, name) {
-  return 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '&lat=' + lat + '&lng=' + lng + '&zoom=17';
+  return 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17';
 }
-function routeURL(fl, fn, tl, tname) {
-  return 'https://map.naver.com/v5/directions/?c=15.0,0.0,0,co,df&lat=' + fl + '&lng=' + fn + '&dlat=' + tl + '&dlng=' + encodeURIComponent(tname);
+function routeURL(flat, flng, dlat, dlng, dname) {
+  return 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17';
 }
 
 // ═══ DATA ═══
@@ -181,8 +181,9 @@ function buildDays() {
   ]};
 
   // === BUSAN (Aug 28-Sep 1) ===
-  ITINERARY.busan.days['arr'] = { date:"Fri Aug 28", places:[
-    {name:"KTX Seoul to Busan Station",                lat:35.1690,lng:129.0530, notes:"~2h 45m - Arrive evening"},
+  // KTX from Seoul to Busan — departs after DMZ day (late Thu)
+  ITINERARY.busan.days['arr'] = { date:"Thu Aug 27 (KTX)", places:[
+    {name:"KTX Seoul to Busan Station",                lat:35.1690,lng:129.0530, notes:"~2h 45m - Evening train"},
   ]};
   ITINERARY.busan.days[1] = { date:"Sat Aug 29", places:[
     {name:"Huinnyeoul Culture Village",                lat:35.1640,lng:129.1140},
@@ -201,6 +202,11 @@ function buildDays() {
     {name:"BIFF Square (Haeundae)",                    lat:35.1055,lng:129.0300, notes:"Try Hotteok sweet pancake"},
     {name:"Jagalchi Market",                           lat:35.1045,lng:129.0270, notes:"Korea's largest fish market"},
     {name:"Songdo Sea Cable Car",                      lat:35.0870,lng:129.0400, notes:"Open to 21:00 - Ocean views"},
+  ]};
+  // Gyeongju day trip from Busan (Sep 1) — same as last busan day
+  ITINERARY.busan.days['daytrip'] = { date:"Tue Sep 1", places:[
+    {name:"Bulguksa Temple",                           lat:35.7960,lng:129.3340, notes:"UNESCO — UNESCO World Heritage site"},
+    {name:"Seokguram Grotto",                          lat:35.8240,lng:129.1690, notes:"Buddhist cave temple — ~30m from Bulguksa"},
   ]};
 
   // === JEJU (Sep 2-5) ===
@@ -232,6 +238,10 @@ function buildDays() {
   ]};
   ITINERARY.seoul2.days['sep7'] = { date:"Mon Sep 7", places:[
     {name:"Suwon Hwaseong Fortress",                   lat:37.2871,lng:127.0119, notes:"UNESCO walls kids can walk on - ~40m by ITX"},
+  ]};
+  // Departure day — link to Seoul for reference
+  ITINERARY.seoul2.days['dep'] = { date:"Tue Sep 8", places:[
+    {name:"Incheon International Airport (ICN)",       lat:37.4586,lng:126.4416},
   ]};
 }
 buildDays();
@@ -333,7 +343,6 @@ function switchCity(city) {
   if (!currentDay || !ITINERARY[city].days[currentDay]) {
     currentDay = dayKeys[0];
   }
-  render(currentDay);
 }
 
 // ═══ SWITCH DAY / RENDER ═══
@@ -424,12 +433,12 @@ function render(day) {
     // Forward route
     if (i < dd.places.length - 1) {
       var nxt = dd.places[i + 1];
-      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(p.lat, p.lng, nxt.lat, nxt.name) + '" target="_blank">-> ' + nxt.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(p.lat, p.lng, nxt.lat, nxt.lng, nxt.name) + '" target="_blank">-> ' + nxt.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
     }
     // Backward route
     if (i > 0) {
       var prev = dd.places[i - 1];
-      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(prev.lat, prev.lng, p.lat, p.name) + '" target="_blank"><- ' + prev.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+      actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(prev.lat, prev.lng, p.lat, p.lng, p.name) + '" target="_blank"><- ' + prev.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
     }
     actions += '</div>';
 
@@ -486,16 +495,24 @@ var targetCity = params.city || autoDayForToday() || 'seoul1';
 if (!ITINERARY[targetCity]) targetCity = 'seoul1';
 
 // Determine which day to show
-var targetDay = params.day;  // may be null, 'arr', 'sep2', 3, etc.
+var targetDay = params.day;
 currentCity = targetCity;
-if (targetDay && ITINERARY[currentCity].days[targetDay]) {
-  currentDay = targetDay;
-}
-
 switchCity(currentCity);
-if (currentDay) {
-  // Force re-render with the target day if different from default
+
+// Override with URL-specified day (takes precedence over auto/default)
+if (targetDay && ITINERARY[currentCity] && ITINERARY[currentCity].days && ITINERARY[currentCity].days.hasOwnProperty(targetDay)) {
+  currentDay = targetDay;
   render(currentDay);
+
+  // Sync tab highlight to match the URL-specified day
+  var btns = document.querySelectorAll('#day-tabs button');
+  for (var i = 0; i < btns.length; i++) {
+    if (btns[i].getAttribute('data-day') === currentDay) {
+      btns[i].className = 'px-4 py-1.5 font-semibold text-xs border-2 border-emerald-600 rounded-full whitespace-nowrap bg-emerald-700 text-white shadow-md scale-110 transition';
+    } else {
+      btns[i].className = 'px-4 py-1.5 font-medium text-xs border rounded-full whitespace-nowrap border-slate-200 text-slate-500 hover:text-slate-700 hover:bg-slate-100 transition opacity-60';
+    }
+  }
 }
 </script>
 
