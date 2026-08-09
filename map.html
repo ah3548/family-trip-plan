@@ -121,30 +121,106 @@ function _isMobileNaver() {
           (navigator.maxTouchPoints && navigator.maxTouchPoints > 1));
 }
 
-// Generate Naver Maps URLs — returns an object with href, label, icon for callers to render.
-function placeURL(lat, lng, name) {
+// ═══ Naver Place ID lookup table ═══
+// Maps English name → {kr: Korean name, pid: Naver Place ID (empty = use coords as fallback) }
+var PLACE_DB = {
+  // Seoul Attractions
+  "National Museum of Korea":      { kr:"국립중앙박물관",        pid:"11620570" },
+  "Namdaemun Market":              { kr:"남대문시장",             pid:"13304144" },
+  "Lotte World Adventure & Magic": { kr:"롯데월드 어드벤처",      pid:"11583235" },
+  "Seoul Forest Park":             { kr:"서울숲공원",             pid:"11636039" },
+  "Starfield Library (COEX Mall)": { kr:"스타필드 코엑스몰",      pid:"12307868" },
+  "Banpo Bridge Moonlight Rainbow Fountain": { kr:"반포대교달빛무지개분수", pid:"13543876" },
+  "Gyeongbokgung Palace":          { kr:"경복궁",               pid:"11571707" },
+  "Jogyesa Temple":                { kr:"대한불교조계종 조계사", pid:"12127463" },
+  "Insadong Street":               { kr:"인사동거리",             pid:"" },     // district, not a POI
+  "Cheonggyecheon Stream":         { kr:"청계천",                 pid:"13543936" }, // 청계광장 as access point
+  "Seoullo 7017 (elevated garden walk)": { kr:"서울로7017",     pid:"35756931" },
+  "Myeongdong Shopping Street":    { kr:"명동쇼핑거리",           pid:"18694135" },
+  "Deoksugung Palace":             { kr:"덕수궁",               pid:"11571730" },
+  "Seoul Children's Grand Park / Museum": { kr:"서울어린이대공원", pid:"11796387" },
+  "National Children's Science Center": { kr:"국립중앙과학관",   pid:"11784252" },
+  "Dongdaemun Design Plaza (DDP)": { kr:"동대문디자인플라자",    pid:"18063223" },
+  "Namsan Seoul Tower":            { kr:"N서울타워",             pid:"11662870" },
+  "DMJ / Dorasan Station":         { kr:"임진각관광안내소",      pid:"11583224" }, // DMJ access point fallback
+  "JSA (Panmunjom)":               { kr:"판문점 평화의 집",      pid:"" },     // restricted zone, no POI
+  // Busan Attractions
+  "Huinnyeoul Culture Village":    { kr:"흰여울문화마을",         pid:"37418047" },
+  "Jeoryeong Coastal Trail (Oryukdo area)": { kr:"오륙도",     pid:"11491917" },
+  "Oryukdo Skywalk":               { kr:"오륙도스카이워크",       pid:"33461396" },
+  "Gwangalli Beach Drone Show":    { kr:"광안리 M 드론라이트쇼",  pid:"11491655" },
+  "Haedong Yonggungsa Temple (seaside)": { kr:"해동용궁사",     pid:"11737443" },
+  "Haeundae Blueline Park - Cheongsapo Stn": { kr:"해운대블루라인파크", pid:"1287134328" },
+  "Shinsegae Dept Store (Centum City)": { kr:"신세계백화점센텀시티점", pid:"13067134" },
+  "Gamcheon Culture Village":      { kr:"감천문화마을",           pid:"21884707" },
+  "Gukje Market":                  { kr:"국제시장",              pid:"13491723" },
+  "BIFF Square (Haeundae)":        { kr:"영화의전당",            pid:"20410180" },
+  "Jagalchi Market":               { kr:"부산자갈치시장",         pid:"11535750" },
+  "Songdo Sea Cable Car":          { kr:"송도해상케이블카",       pid:"594242077" },
+  // Gyeongju Day Trip
+  "Bulguksa Temple":              { kr:"불국사",               pid:"11663971" },
+  "Seokguram Grotto":              { kr:"석굴암",              pid:"11663972" },
+  // Jeju Attractions
+  "Aqua Planet Jeju":              { kr:"아쿠아플라넷 제주",     pid:"19708047" },
+  "Seopjikoji Coastal Walk":       { kr:"섭지코지",             pid:"13490878" },
+  "Seongsan Ilchulbong (Sunrise Peak)": { kr:"성산일출봉",     pid:"11491438" },
+  "Manjanggul Cave":               { kr:"만장굴",              pid:"11608192" },
+  "Bijarim Forest & Hallstatt Village": { kr:"비자림",         pid:"12370507" },
+  "Snoopy Garden":                 { kr:"스누피가든",           pid:"1875149782" },
+  "Hamdeok Beach (white sand)":    { kr:"함덕서우봉해변",        pid:"11491805" },
+  "Hallim Park":                   { kr:"한림공원",             pid:"" },     // not in public POI db
+  "Teddy Bear Museum":             { kr:"테디베어뮤지엄",        pid:"11607804" },
+  "Jusangjeolli Cliffs":           { kr:"대포주상절리",         pid:"12226192" },
+  // Transit / Airports
+  "Incheon International Airport (ICN)": { kr:"인천국제공항 제1여객터미널", pid:"11577227" },
+  "Gimpo Airport (GMP)":           { kr:"김포국제공항",         pid:"11540232" },
+  // Hotels (not in Naver Places — will use coordinates)
+  "SSH Ikseon Peter Cat Hostel":   { kr:"", pid:"" }, // not on Naver Maps
+  "Myeongdong New Stay Inn":       { kr:"", pid:"" }, // not on Naver Maps
+  "GnB Hotel":                     { kr:"", pid:"" }, // not on Naver Places (only booking.naver.com)
+  "The Cordelia S":                { kr:"", pid:"" }, // not found
+};
+
+// Lookup Korean name and Place ID for a given English place name
+function _lookupKr(name) {
   var clean = name.replace(' (Hotel)', '').trim();
+  return PLACE_DB[clean] || PLACE_DB[name];
+}
+
+// Generate Naver Maps URLs — returns an array of link objects for callers to render.
+function placeURL(lat, lng, name) {
+  var lookup = _lookupKr(name);
+  var clean = name.replace(' (Hotel)', '').trim();
+  var krName = lookup ? lookup.kr : clean;
+  if (!krName) krName = clean; // fallback to English
+  var pid = lookup ? lookup.pid : "";
+
   if (_isMobileNaver()) {
     return [
-      { href: 'nmap://place?lat=' + lat + '&lng=' + lng + '&name=' + encodeURIComponent(clean) + '&appname=com.naver.maps.map', label: 'Open in App' },
-      { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17',   label: 'Open on Web' }
+      { href: 'nmap://place?lat=' + lat + '&lng=' + lng + '&name=' + encodeURIComponent(krName) + (pid ? '&placeId=' + pid : '') + '&appname=com.naver.maps.map', label: 'Open in App' },
+      { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(krName) + '?coord=' + lng + ',' + lat + '&zoom=17', label: 'Open on Web' }
     ];
   }
   return [
-    { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17', label: 'Open in Naver Maps' }
+    { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(krName) + '?coord=' + lng + ',' + lat + '&zoom=17', label: 'Open in Naver Maps' }
   ];
 }
 
 function routeURL(slat, slng, dlat, dlng, dname) {
-  var clean = dname.replace(' (Hotel)', '').trim();
+  var dLookup = _lookupKr(dname);
+  var cleanD = dname.replace(' (Hotel)', '').trim();
+  var krName = dLookup ? dLookup.kr : cleanD;
+  if (!krName) krName = cleanD;
+  var dpid = dLookup ? dLookup.pid : "";
+
   if (_isMobileNaver()) {
     return [
-      { href: 'nmap://route/car?slat=' + slat + '&slng=' + slng + '&sname=' + encodeURIComponent(clean) + '&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(clean) + '&appname=com.naver.maps.map', label: 'Route in App' },
-      { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Web' }
+      { href: 'nmap://route/public?slat=' + slat + '&slng=' + slng + '&sname=%EC%B6%9C%EB%B0%9C&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(krName) + (dpid ? '&placeId=' + dpid : '') + '&appname=com.naver.maps.map', label: 'Route in App' },
+      { href: 'https://map.naver.com/v5/directions/' + encodeURIComponent(krName) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Web' }
     ];
   }
   return [
-    { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Naver Maps' }
+    { href: 'https://map.naver.com/v5/directions/' + encodeURIComponent(krName) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Naver Maps' }
   ];
 }
 
