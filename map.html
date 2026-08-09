@@ -114,12 +114,38 @@
 <script>
 // All notes use ASCII-only strings to avoid encoding issues across browsers/CDNs
 
-// Naver Maps URLs (reliable in Korea)
-function placeURL(lat, lng, name) {
-  return 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17';
+// ═══ Naver Maps helpers ═══
+// Detect mobile so we can offer nmap:// deep links + web fallback on desktop.
+function _isMobileNaver() {
+  return (/Android|iPhone|iPad|iPod|mobile/i.test(navigator.userAgent) ||
+          (navigator.maxTouchPoints && navigator.maxTouchPoints > 1));
 }
-function routeURL(flat, flng, dlat, dlng, dname) {
-  return 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17';
+
+// Generate Naver Maps URLs — returns an object with href, label, icon for callers to render.
+function placeURL(lat, lng, name) {
+  var clean = name.replace(' (Hotel)', '').trim();
+  if (_isMobileNaver()) {
+    return [
+      { href: 'nmap://place?lat=' + lat + '&lng=' + lng + '&name=' + encodeURIComponent(clean) + '&appname=com.naver.maps.map', label: 'Open in App' },
+      { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17',   label: 'Open on Web' }
+    ];
+  }
+  return [
+    { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(name) + '?coord=' + lng + ',' + lat + '&zoom=17', label: 'Open in Naver Maps' }
+  ];
+}
+
+function routeURL(slat, slng, dlat, dlng, dname) {
+  var clean = dname.replace(' (Hotel)', '').trim();
+  if (_isMobileNaver()) {
+    return [
+      { href: 'nmap://route/car?slat=' + slat + '&slng=' + slng + '&sname=' + encodeURIComponent(clean) + '&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(clean) + '&appname=com.naver.maps.map', label: 'Route in App' },
+      { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Web' }
+    ];
+  }
+  return [
+    { href: 'https://map.naver.com/v5/search/' + encodeURIComponent(dname) + '?coord=' + dlng + ',' + dlat + '&zoom=17', label: 'Route on Naver Maps' }
+  ];
 }
 
 // ═══ DATA ═══
@@ -438,7 +464,7 @@ function render(day) {
       var pinNum = isHotel ? '' : ('<b>' + attractionCounter + '. </b>');
       var m = L.marker([place.lat, place.lng], { icon: icon })
         .bindPopup(pinNum + displayName + (isHotel ? ' <span style="color:#d97706;font-weight:600;">(Hotel)</span>' : '') + '<br>' +
-                   '<a href="' + placeURL(place.lat, place.lng, place.name) + '" target="_blank" style="color:#059669;font-weight:600;">Open in Naver Maps</a>');
+                   (function(_links) { var _s = ''; for (var k = 0; k < _links.length; k++) { _s += '<a href="' + _links[k].href + '" target="_blank" style="color:#059669;font-weight:600;">' + _links[k].label + '</a>' + (k < _links.length - 1 ? ' / ' : ''); } return _s; })(placeURL(place.lat, place.lng, place.name)) );
       markersLayer.addLayer(m);
       m.on('click', function() { map.panTo([place.lat, place.lng]); });
     })(i);
@@ -515,14 +541,26 @@ function render(day) {
 
     var notesHTML = p.notes ? '<div class="text-xs text-gray-500 mt-1">Note: ' + p.notes + '</div>' : '';
 
+    // Helper to render link buttons for an array of link objects.
+    function _renderLinks(links, prefix, cls) {
+      var s = '';
+      for (var k = 0; k < links.length; k++) {
+        if (!links[k]) continue;
+        var lbl = links.length > 1 ? prefix + ' (' + links[k].label + ')' : prefix;
+        s += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md ' + cls + ' transition" href="' + links[k].href + '" target="_blank">' + lbl + '</a>';
+      }
+      return s;
+    }
+
     var actions = '<div class="flex gap-1.5 flex-wrap mt-2">';
-    actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md bg-emerald-700 text-white hover:bg-emerald-800 transition" href="' + placeURL(p.lat, p.lng, p.name) + '" target="_blank">Open</a>';
+    actions += _renderLinks(placeURL(p.lat, p.lng, p.name), 'Open', 'bg-emerald-700 text-white hover:bg-emerald-800');
 
     // Forward route — skip over any adjacent hotels to find the next attraction
     for (var jf = i + 1; jf < dd.places.length; jf++) {
       var nxt = dd.places[jf];
       if (nxt.name.indexOf('(Hotel)') === -1) {
-        actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(p.lat, p.lng, nxt.lat, nxt.lng, nxt.name) + '" target="_blank">-> ' + nxt.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+        var fwdName = nxt.name.split('(')[0].trim().split(')')[0].trim();
+        actions += _renderLinks(routeURL(p.lat, p.lng, nxt.lat, nxt.lng, nxt.name), '-> ' + fwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
         break;
       }
     }
@@ -530,7 +568,8 @@ function render(day) {
     for (var jb = i - 1; jb >= 0; jb--) {
       var prev = dd.places[jb];
       if (prev.name.indexOf('(Hotel)') === -1) {
-        actions += '<a class="inline-flex items-center text-xs font-semibold px-2 py-1 rounded-md border border-red-300 text-red-600 hover:bg-red-50 transition" href="' + routeURL(prev.lat, prev.lng, p.lat, p.lng, p.name) + '" target="_blank"><- ' + prev.name.split('(')[0].trim().split(')')[0].trim() + '</a>';
+        var bwdName = prev.name.split('(')[0].trim().split(')')[0].trim();
+        actions += _renderLinks(routeURL(prev.lat, prev.lng, p.lat, p.lng, p.name), '<- ' + bwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
         break;
       }
     }
