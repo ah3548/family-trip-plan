@@ -11,7 +11,7 @@
 
 
 <details>
-<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 SSH Ikseon Peter Cat Hostel</b></summary>
+<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 SSH Ikseon Peter Cat Hostel ($684 total / 6n, 15:00–11:00)</b></summary>
 > 📍 <a href="https://share.google/ttOCu4ayAyoiiLgA8">SSH Ikseon Peter Cat Hostel</a> · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
 
 ### Sat Aug 22 — **"Arrival Day — Land in Korea & Settle into Ikseon"**
@@ -81,7 +81,7 @@
 
 
 <details>
-<summary><b>Busan & Gyeongju (Aug 29 - Sep 1) · 🏨 GnB Hotel</b></summary>
+<summary><b>Busan & Gyeongju (Aug 29 - Sep 1) · 🏨 GnB Hotel ($339 / 3n, 15:00–11:00 · 🥐 breakfast included)</b></summary>
 > All costs per person unless noted. Hotel return: ~20:00 nightly.
 > 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
@@ -127,7 +127,7 @@
 
 
 <details>
-<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S</b></summary>
+<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S ($170 / 3n, 16:00–11:00 · 🥐 breakfast included)</b></summary>
 > All costs per person unless noted. 🚗 Rental car booked ✅ (Sep 2–5). Hotel return: ~20:00 nightly.
 > 📍 <a href="https://share.google/iVUPJ8yguvdiBzbgD">The Cordelia S</a> · Seongsan-eup, Seogwipo-si, Jeju-do
 
@@ -172,7 +172,7 @@
 
 
 <details>
-<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 Myeongdong New Stay Inn</b></summary>
+<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 Myeongdong New Stay Inn (~$120 est. / 3n, 15:00–11:00 · 🧺 free laundry)</b></summary>
 
 > All costs per person unless noted. Hotel return: ~20:00 nightly.
 > 📍 <a href="https://maps.google.com/?q=14+Supyo-ro,+Jung-gu,+Seoul">Myeongdong New Stay Inn</a> · 14 Supyo-ro, Jung-gu, Seoul (Myeongdong)
@@ -250,7 +250,7 @@ Four items still need attention before the trip:
 
 | Category | Cost | Notes |
 |----------|------|-------|
-| 🏨 Accommodations (17 nights) | $3,400 | 2x SSH Peter Cat × 6n · 3x GnB × 3n · 8x Gyeongju + **3x The Cordelia S (Jeju)**<br>≈$200/night average |
+| 🏨 Accommodations (17 nights) | $3,400 | See paid breakdown below · ≈$200/night avg<br><br>**📍 SSH Peter Cat** — $684 (6n, 15:00–11:00)<br>**📍 GnB Hotel** — $339 (3n, 15:00–11:00 · 🥐 breakfast incl.)<br>**📍 The Cordelia S** — $170 (3n, 16:00–11:00 · 🥐 breakfast incl.)<br>**📍 Myeongdong New Stay** — ~$120 est. (3n, 15:00–11:00 · 🧺 free laundry)<br>**📍 Gyeongju villas** — ~$2,097 remaining balance |
 | 🚗 Transportation (flights + transit + rental car) | $2,621 | **KTX Seoul→Busan: $98.32 paid ✅ CRK005368** (est. was ~$175 — saved ~$77)<br>**PUS→CJU flight BX8109: $146.39 paid ✅ Seat 4 · 11:40→12:40**<br>**CJU→GMP return BX8040: $140.48 paid ✅ Seat 4 · 09:30→10:50**<br>**Jeju rental car (Sep 2–5) $180.08 paid ✅ Booking ID: 10333050686 — Hyundai Sonata or similar, free cancel before Aug 31**<br>Local transit (AREX, buses, ferries) [TBD] |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Lotte World ~$172 + DMZ ~$80 + minor attractions ~$22 |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Cable Car ~$30 + temples ~$18 + Seongsan ~$16 |
