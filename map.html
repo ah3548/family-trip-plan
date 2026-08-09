@@ -493,10 +493,11 @@ function render(day) {
                    [Math.max.apply(null, lats), Math.max.apply(null, lngs)]], { padding: [50, 50] });
   }
 
-  // Place cards (sidebar)
+  // Place cards (sidebar) — number attractions in sync with map pins (hotels skipped)
   var listEl = document.getElementById('place-list');
   listEl.innerHTML = '<div class="text-sm font-semibold text-emerald-700 mb-3">' + ITINERARY[currentCity].label + ' - ' + dd.date + '</div>';
 
+  var sidebarAttractionCounter = 0;
   for (var i = 0; i < dd.places.length; i++) {
     var p = dd.places[i];
     var isHotel = p.name.indexOf('(Hotel)') !== -1;
@@ -510,7 +511,8 @@ function render(day) {
     }
 
     var displayName = p.name.replace(' (Hotel)', '');
-    var pinHTML = isHotel ? '&#x26ea;' : (i + 1);
+    sidebarAttractionCounter++;
+    var pinHTML = isHotel ? '&#x26ea;' : sidebarAttractionCounter;
     var bgStyle = isHotel ? 'background:#d97706' : 'background:#059669';
 
     var notesHTML = p.notes ? '<div class="text-xs text-gray-500 mt-1">Note: ' + p.notes + '</div>' : '';
