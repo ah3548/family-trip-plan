@@ -87,7 +87,7 @@
 ### Sat Aug 29 — **"KTX to the Sea — Arrival, Dongbaek Coast & Gwangalli Beach Show"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | Travel Seoul → Busan: KTX ≈2h 45m or Bus (≈$120 total family) | est. ₩60K/person (KTX) | Seoul Station → Busan |
+| ☀️ AM | **KTX booked! ✅** [CRK005368](https://share.google/ttOCu4ayAyoiiLgA8) — **KTX 101 · Car.17 Seats 8B/8C/8D** — Seoul Station 09:33 → Busan Station 12:53 (3h 20m). Adults in 8C+8D, child in 8B (all same car). *Tip: arrive at Seoul Station by 09:00 for platform access.* | ✅ booked | KTX 101 Car.17
 | 🍽 Lunch | Light meal after arrival — **bibimbap** near hotel (book via [Klook](https://www.klook.com) or [KKday](https://www.kkday.com)) | est. ₩10K/person | from hotel area |
 | 🌤 PM | **Drop bags at hotel → rest** — let kids cool down. *Optional if energy allows:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free). Flat paths, zero stairs. Skip if tired. | Free | 🚕~10 min from hotel area; easy to skip |
 | 🍽 Eve | **Gwangalli Beach** — dinner at a beachfront restaurant + **[🎆 Gwangalli M Drone Light Show: 8 PM & 10 PM (Aug/Sep, Saturdays only)]** — arrive by 6:30–7:00 PM for good spot. Best viewing on the sandy beach (let kids play) or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30 min from hotel area |
@@ -127,13 +127,13 @@
 
 <details>
 <summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S</b></summary>
-> 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted. 🚗 Rental car (≈$350 incl. fuel)
+> 🏁 Daily return-to-hotel: 20:00. All costs per person unless noted. 🚗 Rental car booked ✅ (Sep 2–5)
 > 📍 <a href="https://share.google/iVUPJ8yguvdiBzbgD">The Cordelia S</a> · Seongsan-eup, Seogwipo-si, Jeju-do
 
-### Wed Sep 2 ✈️ PUS→CJU ≈10:00 → Arrive CJU ≈11:10 → Pick up rental car (≈30 min) — **"Flight to Jeju, Aqua Planet & Seongsan Ilchulbong Sunset"**
+### Wed Sep 2 ✈️ **PUS→CJU booked ✅ BX8109** — **"Flight to Jeju, Aqua Planet & Seongsan Ilchulbong Sunset"**
 | Time | Activity | Cost (person) | Duration |
 |------|----------|---------------|----------|
-| ☀️ AM | **Arrival + car pickup** | est. ₩35K–55K/person (flight) | ≈1h total |
+| ☀️ AM | **Flight PUS→CJU booked ✅ — BX8109 · Seat 4** — Busan 11:40 → Jeju 12:40 (1h). Arrive CJU, clear domestic transit, pick up rental car (~30 min) | ✅ booked | ✈️ 1h
 | 🌤 PM | [Aqua Planet Jeju](https://www.aquaplanet.co.kr/jeju/index.do) aquarium — *open to 18:00 (last adm 17:00)* | ₩42K (≈$31) adt | 2–2.5h |
 | 🌤 Lat-Af | [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?cid=127813) coastal walk (ocean views, boardwalk trails) — *open access* | Free | ≈45-60m · 🚗5–10m from Aqua Planet |
 | 🌅 Eve | [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) sunset walk (climb summit = 30–40m RT + time at top) — *⚠️ **arrive by 17:00** closes ≈19:00 in Sep; advance res. req.* | ₩5K (≈$4) | 1–1.5h · 🚗10m from Seopjikoji |
@@ -157,11 +157,11 @@
 | 🌊 Lat-Af | [Jusangjeolli Cliffs](https://www.visitjeju.net/en/detail/view?contentsid=CNTS_000000000020476) coastal columns — *coastal road toward Seogwipo* | ₩2K (≈$1.50) adt | 30–45m | 🚗≈15m from Teddy Bear Museum |
 | 🍽 Dinner + 🏁 | **Dinner:** Fresh seafood in Jungmun harbor · **Back by 20:00** · 🚗≈50m to resort | est. ₩15K/person | from Jungmun |
 
-### Sat Sep 5 ✈️ [CJU→GMP](https://share.google/XBSP6Cj9dHhuSMNjo) ≈10:00→11:10 (≈1h 10m) | Korean Air / Asiana (TBD) · est. $300 total (family) — **"Jeju Farewell — Fly to Seoul & Namsan Tower Views"**
+### Sat Sep 5 ✈️ **CJU→GMP booked ✅ BX8040 · Seat 4** — **"Jeju Farewell — Fly to Seoul & Namsan Tower Views"**
 | Time | Activity | Cost | Transit |
 |------|----------|------|---------|
-| ☀️ Early AM | Drop off rental car at CJU by about 08:00 | included in rental | to airport |
-| 🌤 Lat-Af | **Flight Jeju → Seoul (Gimpo GMP)** — depart ≈10:00, arrive ≈11:10 | est. $300 total (family) | ✈️ ≈1h 10m |
+| ☀️ Early AM | Drop off rental car at CJU by about 07:30 | included in rental | to airport |
+| 🌤 Lat-Af | **Flight Jeju → Seoul (Gimpo GMP) booked ✅ — BX8040 · Seat 4** — depart 09:30, arrive 10:50 (1h 20m) | ✅ booked | ✈️ 1h 20m |
 | 🍽 Lunch + 🏁 | **Lunch:** Light meal near GMP | est. ₩10K/person | 🚌≈1h 18m to hotel |
 
 </details>
@@ -230,22 +230,24 @@ Jeonju and Gangneung have been removed — too far for a day trip with young kid
 
 ### Operating Hours Review ✅
 All operating hours have been verified against the itinerary — no conflicts found. Four items to keep on your radar:
-1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
-2. **Seongsan Ilchulbong (Sep 2):** Closes ≈7 PM in September; aim to arrive by 5 PM for sunset walk. Leave Aqua Planet early enough for the scenic coastal drive.
-3. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
-4. **Jeju→Seoul flight (Sep 5):** Book by Aug 29 at latest — flights fill up fast for weekend departures
+1. **KTX booked! ✅ (Aug 29):** KTX 101, CRK005368 — Car.17 Seats 8B/8C/8D, depart 09:33 → arrive 12:53. Arrive station by 09:00.
+2. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
+3. **Seongsan Ilchulbong (Sep 2):** Closes ≈7 PM in September; aim to arrive by 5 PM for sunset walk. Leave Aqua Planet early enough for the scenic coastal drive.
+4. **Sky Capsule (Aug 30, Busan):** Book advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr)
+5. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
+6. **Jeju→Seoul flight: BX8040 ✅ (Sep 5, 09:30→10:50)** — drop rental car by 07:30
 
 ## Budget Estimate (family of 4 · ≈20 days)
 
 | Category | Cost | Notes |
 |----------|------|-------|
 | 🏨 Accommodations (17 nights) | $3,400 | 2x SSH Peter Cat × 6n · 3x GnB × 3n · 8x Gyeongju + **3x The Cordelia S (Jeju)**<br>≈$200/night average |
-| 🚗 Transportation (flights + transit + rental car) | $2,550 | KTX Seoul→Busan (≈₩60K/person)<br>Domestic: PUS→CJU + CJU→GMP (≈$300/family × 2)<br>Rental car ≈$350 (incl. fuel)<br>Local transit (AREX, buses, ferries) |
+| 🚗 Transportation (flights + transit + rental car) | $2,621 | **KTX Seoul→Busan: $98.32 paid ✅ CRK005368** (est. was ~$175 — saved ~$77)<br>**PUS→CJU flight BX8109: $146.39 paid ✅ Seat 4 · 11:40→12:40**<br>**CJU→GMP return BX8040: $140.48 paid ✅ Seat 4 · 09:30→10:50**<br>**Jeju rental car (Sep 2–5) $180.08 paid ✅ Booking ID: 10333050686 — Hyundai Sonata or similar, free cancel before Aug 31**<br>Local transit (AREX, buses, ferries) [TBD] |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Children's Museum ₩15K × 4 (≈$44)<br>Lotte World ₩62K adt/₩47K child (≈$172)<br>DMZ ₩55K × 2 adults (≈$80)<br>Science Ctr ₩3K × 4 (≈$6) · Gyeongbokgung free w/Hanbok (≈$8 optional) |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Songdo Cable Car ₩10K × 4 (≈$30)<br>Bulguksa ₩5K + Seokguram ₩4K × 4 (≈$18)<br>Seongsan Ilchulbong ₩5K × 4 (≈$16) |
 | 🎟 Jeju attractions (≈4 days) | ≈$345 | Aqua Planet ₩42K adt/₩35K child × 2 (≈$93)<br>Hallim Park ₩30K × 4 (≈$90)<br>Snoopy Garden ₩18K adt/₩12K child × 2 (≈$43)<br>Sheep Riding ₩30K avg × 4 (≈$75)<br>Manjanggul Cave ₩12K × 4 (≈$36) · Teddy Bear Museum ₩8K adt/₩6K child × 2 (≈$16) |
 | 🍽 Food (≈18 days × 4 people) | $900–1,200 | ₩150K–250K/day (incl. markets + street food + sit-down meals)<br>Varying per meal type, dietary restrictions noted in food guide |
-| **Total Estimate** | **≈$7,935–8,335** | |
+| **Total Estimate** | **≈$7,577–$7,998** (KTX saved ~$77 · Jeju domestic flights saved ~$13 · Rental car saved ~$170 = **~$260 under original estimate**) | |
 
 <details>
 <summary><b>🍽️ Food Guide: Must-Eats & Ordering Tips</b></summary>
