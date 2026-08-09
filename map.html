@@ -224,20 +224,13 @@ function routeURL(slat, slng, dlat, dlng, dname) {
     // Mobile: nmap:// deep link opens Naver Maps app with transit directions filled in
     return [
       { href: 'nmap://route/public?slat=' + slat + '&slng=' + slng + '&sname=%EC%B6%9C%EB%B0%9C&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(krName) + (dpid ? '&placeId=' + dpid : '') + '&appname=com.naver.maps.map', label: 'Route in App' },
-      // Web fallback: use Naver Maps web /p/directions/ path format with place ID
-      { href: 'https://map.naver.com/p/directions/-/' + (dpid || '-') + '/transit', label: 'Route on Web (tap start)' }
+      // Web fallback for mobile users without app
+      { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=%EC%B6%9C%EB%B0%9C&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(krName) + '&pathType=1&menu=route', label: 'Route on Web' }
     ];
   }
-  // Desktop browser — transit routing requires Naver Maps app, so show the destination
-  // and let user start from their current location
-  if (dpid) {
-    return [
-      { href: 'https://map.naver.com/p/directions/-/' + dpid + '/transit', label: 'Transit Route → ' + krName }
-    ];
-  }
-  // No place ID — just open the destination search so user can tap "Route" manually
+  // Desktop browser — Naver Maps web routing URL with pathType=1 for transit (transit/car/walk = 0/1/2)
   return [
-    { href: 'https://map.naver.com/p/search/' + encodeURIComponent(krName), label: 'Search in Naver Maps' }
+    { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=%EC%B6%9C%EB%B0%9C&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(krName) + '&pathType=1&menu=route', label: 'Transit Route → ' + krName }
   ];
 }
 
