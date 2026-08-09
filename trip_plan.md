@@ -256,7 +256,6 @@ Four items still need attention before the trip:
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Cable Car ~$30 + temples ~$18 + Seongsan ~$16 |
 | 🎟 Jeju attractions (≈4 days) | ≈$345 | Aqua Planet ~$93 + Hallim Park ~$90 + Sheep Riding ~$75 + others ~$87 |
 | 🍽 Food (≈18 days × 4 people) | $900–1,200 | ₩150K–250K/day (incl. markets + street food + sit-down meals)<br>Varying per meal type, dietary restrictions noted in food guide |
-| **Total Actuals** | **≈$4,908–5,120** (attractions + food are estimates) · Accommodations now reflected at actual ~$1,383 vs original $3,400 est. | |
 
 <details>
 <summary><b>🍽️ Food Guide: Must-Eats & Ordering Tips</b></summary>
