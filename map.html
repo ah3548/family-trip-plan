@@ -537,7 +537,7 @@ function render(day) {
     }
 
     var displayName = p.name.replace(' (Hotel)', '');
-    sidebarAttractionCounter++;
+    if (!isHotel) sidebarAttractionCounter++;
     var pinHTML = isHotel ? '&#x26ea;' : sidebarAttractionCounter;
     var bgStyle = isHotel ? 'background:#d97706' : 'background:#059669';
 
