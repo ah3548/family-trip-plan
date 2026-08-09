@@ -250,7 +250,7 @@ Four items still need attention before the trip:
 
 | Category | Cost | Notes |
 |----------|------|-------|
-| 🏨 Accommodations (17 nights) | $3,400 | See paid breakdown below · ≈$200/night avg<br><br>**📍 SSH Peter Cat** — $753.80 (6n, 15:00–11:00)<br>**📍 GnB Hotel** — $339 (3n, 15:00–11:00 · 🥐 breakfast incl.)<br>**📍 The Cordelia S** — $170 (3n, 16:00–11:00 · 🥐 breakfast incl.)<br>**📍 Myeongdong New Stay** — ~$120 est. (3n, 15:00–11:00 · 🧺 free laundry)<br>**📍 Gyeongju villas** — ~$2,027 remaining balance |
+| 🏨 Accommodations (17 nights) | $3,400 total | See paid breakdown below · ≈$200/night avg<br><br>**📍 SSH Peter Cat** — $753.80 (6n, 15:00–11:00)<br>**📍 GnB Hotel** — $339 (3n, 15:00–11:00 · 🥐 breakfast incl.)<br>**📍 The Cordelia S** — $170 (3n, 16:00–11:00 · 🥐 breakfast incl.)<br>**📍 Myeongdong New Stay** — ~$120 est. (3n, 15:00–11:00 · 🧺 free laundry)<br>**Untracked:** ~$2,017 across other booked stays — please update with actuals |
 | 🚗 Transportation (flights + transit + rental car) | $2,621 | **KTX Seoul→Busan: $98.32 paid ✅ CRK005368** (est. was ~$175 — saved ~$77)<br>**PUS→CJU flight BX8109: $146.39 paid ✅ Seat 4 · 11:40→12:40**<br>**CJU→GMP return BX8040: $140.48 paid ✅ Seat 4 · 09:30→10:50**<br>**Jeju rental car (Sep 2–5) $180.08 paid ✅ Booking ID: 10333050686 — Hyundai Sonata or similar, free cancel before Aug 31**<br>Local transit (AREX, buses, ferries) [TBD] |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Lotte World ~$172 + DMZ ~$80 + minor attractions ~$22 |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Cable Car ~$30 + temples ~$18 + Seongsan ~$16 |
