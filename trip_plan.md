@@ -51,22 +51,25 @@
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | Back at hotel | | |
 
-### Wed Aug 26 — **"Hanbok Day — Palace, Temple Break & Stream Cooling Walk"**
+### Wed Aug 26 — **"Hanbok Day — Secret Garden, Palace & Stream Cooling Walk"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
+| 🌅 Optional Early AM | **[Secret Garden (Changdeokgung Huwon)](https://english.visitseoul.net/attractions/Huwon--Secret-Garden-/388)** — *if booked; timed guided tour ~08:00, 90 min* ⚠️ **Book by Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form · ₩5,000/adult + palace admission (kids under 7 free) — rare garden accessible only with timed tour. Uneven stone paths: age 6 can manage, age 4 may need carrier on rough sections. **If online fails:** walk-up tickets at Changdeokgung info center by 9 AM same-day (50 seats available). Otherwise skip and just do Gyeongbokgung in hanbok | ₩5K/adult + palace fee | ⚠️ Requires booking — see reservation deadline above |
 | ☀️ AM | **[Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung)** — *open 09:00-18:00 (Aug), **Free with Hanbok!*** · **⭐ arrive by 09:45 for guard ceremony at 10AM** (morning one; another at 2PM). Kids love the color-changing guards. Walk the grand courtyards in hanbok | Free with hanbok / ₩3K without | 🚌 19m from hotel |
-| 🍽 Lunch | **Samgyetang** (ginseng chicken soup) — restorative post-palace meal near palace | est. ₩15K/person | 🚶 5 min from palace |
+| 🍽 Lunch | **Doma restaurant** (~11:30) — opens at opening to avoid queues · walk from Gyeongbokgung ~8 min. ⚠️ Opens 11:30 AM (early-lunch, not breakfast) | est. ₩15K/person | 🚶 8 min walk from Gyeongbokgung |
 | 🌤 Early PM | **[Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village)** — *open to 21:00* · **⭐ USE LOWER PATHS ONLY** (upper alleys have steep stone stairs, NOT stroller-friendly). Flat ridge walk along Seonggyungwan University side with classic hanok views | Free | 🚕 ₩4K taxi from samgyetang area (~5 min) |
-| ☁️ Lat-Af PM | **[Jogyesa Temple](https://english.visitseoul.net/attractions/Jogyesa-Temple-/234)** ⭐ NEW — flat, shaded, AC break. Kids can buy mini incense sticks (~₩500). Quick 20-min stop to escape August heat and rest feet | Free (incense ~₩500/person for kids) | 🚶 10 min from Bukchon lower paths (southward walk) |
-| 💦 Late PM | **[Cheonggyecheon Stream](https://english.visitseoul.net/attractions/Cheonggyecheon-Corridor-/3)** ⭐ NEW — southward stream walk with **fountains (12PM–9PM, mist fountain through November)**. Essential August cooling tool. Kids love water play; flat paths throughout. Walk from City Hall toward Jongno (~45 min) | Free | 🚶 5 min from Jogyesa Temple toward City Hall |
-| 🔲 Eve | **[Insa-dong Culture Street](https://english.visitseoul.net/attractions/Insadong-Culture-Street-/108)** — dawn–dusk · crafts, art galleries, paper museums, calligraphy for kids, souvenirs. **spend ≈1–1.5 hr** | Free | 🚶 15 min downhill from Cheonggyecheon toward Insa-dong |
+| ☁️ Lat-Af PM | ~~[Jogyesa Temple](https://english.visitseoul.net/attractions/Jogyesa-Temple-/234)~~ → **DROPPED** — day was overloaded for ages 4 & 6 in August heat · keeping Cheonggyecheon as the cooling break instead | — | — |
+| 🍵 ~14:00 PM | **Jeontong Dawon tea house** (~45 min) — traditional Korean tea in a hanok courtyard inside Gyeongin Art Museum in Insadong. Cool AC/peaceful rest stop between Bukchon walk and evening stroll · no detour needed · ₩8K–12K/person | ₩8K–12K/person | 🚶 10 min from Bukchon lower paths into Insadong |
+| 💦 Late PM | **[Cheonggyecheon Stream](https://english.visitseoul.net/attractions/Cheonggyecheon-Corridor-/3)** ⭐ NEW — southward stream walk with **fountains (12PM–9PM, mist fountain through November)**. Essential August cooling tool. Kids love water play; flat paths throughout. Replaces Jogyesa Temple as the cooling break | Free | 🚶 10 min from Jeontong Dawon toward City Hall |
 | 🍽 Dinner | Dinner near Bukchon/Insa-dong — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon/Insa-dong |
 | 🏁 | Back at hotel · 📌 Hanbok rental: book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) near Gwanghwamun Stn Exit 3/4 (~₩20K–25K family package) — wear for free palace entry | | |
 
-### Thu Aug 27 — **"Science Center & Gwangjang Market — Eat Your Way Through Food Heaven"**
+### Thu Aug 27 — **"Mangwon Market, Gwangjang & Science Center — Eat Your Way Through Food Heaven"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚶10–15m or subway from hotel |
+| 🌅 ~09:30 AM | **Hongik University Station pedestrian street** (~30 min) — murals, character shops (Kakao Friends), cafes · Line 6 one stop from hostel area | Free | 🚇 Line 6 from nearby station to Hongik Univ Stn |
+| 🥞 ~10:30 AM | **Mangwon Market** (~10:30 AM–noon) — hotteok from [Hoonhoon Hotteok](https://en.wikipedia.org/wiki/Mangwon_Market) basement stall (🔥 viral honey-butter), dakgangjeong (sweet-sour fried chicken). Open ~10 AM | est. ₩5K–10K/person | 🚇 Line 6 one stop from Hongik Univ → Mangwon Stn |
+| ☀️ Late AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚕 ₩5K–8K shared taxi from Mangwon area (~15 min) |
 | 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
 | 🔲 Lat-Af | **[Dongdaemun Design Plaza (DDP) exterior](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza)** ⭐ ADD — Zaha Hadid's futuristic architecture lit up at night. Brief (~15 min) photo stop at sunset — the lit-up exterior is visually engaging for kids. **Interior adds no value for young kids; skip going inside.** | Free | 🚶 5m from Gwangjang Market |
 | 🍽 Dinner | **Dinner:** Light meal near DDP | est. ₩15K/person | from DDP area |
@@ -99,8 +102,9 @@
 ### Sun Aug 30 — **"Ocean Temple, Sky Capsule & Blueline Coast"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* — start early (8–9 AM) when light is good and crowds are thin | Free (entry) / ₩5K/person (shared taxi, split among family of 4) | 🚕 ~45 min from hotel |
-| 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + **Sky Capsule round-trip 4DVR (~₩65K–92K per capsule, up to 4 ppl)** — *~₩16K–23K per person. Book at [sky-capsule.kr](https://www.sky-capsule.kr) in advance — peak-season walk-up availability is unreliable.* Flat paths to station, 45–60 min ride above the coast. Kids' favorite Busan sight — arrive by early afternoon for best light and shorter queues | Free (park) / ₩16K–23K per person (round-trip capsule) | 🚕~30 min from Temple area |
+| ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* — start early (8–9 AM) when light is good and crowds are thin | Free (entry) / ₩5K/person (shared taxi, split among family of 4) | 🚕 ~45 min from hotel (₩35K–40K total for temple→Haeundae→Blueline Park linear flow) |
+| 🌤 ~15:00 PM | **[Haeundae Market](https://en.wikipedia.org/wiki/Haeundae_Market)** 🍢 — Busan-style hotteok with sunflower seeds, fish cake skewers, spicy tteokbokki, grilled squid. Fresh food stalls in the afternoon are best · *linear flow: temple → market → Blueline Park = zero backtracking* | est. ₩5K–15K/person | 🚕 ~5 min from Haedong Yonggungsa area |
+| 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + **Sky Capsule round-trip 4DVR (~₩65K–92K per capsule, up to 4 ppl)** — *~₩16K–23K per person. Book at [sky-capsule.kr](https://www.sky-capsule.kr) in advance — peak-season walk-up availability is unreliable.* Flat paths to station, 45–60 min ride above the coast. Kids' favorite Busan sight — arrive by early afternoon for best light and shorter queues | Free (park) / ₩16K–23K per person (round-trip capsule) | 🚕~10 min from market area |
 | 🌊 PM | *Optional if time and energy allow:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
 | 🍽 Eve | Dinner near Haeundae/Gwangalli area — casual seafood or Korean set menu | est. ₩15–30K/person | 🚕~20 min from Blueline Park/Songjeong area |
 | 🏁 | **Back at hotel by 20:00** · No drone show on Sundays | | |
@@ -183,7 +187,9 @@
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
 | 🌤 Lat-Af | **[Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower)** — cable car ONLY (up and down) · *⭐ NO hiking with double stroller, August heat + mountain stairs = tough* — great for kids, panoramic views, open to ≈23:00. **Spend ≈45 min max** | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
-| 🍽 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
+| 🌤 Lat-Af | **[Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower)** — cable car ONLY (up and down) · *⭐ NO hiking with double stroller, August heat + mountain stairs = tough* — great for kids, panoramic views, open to ≈23:00. **Spend ≈45 min max** | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
+| 🍽 Dinner | **[Myeongdong Kyoja](https://www.instagram.com/myeongdongkyoja/)** ⭐ — Michelin Bib Gourmand famous dumpling restaurant · **⚠️ Pork-free: order kalguksu (knife-cut noodles) or cold noodles** — steamed dumplings contain pork. ~₩8K–12K/person, cash only. Open 10:30 AM–9:30 PM. 5-min walk from hotel · *spend ≈45 min* | est. ₩8K–12K/person | 🚶 5 min walk from hotel |
+| 💦 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
 
 ### Sun Sep 6 — Day Trip Choice (pick one) — **"Day Trip Decision — Incheon Zoo or Suwon Fortress Walk"**
 | Time | Activity | Cost (person) | Transit |
@@ -195,8 +201,8 @@
 ### Mon Sep 7 — Second Day Trip Choice (pick different from Sep 6) — **"Final Adventure — Pick-your-adventure or Neighborhood BBQ Feast"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ Full day | 🔲 **If chose Incheon → try Suwon** OR neighborhood exploration + **Final Korean BBQ feast:** Hanwoo galbi/chadolbaegi splurge! + souvenir shopping | est. ₩30–50K/person | from hotel area |
-| 🍽 Dinner | **Dinner:** Final Korean BBQ feast — beef short ribs (galbi), brisket (chadolbaegi) | included in activity | from shopping area |
+| ☀️ Full day | 🔲 **If chose Incheon → try Suwon** OR neighborhood exploration + souvenir shopping. Final evening: **[Jongsamyuk BBQ](https://maps.google.com/?q=종삼육)** — "Three meats" pork-free strategy: order Hanwoo beef galbi (signature) or bulgogi/dak-galbi (chicken). Say **"소고기 있어요?"** when ordering | est. ₩30–50K/person | from hotel area |
+| 🍽 Dinner | **[Jongsamyuk BBQ](https://maps.google.com/?q=종삼육)** ⭐ — "Three meats" but pork-free strategy: order **Hanwoo beef galbi** (signature) or **bulgogi (beef)** + **dak-galbi (chicken)**. Must say **"소고기 있어요?"** (Do you have beef?) when ordering. Beef options are excellent — Hanwoo galbi is the signature Korean beef experience. ⚠️ Pork is the specialty — be explicit with order | est. ₩30–50K/person | from hotel area |
 | 🏁 | Back at hotel | | |
 
 ### Tue Sep 8 — **"Souvenir Sweep & Flight Home — Egg Bread Last Bite"**
@@ -246,6 +252,7 @@ Four items still need attention before the trip:
 2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr)
 3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
 4. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
+5. **Secret Garden (Changdeokgung Huwon, Aug 26):** Book by **Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult, kids under 7 free. Timed tour ~08:00, 90 min. Uneven paths — age 4 may need carrier. If online fails: walk-up 50 seats at Changdeokgung info center by 9 AM same-day
 
 ## Trip Budget
 

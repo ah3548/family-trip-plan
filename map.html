@@ -141,6 +141,12 @@ var PLACE_DB = {
   "Seoul Children's Grand Park / Museum": { kr:"서울어린이대공원", pid:"11796387" },
   "National Children's Science Center": { kr:"국립중앙과학관",   pid:"11784252" },
   "Dongdaemun Design Plaza (DDP)": { kr:"동대문디자인플라자",    pid:"18063223" },
+  "Secret Garden (Changdeokgung Huwon)": { kr:"창덕궁 후원",     pid:"11571715" },
+  "Doma restaurant": { kr:"도마 한식당",              pid:"15006842" },
+  "Jeontong Dawon tea house (Insadong)": { kr:"전통다원 경인",     pid:"32451791" },
+  "Mangwon Market": { kr:"망원시장",               pid:"11577043" },
+  "Myeongdong Kyoja (famous dumplings)": { kr:"명동교자",          pid:"11582962" },
+  "Jongsamyuk BBQ (종삼육)": { kr:"종삼육",               pid:"27074691" },
   "Namsan Seoul Tower":            { kr:"N서울타워",             pid:"11662870" },
   "DMJ / Dorasan Station":         { kr:"임진각관광안내소",      pid:"11583224" }, // DMJ access point fallback
   "JSA (Panmunjom)":               { kr:"판문점 평화의 집",      pid:"" },     // restricted zone, no POI
@@ -284,15 +290,19 @@ function buildDays() {
   ]};
   ITINERARY.seoul1.days[4] = { date:"Wed Aug 26", places:[
     {name:"SSH Ikseon Peter Cat Hostel (Hotel)",          lat:37.5743,lng:126.9897, notes:"Check-out 11:00 · 6 nights stay"},
+    {name:"Secret Garden (Changdeokgung Huwon)",         lat:37.5820,lng:126.9890, notes:"⭐ Optional early AM — Book by Aug 19-21! Timed tour ~08:00, 90 min · ₩5K/adult"},
     {name:"Gyeongbokgung Palace",                         lat:37.5797,lng:126.9770, notes:"Guard Changing Cer: 10:00 - Free with Hanbok"},
+    {name:"Doma restaurant",                              lat:37.5830,lng:126.9780, notes:"Open 11:30 AM · early-lunch · walk from Gyeongbokgung ~8min"},
     {name:"Bukchon Hanok Village (lower paths)",          lat:37.5840,lng:126.9950, notes:"Stroller-friendly ridge walk"},
-    {name:"Jogyesa Temple",                               lat:37.5738,lng:126.9822, notes:"Flat shaded AC break · kids can buy incense sticks (~W500)"},
+    {name:"Jeontong Dawon tea house (Insadong)",         lat:37.5780,lng:126.9900, notes:"Traditional Korean tea in hanok courtyard · ~45min · ₩8K-12K/person"},
+    {name:"Cheonggyecheon Stream",                        lat:37.5691,lng:126.9787, notes:"Fountains 12PM-9PM - cool mist walk · replaces Jogyesa Temple as cooling break"},
     {name:"Insadong Street",                              lat:37.5740,lng:126.9850, notes:"Traditional shops & tea houses"},
-    {name:"Cheonggyecheon Stream",                        lat:37.5691,lng:126.9787, notes:"Fountains 12PM-9PM - cool mist walk"},
   ]};
   ITINERARY.seoul1.days[5] = { date:"Thu Aug 27", places:[
     {name:"SSH Ikseon Peter Cat Hostel (Hotel)",          lat:37.5743,lng:126.9897, notes:"Check-out 11:00 · 6 nights stay"},
-    {name:"National Children's Science Center",           lat:37.5340,lng:127.0360, notes:"Open to 17:30"},
+    {name:"Hongik Univ Station pedestrian street",        lat:37.5545,lng:126.9415, notes:"Murals, character shops ~30min · Line 6 from hostel area"},
+    {name:"Mangwon Market",                               lat:37.5537,lng:126.9150, notes:"Hotteok from Hoonhoon Hotteok stall · dakgangjeong · Line 6 one stop from Hongik"},
+    {name:"National Children's Science Center",           lat:37.5340,lng:127.0360, notes:"Open to 17:30 · ~₩5-8K taxi from Mangwon area"},
     {name:"Gwangjang Market",                             lat:37.5700,lng:127.0070, notes:"Try Korean street food here!"},
     {name:"Dongdaemun Design Plaza (DDP)",                lat:37.5672,lng:127.0095, notes:"Zaha Hadid architecture - photo stop at sunset"},
   ]};
@@ -316,7 +326,8 @@ function buildDays() {
   ITINERARY.busan.days[2] = { date:"Sun Aug 30", places:[
     {name:"GnB Hotel (19 Heukgyo-ro) (Hotel)",            lat:35.1013,lng:129.0248, notes:"Check-out 11:00 · 3 nights stay"},
     {name:"Haedong Yonggungsa Temple (seaside)",          lat:35.1710,lng:129.1040, notes:"Start early 8-9AM - open to 19:00"},
-    {name:"Haeundae Blueline Park - Cheongsapo Stn",      lat:35.1628,lng:129.1570, notes:"Sky Capsule round-trip - book in advance · go during peak hour to avoid queuing"},
+    {name:"Haeundae Market",                              lat:35.1680,lng:129.1590, notes:"Busan-style hotteok with sunflower seeds · fish cake skewers · fresh food stalls in afternoon"},
+    {name:"Haeundae Blueline Park - Cheongsapo Stn",      lat:35.1628,lng:129.1570, notes:"Sky Capsule round-trip - book in advance · linear flow: temple→market→park = zero backtracking"},
     {name:"Shinsegae Dept Store (Centum City)",           lat:35.1672,lng:129.1197, notes:"World's largest dept store — shop early if Sky Capsule goes late"},
     {name:"Songjeong Beach (optional)",                    lat:35.1500,lng:129.1430, notes:"Calm water for kids ~20-30m — optional if time/energy allow"},
   ]};
@@ -362,7 +373,8 @@ function buildDays() {
   ITINERARY.seoul2.days['sep5'] = { date:"Sat Sep 5", places:[
     {name:"Gimpo Airport (GMP)",                       lat:37.5655,lng:126.8013, notes:"~10:00-11:10 - Domestic flight from Jeju"},
     {name:"Myeongdong New Stay Inn (Hotel)",             lat:37.5623,lng:126.9906, notes:"Check-in 15:00 · 3 nights stay"},
-    {name:"Namsan Seoul Tower",                        lat:37.5514,lng:126.9880, notes:"Cable car only - panoramic views - open to 23:00"},
+    {name:"Namsan Seoul Tower",                        lat:37.5514,lng:126.9880, notes:"Cable car only - panoramic views - open to 23:00 · ~45min max"},
+    {name:"Myeongdong Kyoja (famous dumplings)",         lat:37.5630,lng:126.9860, notes:"⭐ Michelin Bib Gourmand · ⚠️ Pork-free: order kalguksu or cold noodles · ~₩8K-12K/person · 5min walk from hotel"},
     {name:"Cheonggyecheon Stream (evening fountains)", lat:37.5691,lng:126.9787, notes:"Fountains 12PM-9PM · cool mist walk ~1 hr"},
   ]};
   ITINERARY.seoul2.days['sep6'] = { date:"Sun Sep 6", places:[
@@ -371,7 +383,8 @@ function buildDays() {
   ]};
   ITINERARY.seoul2.days['sep7'] = { date:"Mon Sep 7", places:[
     {name:"Myeongdong New Stay Inn (Hotel)",                lat:37.5623,lng:126.9906, notes:"Check-out 11:00 · 3 nights stay"},
-    {name:"Suwon Hwaseong Fortress",                        lat:37.2871,lng:127.0119, notes:"UNESCO walls kids can walk on - ~40m by ITX"},
+    {name:"Suwon Hwaseong Fortress",                        lat:37.2871,lng:127.0119, notes:"UNESCO walls kids can walk on - ~40m by ITX from Seoul Station"},
+    {name:"Jongsamyuk BBQ (종삼육)",                        lat:37.5700,lng:126.9900, notes:"⭐ Final Korean BBQ feast — order Hanwoo beef galbi/dak-galbi · Say '소고기 있어요?' for beef · ₩30-50K/person"},
   ]};
   // Departure day — link to Seoul for reference
   ITINERARY.seoul2.days['dep'] = { date:"Tue Sep 8", places:[
