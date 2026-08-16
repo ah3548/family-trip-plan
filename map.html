@@ -121,8 +121,10 @@ function _isMobileNaver() {
           (navigator.maxTouchPoints && navigator.maxTouchPoints > 1));
 }
 
-// ═══ Naver Place ID lookup table ═══
-// Maps English name → {kr: Korean name, pid: Naver Place ID (empty = use coords as fallback) }
+// ═══ Korean name / Place ID reference table ═══
+// Reference data: English name → {kr: Korean name, pid: Naver Place ID}.
+// The Naver links below intentionally use the ENGLISH name + coordinates (easiest to
+// route in the Naver app), so kr/pid are kept here for reference, not for building links.
 var PLACE_DB = {
   // Seoul Attractions
   "National Museum of Korea":      { kr:"국립중앙박물관",        pid:"11620570" },
@@ -196,49 +198,47 @@ function _lookupKr(name) {
 
 // Generate Naver Maps URLs — returns an array of link objects for callers to render.
 function placeURL(lat, lng, name) {
-  var lookup = _lookupKr(name);
-  var clean = name.replace(' (Hotel)', '').trim();
-  var krName = lookup ? lookup.kr : clean;
-  if (!krName) krName = clean; // fallback to English
-  var pid = lookup ? lookup.pid : "";
+  // Use the ENGLISH name in the link so the Naver app opens it in English (easy to route).
+  // Coordinates keep the location exact; Naver resolves these English names fine.
+  var en = name.replace(' (Hotel)', '').trim();
 
   if (_isMobileNaver()) {
     return [
-      { href: 'nmap://place?lat=' + lat + '&lng=' + lng + '&name=' + encodeURIComponent(krName) + (pid ? '&placeId=' + pid : '') + '&appname=com.naver.maps.map', label: 'Open in App' },
-      // Web fallback: search by Korean name on web since coordinates don't work as params
-      { href: 'https://map.naver.com/p/search/' + encodeURIComponent(krName), label: 'Search on Web' }
+      { href: 'nmap://place?lat=' + lat + '&lng=' + lng + '&name=' + encodeURIComponent(en) + '&appname=com.naver.maps.map', label: 'Open in App' },
+      // Web fallback: search by English name
+      { href: 'https://map.naver.com/p/search/' + encodeURIComponent(en), label: 'Search on Web' }
     ];
   }
-  // Desktop browser — use place ID path if available, otherwise search
-  if (pid) {
-    return [
-      { href: 'https://map.naver.com/p/place/' + pid, label: 'Open in Naver Maps' }
-    ];
-  }
+  // Desktop browser — search by English name
   return [
-    { href: 'https://map.naver.com/p/search/' + encodeURIComponent(krName), label: 'Search in Naver Maps' }
+    { href: 'https://map.naver.com/p/search/' + encodeURIComponent(en), label: 'Search in Naver Maps' }
   ];
 }
 
-function routeURL(slat, slng, dlat, dlng, dname) {
-  var dLookup = _lookupKr(dname);
-  var cleanD = dname.replace(' (Hotel)', '').trim();
-  var krName = dLookup ? dLookup.kr : cleanD;
-  if (!krName) krName = cleanD;
-  var dpid = dLookup ? dLookup.pid : "";
+function routeURL(slat, slng, sname, dlat, dlng, dname) {
+  // Use ENGLISH source + destination names so the Naver app shows both in English (easy to route).
+  var enS = sname.replace(' (Hotel)', '').trim();
+  var en = dname.replace(' (Hotel)', '').trim();
 
   if (_isMobileNaver()) {
     // Mobile: nmap:// deep link opens Naver Maps app with transit directions filled in
     return [
-      { href: 'nmap://route/public?slat=' + slat + '&slng=' + slng + '&sname=%EC%B6%9C%EB%B0%9C&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(krName) + (dpid ? '&placeId=' + dpid : '') + '&appname=com.naver.maps.map', label: 'Route in App' },
+      { href: 'nmap://route/public?slat=' + slat + '&slng=' + slng + '&sname=' + encodeURIComponent(enS) + '&dlat=' + dlat + '&dlng=' + dlng + '&dname=' + encodeURIComponent(en) + '&appname=com.naver.maps.map', label: 'Route in App' },
       // Web fallback for mobile users without app
-      { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=%EC%B6%9C%EB%B0%9C&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(krName) + '&pathType=1&menu=route', label: 'Route on Web' }
+      { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=' + encodeURIComponent(enS) + '&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(en) + '&pathType=1&menu=route', label: 'Route on Web' }
     ];
   }
   // Desktop browser — Naver Maps web routing URL with pathType=1 for transit (transit/car/walk = 0/1/2)
   return [
-    { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=%EC%B6%9C%EB%B0%9C&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(krName) + '&pathType=1&menu=route', label: 'Transit Route → ' + krName }
+    { href: 'https://map.naver.com/index.nhn?slng=' + slng + '&slat=' + slat + '&stext=' + encodeURIComponent(enS) + '&elng=' + dlng + '&elat=' + dlat + '&etext=' + encodeURIComponent(en) + '&pathType=1&menu=route', label: 'Transit Route → ' + en }
   ];
+}
+
+// True when two place entries are the same physical spot (same name or identical coords) —
+// used to suppress the route button when the neighbor is the same place (e.g. National Museum
+// vs its co-located Children's Museum), so we don't offer a zero-distance route to itself.
+function _samePlace(a, b) {
+  return a.name === b.name || (a.lat === b.lat && a.lng === b.lng);
 }
 
 // ═══ DATA ═══
@@ -666,8 +666,11 @@ function render(day) {
     for (var jf = i + 1; jf < dd.places.length; jf++) {
       var nxt = dd.places[jf];
       if (nxt.name.indexOf('(Hotel)') === -1) {
-        var fwdName = nxt.name.split('(')[0].trim().split(')')[0].trim();
-        actions += _renderLinks(routeURL(p.lat, p.lng, nxt.lat, nxt.lng, nxt.name), '-> ' + fwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
+        // Skip the button if the neighbor is the same place (e.g. co-located Children's Museum).
+        if (!_samePlace(p, nxt)) {
+          var fwdName = nxt.name.split('(')[0].trim().split(')')[0].trim();
+          actions += _renderLinks(routeURL(p.lat, p.lng, p.name, nxt.lat, nxt.lng, nxt.name), '-> ' + fwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
+        }
         break;
       }
     }
@@ -675,8 +678,11 @@ function render(day) {
     for (var jb = i - 1; jb >= 0; jb--) {
       var prev = dd.places[jb];
       if (prev.name.indexOf('(Hotel)') === -1) {
-        var bwdName = prev.name.split('(')[0].trim().split(')')[0].trim();
-        actions += _renderLinks(routeURL(prev.lat, prev.lng, p.lat, p.lng, p.name), '<- ' + bwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
+        // Skip the button if the neighbor is the same place (e.g. co-located National Museum).
+        if (!_samePlace(p, prev)) {
+          var bwdName = prev.name.split('(')[0].trim().split(')')[0].trim();
+          actions += _renderLinks(routeURL(prev.lat, prev.lng, prev.name, p.lat, p.lng, p.name), '<- ' + bwdName, 'border border-red-300 text-red-600 hover:bg-red-50');
+        }
         break;
       }
     }
