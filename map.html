@@ -160,6 +160,8 @@ var PLACE_DB = {
   "Gwangalli Beach Drone Show":    { kr:"광안리 M 드론라이트쇼",  pid:"11491655" },
   "Haedong Yonggungsa Temple (seaside)": { kr:"해동용궁사",     pid:"11737443" },
   "Haeundae Blueline Park - Cheongsapo Stn": { kr:"해운대블루라인파크", pid:"1287134328" },
+  "Haeundae Market":                 { kr:"해운대시장",         pid:"" }, // no verified Place ID - coords fallback
+  "Haeundae Beach":                  { kr:"해운대해변",         pid:"" }, // no verified Place ID - coords fallback
   "Shinsegae Dept Store (Centum City)": { kr:"신세계백화점센텀시티점", pid:"13067134" },
   "Gamcheon Culture Village":      { kr:"감천문화마을",           pid:"21884707" },
   "Gukje Market":                  { kr:"국제시장",              pid:"13491723" },
@@ -326,14 +328,14 @@ function buildDays() {
     {name:"Gwangalli Beach Drone Show",                   lat:35.1580,lng:129.0680, notes:"Sat 8PM & 10PM - near Bronx Brewing Co"},
   ]};
   ITINERARY.busan.days[2] = { date:"Sun Aug 30", places:[
-    {name:"GnB Hotel (19 Heukgyo-ro) (Hotel)",            lat:35.1013,lng:129.0248, notes:"Check-out 11:00 · 3 nights stay"},
-    {name:"Haedong Yonggungsa Temple (seaside)",          lat:35.1710,lng:129.1040, notes:"Start early 8-9AM - open to 19:00"},
-    {name:"Haeundae Market",                              lat:35.1680,lng:129.1590, notes:"Busan-style hotteok with sunflower seeds · fish cake skewers · fresh food stalls in afternoon"},
-    {name:"Haeundae Blueline Park - Cheongsapo Stn",      lat:35.1628,lng:129.1570, notes:"Sky Capsule round-trip - book in advance · linear flow: temple→market→park = zero backtracking"},
-    {name:"Shinsegae Dept Store (Centum City)",           lat:35.1672,lng:129.1197, notes:"World's largest dept store — shop early if Sky Capsule goes late"},
-    {name:"Songjeong Beach (optional)",                    lat:35.1500,lng:129.1430, notes:"Calm water for kids ~20-30m — optional if time/energy allow"},
+    {name:"GnB Hotel (19 Heukgyo-ro) (Hotel)",            lat:35.1013,lng:129.0248, notes:"Start here - leave ~7:10 for temple · back at hotel by ~19:15"},
+    {name:"Haedong Yonggungsa Temple (seaside)",          lat:35.1710,lng:129.1040, notes:"8:00-10:30 AM - open ~05:00-19:00 · early = good light, thin crowds · taxi ~45 min / W35-40K one-way (transit 90+ min - taxi wins)"},
+    {name:"Haeundae Beach",                               lat:35.1590,lng:129.1603, notes:"11:30-13:30 - kids' 2h in sand & shallows · midday peak heat: stay in water/shade, rehydrate hourly · showers W1-2K coin, lockers W3-4K · age 4 in life vest (rental W20-30K) · swap alt if done early: Songjeong Beach at line's end"},
+    {name:"Haeundae Market",                              lat:35.1680,lng:129.1590, notes:"14:00-15:00 lunch · hotteok, fish cake skewers, tteokbokki, grilled squid · 60 min · tteokbokki broth often meat-based - ask for veg broth (no pork) · est. W5-15K/person · ~15 min walk from beach"},
+    {name:"Haeundae Blueline Park - Cheongsapo Stn",      lat:35.1628,lng:129.1570, notes:"15:30-16:45 - Sky Capsule 4DVR round-trip · book the 15:30-16:00 slot at sky-capsule.kr · 45-60 min ride, flat paths · W16-23K/person (seats up to 4) · ~10 min walk from market"},
+    {name:"Dinner near Haeundae",                         lat:35.1675,lng:129.1570, notes:"~17:00 - casual seafood or Korean set · est. W15-30K/person · taxi ~30 min / W15-20K shared back to hotel"},
   ]};
-  ITINERARY.busan.days[3] = { date:"Mon Aug 31", places:[
+ITINERARY.busan.days[3] = { date:"Mon Aug 31", places:[
     {name:"GnB Hotel (19 Heukgyo-ro) (Hotel)",            lat:35.1013,lng:129.0248, notes:"Check-out 11:00 · 3 nights stay"},
     {name:"Gamcheon Culture Village",                     lat:35.0965,lng:129.0280, notes:"Free map at Tourist Info Center"},
     {name:"Yongdusan Park + Busan Tower",                 lat:35.1020,lng:129.0310, notes:"Escalator corridor from BIFF · Observatory ~₩3K/adult"},

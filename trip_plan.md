@@ -96,19 +96,20 @@
 | ☀️ AM | **KTX** [CRK005368](https://share.google/ttOCu4ayAyoiiLgA8) — **KTX 101 · Car.17 Seats 8B/8C/8D** — Seoul Station 09:33 → Busan Station 12:53 (3h 20m). Adults in 8C+8D, child in 8B (all same car). *Tip: arrive at Seoul Station by 09:00 for platform access.* | KTX 101 Car.17
 | 🍽 Lunch | Light meal after arrival — **bibimbap** near hotel (book via [Klook](https://www.klook.com) or [KKday](https://www.kkday.com)) | est. ₩10K/person | from hotel area |
 | 🌤 PM | **Drop bags at hotel → rest** — let kids cool down. *Optional if energy allows:* [Dongbaek Island walk](https://en.wikipedia.org/wiki/Dongbaek_island) (seaside trail through pine forest, ~30 min) → [Nurimaru APEC House](https://en.wikipedia.org/wiki/Nurimaru_APEC_House) (exterior views, free). Flat paths, zero stairs. Skip if tired. | Free | 🚕~10 min from hotel area; easy to skip |
-| 🍽 Eve | **Gwangalli Beach** — dinner at a beachfront restaurant + **[🎆 Gwangalli M Drone Light Show: 8 PM & 10 PM (Aug/Sep, Saturdays only)]** — arrive by 6:30–7:00 PM for good spot. Best viewing on the sandy beach (let kids play) or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕~30 min from hotel area |
+| 🍽 Eve | **Gwangalli Beach** — dinner at a beachfront restaurant + **[🎆 Gwangalli M Drone Light Show: 8 PM & 10 PM (Aug/Sep, Saturdays only)]** — arrive by 6:30–7:00 PM for good spot. Best viewing on the sandy beach (let kids play) or Bronx Brewing Co. patio | est. ₩15–30K/person | 🚕 ~30 min / ₩15K–20K from hotel area (transit: ~40 min + 1 transfer + 7–10 min walk into drone-show crowds → taxi wins for an evening rush drop-off) |
 | 🏁 | **Back at hotel by 20:00** (or later with drone show) | | |
 
 
-### Sun Aug 30 — **"Ocean Temple, Sky Capsule & Blueline Coast"**
+### Sun Aug 30 — **"Ocean Temple, Sky Capsule, Haeundae Beach"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| ☀️ AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open about 05:00-19:00 (seasonal)* — start early (8–9 AM) when light is good and crowds are thin | Free (entry) / ₩5K/person (shared taxi, split among family of 4) | 🚕 ~45 min from hotel (₩35K–40K total for temple→Haeundae→Blueline Park linear flow) |
-| 🌤 ~15:00 PM | **[Haeundae Market](https://en.wikipedia.org/wiki/Haeundae_Market)** 🍢 — Busan-style hotteok with sunflower seeds, fish cake skewers, spicy tteokbokki, grilled squid. Fresh food stalls in the afternoon are best · *linear flow: temple → market → Blueline Park = zero backtracking* | est. ₩5K–15K/person | 🚕 ~5 min from Haedong Yonggungsa area |
-| 🌤 PM | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + **Sky Capsule round-trip 4DVR (~₩65K–92K per capsule, up to 4 ppl)** — *~₩16K–23K per person. Book at [sky-capsule.kr](https://www.sky-capsule.kr) in advance — peak-season walk-up availability is unreliable.* Flat paths to station, 45–60 min ride above the coast. Kids' favorite Busan sight — arrive by early afternoon for best light and shorter queues | Free (park) / ₩16K–23K per person (round-trip capsule) | 🚕~10 min from market area |
-| 🌊 PM | *Optional if time and energy allow:* [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) — calm water, great for kids to splash ~20-30 min. Skip if the day is running behind. | Free | at end of Sky Capsule line (Cheongsapo) |
-| 🍽 Eve | Dinner near Haeundae/Gwangalli area — casual seafood or Korean set menu | est. ₩15–30K/person | 🚕~20 min from Blueline Park/Songjeong area |
-| 🏁 | **Back at hotel by 20:00** · No drone show on Sundays | | |
+| ☀️ 8:00–10:30 AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open ~05:00–19:00 (seasonal)* — early = good light, thin crowds | Free | 🚕 ~45 min, ₩35–40K one-way (transit ≈90+ min w/ transfers — taxi wins) |
+| 🏖 11:30–13:30 | **[Haeundae Beach](https://en.wikipedia.org/wiki/Haeundae_Beach)** ⭐ — **the kids' beach time: 2h in the sand & shallows** (dig, wade; age 4 in a life vest — beach rental ₩20–30K) · midday peak heat → stay in water/shade, rehydrate hourly, reapply sunscreen · showers ₩1–2K (coin kiosk — bring change), lockers ₩3–4K, changing tents free · lifeguards on duty, stay inside the buoys · jellyfish nets up — check [Baadaon](https://www.badaon.namco.net/) · bring shorts, dry clothes, zip bag · *swap if done early: [Songjeong Beach](https://en.wikipedia.org/wiki/Songjeong_Beach) at the line's end* | Free | 🚕 ~25–35 min, ₩15–20K shared (drop at beach's south end) |
+| 🍽 14:00–15:00 (lunch) | **[Haeundae Market](https://en.wikipedia.org/wiki/Haeundae_Market)** 🍢 — hotteok, fish cake skewers, tteokbokki, grilled squid · 60 min · 🚫 tteokbokki broth often meat-based → ask for veg-broth ("돼지 없어요?") | est. ₩5K–15K/person | 🚶 ~15 min walk north (or 🚕 ₩5–8K) |
+| 🌤 15:30–16:45 | [Haeundae Blueline Park](https://en.wikipedia.org/wiki/Blueline_Park) + **Sky Capsule 4DVR round-trip** — 45–60 min ride, flat paths, kids' favorite · **book the 15:30–16:00 slot** at [sky-capsule.kr](https://www.sky-capsule.kr) (market ends 15:00 → ~15 min walk, arrive Cheongsapo ~15:15) | ₩16K–23K/person (capsule seats up to 4) | 🚶 ~10 min walk south |
+| 🍽 ~17:00 | Dinner near Haeundae (Cheongsapo area) — casual seafood or Korean set | est. ₩15–30K/person | 🚶 ~10 min walk |
+| 🏁 | **Back at hotel by ~19:15** (no drone show on Sundays) | | 🚕 ~30 min / ₩15K–20K shared (subway ~40 min, ₩1.5–2K/person if no taxi) |
+> 📌 **Day notes:** Haeundae here, not Sat evening — Gwangalli anchors Saturday (drone show + arrival day). Beach **free**; facility fees ≈₩25–55K family all-in; only 3 taxi legs (hotel→temple, temple→beach, dinner→hotel) **≈₩65–80K** (~$50–60) — everything inside Haeundae is walkable. Midday café AC break dropped in favor of 2h beach time.
 
 ### Mon Aug 31 — **"Nampo-dong Day — BIFF Street Food & Jagalchi Seafood Feast"**
 | Time | Activity | Cost (person) | Transit from Prev |
@@ -250,7 +251,7 @@ Jeonju and Gangneung have been removed — too far for a day trip with young kid
 ### Action Items to Complete Before Departure
 Four items still need attention before the trip:
 1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
-2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr)
+2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr) — **15:30–16:00 slot** (market 14:00–15:00 → ~10 min walk to Cheongsapo, arrive ~15:15 with buffer)
 3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
 4. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
 5. **Secret Garden (Changdeokgung Huwon, Aug 26):** Book by **Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult, kids under 7 free. Timed tour ~08:00, 90 min. Uneven paths — age 4 may need carrier. If online fails: walk-up 50 seats at Changdeokgung info center by 9 AM same-day

@@ -97,6 +97,15 @@
 - **Terrain**: Coastal cliffs with paved viewing paths. Some stairs. Main areas accessible. Observatory with ocean views.
 - **Kid-friendly**: Yes, the shuttle from entrance helps. Ocean views are spectacular. Small zoo/cafe area at base.
 
+### Haeundae Beach — VERIFIED 2026 (via busan.go.kr / Haeundae-gu / news, checked Aug 16 2026)
+- **2026 season**: Jun 26 – Sep 15 (Haeundae); Songjeong Jun 26 – Aug 31. Gwangalli/Songdo/Dadaepo: Jul 1 – Aug 31.
+- **Official season operating hours 09:00–18:00** (lifeguards, showers, changing) — beach itself accessible 24h, but showers/changing close ~18:00 → plan to finish water play by 18:00.
+- **Water**: 24–28°C summer; all 8 Busan beaches passed 2026 opening water-quality tests (Busan City Institute of Health & Environment); jellyfish barrier nets installed at Haeundae 2026 + first-aid station on beach.
+- **Fees** (beach is FREE): shower ₩1–2K/use (kiosk/COIN-based, 60s–5min), lockers ₩3–4K, towels ₩2K (sale), infant tube rental ₩20–30K, adult tube ₩25–35K. Changing tents mostly FREE. Bring cash change; card hit-or-miss.
+- **Day-planning rule**: pair with Sky Capsule — book ~15:30–16:00 slot, capsule done ~16:45, beach 16:45–18:00. Sunset ~18:43 late Aug.
+- **Advisory source**: Baadaon (badaon.namco.net) — opening status, water quality, swim-entry restrictions (wave/typhoon/jellyfish).
+- **Return transit from Haeundae to GnB Hotel (Jung-gu)**: taxi ~12km / ~30 min / ₩15K–20K; or Metro Line 1 (Ja-dong) → transfer Sinyang → Line 2 → Haeundae, ~40 min, ₩1.5–2K/person (Haeundae station is on LINE 2, not Line 1).
+
 ### Gwangalli Beach (Drone Show Location)
 - **Drone show**: Saturdays only, 8PM and 10PM sessions in Aug/Sep 2026
 - **Hours**: Beach open 24 hours
@@ -136,6 +145,7 @@
 
 ### Temple Taxi Costs — VERIFIED
 - Sharing a taxi to/from temples costs ~₩5,000 per person when split 4 ways = ₩20K total for the taxi (~$15 USD). NOT ₩17K per person as previously estimated.
+- **EXCEPTION — Haedong Yonggungsa (Gijang):** ~20+ km one way from Jung-gu; taxi ₩35K–40K one way (~45 min) = ≈₩9–10K/person split 4 ways. The ₩20K figure above applies only to nearby temples. Public transit alternative ≈90+ min with 1–2 transfers (metro to Jangjeon + bus to temple) — taxi wins for a family with young kids.
 
 ### Daily Load for Young Kids (Ages 4 & 6)
 - **Realistic max**: 2 main activities per day. Any more and kids get exhausted by late afternoon.

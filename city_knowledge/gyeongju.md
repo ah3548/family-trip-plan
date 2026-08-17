@@ -55,10 +55,10 @@
 - **Note**: Requires separate ticket. Can combine with Bulguksa on same morning.
 
 #### Gyeongju National Museum
-- **Hours**: 9AM–6PM (last entry 5PM). Closed Mondays (but we're going Aug 31 = Tuesday)
+- **Hours**: 9AM–6PM (last entry 5PM). Closed Mondays — and Aug 31, 2026 IS a Monday, so the museum is CLOSED on the day trip. Do NOT plan it for Aug 31.
 - **Admission**: FREE
 - **Terrain**: Flat, fully accessible, very stroller-friendly. Large indoor space with AC.
-- **Kids**: Saddle bronco statue (iconic), kids' corner with interactive exhibits. Great backup if weather is bad.
+- **Kids**: Saddle bronco statue (iconic), kids' corner with interactive exhibits. (Only usable on non-Monday visits — not an option for Aug 31.)
 - **Time needed**: 1–2 hours.
 
 #### Gyeongju Historic District (Eastern Area — Daereungwon)
