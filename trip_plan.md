@@ -17,8 +17,8 @@
 ### Sat Aug 22 — **"Arrival Day — Land in Korea & Settle into Ikseon"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ AM | Arrive ICN 10:50 → Hotel. **Jongno-gu location:** AREX Rapid (non-stop) ≈43m + subway transfer ≈7m + walk ≈8m ≈1h total (≈₩6.8K) OR Limousine Bus from ICN T1 basement ≈₩17K, no transfers, drop right at hotel area | est. $7–13 | AREX+walk ≈1h or limo bus ≈1h 15m (no transfers) |
-| 🍽 Lunch | Light meal — **bibimbap** near hotel (kids love mixing it!) | est. ₩10K | from hotel |
+| ☀️ AM | Arrive ICN 10:50 → **T-money card + withdraw cash at ICN** → Hotel. **Jongno-gu location:** AREX Rapid (non-stop) ≈43m + subway transfer ≈7m + walk ≈8m ≈1h total (≈₩6.8K) OR Limousine Bus from ICN T1 basement ≈₩17K, no transfers, drop right at hotel area | est. $7–13 | AREX+walk ≈1h or limo bus ≈1h 15m (no transfers) |
+| 🍽 Lunch | **Option A — right where the AREX ends (zero detour):** Lotte Mart Zettaplex Seoul Station food court — kkalguksu / bibimbap (kids love mixing it!) / tteokbokki, ≈₩7–10K · eat first, then drop bags at hotel · **Option B (location verified):** Byeolmi Korean Food Buffet (별미한식부페) — **36 Jongro 31-gil (= 204 Yeonji-dong, Jongno-gu)**, ≈₩9K prepaid (선불), **Sat 11:00–15:00 · closed Sun** → be seated by ~13:30 · ~300m from Line 2 Jongno 5-ga Stn AND Gwangjang Market (= also a great Thu 8/27 lunch!) · **it's on the hotel's side, NOT at Seoul Station**: ~12-min walk / ~5-min taxi from hotel, ~15-min taxi from Seoul Station · ⚠️ a DIFFERENT same-named place exists in Sinseol-dong (near Pungmul Market) — give the taxi driver the Yeonji-dong address (02-3674-5599) | est. ₩8–15K | Seoul Station (AREX) or from hotel area |
 | 🏁 | Back at hotel | | |
 
 ### Sun Aug 23 — **"Museums, Butterflies & the Moonlight Fountain Show"**
@@ -28,7 +28,7 @@
 | 🌤 PM | [Seoul Forest](https://en.wikipedia.org/wiki/Seoul_Forest) deer corral & butterfly house (free, 24h) | Free | 🚌 30m |
 | ☕ Lat-Af | [Starfield COEX Library](https://en.wikipedia.org/wiki/Starfield_COEX_Mall) (≈$20 total) — **bingsu** (mango/injeolmi) | ≈$20 total incl. transit | 🚌+subway 40m |
 | 🍽 Eve | Dinner: Korean fried chicken or Hanwoo BBQ galbi | est. ₩15–30K/person | from COEX |
-| 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
+| 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **☀️ 12:00 noon show also runs — backup if energy runs out: catch it midday before Starfield and skip the late return** · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
 | 🏁 | Back at hotel ~22:00 (after fountain show) | | |
 
 ### Mon Aug 24 — **"NMK, Palace Walls & Myeongdong via Seoullo 7017"**
@@ -59,6 +59,7 @@
 | ☀️ AM | **[Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung)** — *open 09:00-18:00 (Aug), **Free with Hanbok!*** · **⭐ arrive by 09:45 for guard ceremony at 10AM** (morning one; another at 2PM). Kids love the color-changing guards. Walk the grand courtyards in hanbok | Free with hanbok / ₩3K without | 🚌 19m from hotel |
 | 🍽 Lunch | **Doma restaurant** (~11:30) — opens at opening to avoid queues · walk from Gyeongbokgung ~8 min. ⚠️ Opens 11:30 AM (early-lunch, not breakfast) | est. ₩15K/person | 🚶 8 min walk from Gyeongbokgung |
 | 🌤 Early PM | **[Bukchon Hanok Village](https://en.wikipedia.org/wiki/Bukchon_Hanok_Village)** — *open to 21:00* · **⭐ USE LOWER PATHS ONLY** (upper alleys have steep stone stairs, NOT stroller-friendly). Flat ridge walk along Seonggyungwan University side with classic hanok views | Free | 🚕 ₩4K taxi from samgyetang area (~5 min) |
+| 🥟 ~13:30 PM | **Tongin Traditional Market** — snack stop right on the Bukchon→Insadong walk (zero detour): tteok, mandu, fresh skewers · **keep to 20–30 min — this day is already full** | est. ₩5–10K/person | 🚶 ~10 min from Bukchon lower path |
 | ☁️ Lat-Af PM | ~~[Jogyesa Temple](https://english.visitseoul.net/attractions/Jogyesa-Temple-/234)~~ → **DROPPED** — day was overloaded for ages 4 & 6 in August heat · keeping Cheonggyecheon as the cooling break instead | — | — |
 | 🍵 ~14:00 PM | **Jeontong Dawon tea house** (~45 min) — traditional Korean tea in a hanok courtyard inside Gyeongin Art Museum in Insadong. Cool AC/peaceful rest stop between Bukchon walk and evening stroll · no detour needed · ₩8K–12K/person | ₩8K–12K/person | 🚶 10 min from Bukchon lower paths into Insadong |
 | 💦 Late PM | **[Cheonggyecheon Stream](https://english.visitseoul.net/attractions/Cheonggyecheon-Corridor-/3)** ⭐ NEW — southward stream walk with **fountains (12PM–9PM, mist fountain through November)**. Essential August cooling tool. Kids love water play; flat paths throughout. Replaces Jogyesa Temple as the cooling break | Free | 🚶 10 min from Jeontong Dawon toward City Hall |

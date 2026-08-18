@@ -148,6 +148,9 @@ var PLACE_DB = {
   "Doma restaurant": { kr:"도마 한식당",              pid:"15006842" },
   "Jeontong Dawon tea house (Insadong)": { kr:"전통다원 경인",     pid:"32451791" },
   "Mangwon Market": { kr:"망원시장",               pid:"11577043" },
+  "Tongin Traditional Market": { kr:"통인시장",             pid:"" },     // coords fallback
+  "Lotte Mart Zettaplex Seoul Station": { kr:"롯데마트 서울역점",  pid:"" },     // coords fallback
+  "Byeolmi Hansik Buffet":              { kr:"별미한식부페", pid:"1982497305" }, // 36 Jongro 31-gil (204 Yeonji-dong) - NOT the Sinseol-dong 별미한식뷔페
   "Myeongdong Kyoja (famous dumplings)": { kr:"명동교자",          pid:"11582962" },
   "Jongsamyuk BBQ (종삼육)": { kr:"종삼육",               pid:"27074691" },
   "Namsan Seoul Tower":            { kr:"N서울타워",             pid:"11662870" },
@@ -267,7 +270,9 @@ var ITINERARY = {
 function buildDays() {
   // === SEOUL (Aug 22-28) ===
   ITINERARY.seoul1.days['arr'] = { date:"Sat Aug 22", places:[
-    {name:"Incheon International Airport (ICN)",      lat:37.4586,lng:126.4420},
+    {name:"Incheon International Airport (ICN)",      lat:37.4586,lng:126.4420, notes:"Buy T-money card + withdraw cash here"},
+    {name:"Lotte Mart Zettaplex Seoul Station",       lat:37.5548,lng:126.9702, notes:"Arrival lunch Option A (zero detour): food court - kkalguksu, bibimbap (kids love it), tteokbokki ~W7-10K · right where the AREX ends · then drop bags at hotel"},
+    {name:"Byeolmi Hansik Buffet",                    lat:37.5725,lng:126.9994, notes:"Arrival lunch Option B - VERIFIED = 36 Jongro 31-gil (204 Yeonji-dong, Jongno-gu) - NOT at Seoul Station · ~300m from Line 2 Jongno 5-ga Stn AND Gwangjang Market (great Thu 8/27 lunch too) · ~W9K prepaid, Sat 11:00-15:00, closed Sun - go by 13:30 · ~12-min walk / ~5-min taxi from hotel · ~15-min taxi from Seoul Station · tel 02-3674-5599 · WARNING: a different same-named place in Sinseol-dong (9 Cheonho-daero) - not this one"},
     {name:"SSH Ikseon Peter Cat Hostel (Hotel)",      lat:37.5743,lng:126.9897, notes:"Check-in 15:00 · 6 nights"},
   ]};
   ITINERARY.seoul1.days[1] = { date:"Sun Aug 23", places:[
@@ -275,7 +280,7 @@ function buildDays() {
     {name:"Seoul Children's Grand Park / Museum",         lat:37.5645,lng:127.0980},
     {name:"Seoul Forest Park",                            lat:37.5440,lng:127.1185, notes:"Deer farm & butterfly house"},
     {name:"Starfield Library (COEX Mall)",                lat:37.5126,lng:127.0535},
-    {name:"Banpo Bridge Moonlight Rainbow Fountain",      lat:37.5248,lng:126.9860, notes:"Shows at 19:30 / 20:00 / 20:30 / 21:00"},
+    {name:"Banpo Bridge Moonlight Rainbow Fountain",      lat:37.5248,lng:126.9860, notes:"Shows 19:30-21:30 every 30 min (20 min each) · 12:00 noon show also runs = midday backup if energy runs low"},
   ]};
   ITINERARY.seoul1.days[2] = { date:"Mon Aug 24", places:[
     {name:"SSH Ikseon Peter Cat Hostel (Hotel)",          lat:37.5743,lng:126.9897, notes:"Start here · Check-out 11:00"},
@@ -298,6 +303,7 @@ function buildDays() {
     {name:"Gyeongbokgung Palace",                         lat:37.5797,lng:126.9770, notes:"Guard Changing Cer: 10:00 - Free with Hanbok"},
     {name:"Doma restaurant",                              lat:37.5830,lng:126.9780, notes:"Open 11:30 AM · early-lunch · walk from Gyeongbokgung ~8min"},
     {name:"Bukchon Hanok Village (lower paths)",          lat:37.5840,lng:126.9950, notes:"Stroller-friendly ridge walk"},
+    {name:"Tongin Traditional Market",                    lat:37.5815,lng:126.9895, notes:"Snack stop on the Bukchon->Insadong walk (zero detour) · tteok, mandu, fresh skewers · keep to 20-30 min - day is already full · est. W5-10K/person"},
     {name:"Jeontong Dawon tea house (Insadong)",         lat:37.5780,lng:126.9900, notes:"Traditional Korean tea in hanok courtyard · ~45min · ₩8K-12K/person"},
     {name:"Cheonggyecheon Stream",                        lat:37.5691,lng:126.9787, notes:"Fountains 12PM-9PM - cool mist walk · replaces Jogyesa Temple as cooling break"},
     {name:"Insadong Street",                              lat:37.5740,lng:126.9850, notes:"Traditional shops & tea houses"},
