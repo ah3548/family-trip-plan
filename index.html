@@ -140,73 +140,169 @@
     <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-10">
         <h1 class="trip-title">🇰🇷 Family Trip: Korea</h1>
 
-        <!-- Trip Overview — always visible, not folding -->
-        <div class="mb-4 dark-calendar" style="background:white;padding:0.75rem;border-radius:0.5rem;box-shadow:0 1px 2px 0 rgb(0 0 0 / 0.08);border:1px solid #e2e8f0;">
-
-
-            <!-- Animated timeline — segment lengths proportional to days spent -->
-            <div style="margin-top:0.85rem;margin-bottom:0.85rem;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px;">
-                <svg viewBox="-34 0 678 52" style="width:100%;min-width:340px;height:auto;" xmlns="http://www.w3.org/2000/svg">
-                    <!-- No background line. Only colored sections connected end-to-end (no gaps). -->
-                    <!-- Proportions: 2d flight, 6d Seoul, 4d Busan, 3d Jeju, 3d Seoul-return = 18d total -->
-                    <g>
-                        <!-- Flight (2d / 18d = 67.8px) -->
-                        <rect x="0" y="24" width="67.8" height="4" rx="2" fill="#6366f1">
-                            <animate attributeName="width" from="0" to="67.8" dur="0.4s" begin="0s" fill="freeze"/>
-                        </rect>
-                        <!-- Seoul (6d / 18d = 203.3px) -->
-                        <rect x="67.8" y="24" width="203.3" height="4" rx="2" fill="#3b82f6">
-                            <animate attributeName="width" from="0" to="203.3" dur="0.4s" begin="0.25s" fill="freeze"/>
-                        </rect>
-                        <!-- Busan (4d / 18d = 135.6px) -->
-                        <rect x="271.1" y="24" width="135.6" height="4" rx="2" fill="#10b981">
-                            <animate attributeName="width" from="0" to="135.6" dur="0.4s" begin="0.5s" fill="freeze"/>
-                        </rect>
-                        <!-- Jeju (3d / 18d = 101.7px) -->
-                        <rect x="406.7" y="24" width="101.7" height="4" rx="2" fill="#f59e0b">
-                            <animate attributeName="width" from="0" to="101.7" dur="0.4s" begin="0.75s" fill="freeze"/>
-                        </rect>
-                        <!-- Seoul-return (3d / 18d = 101.7px) — departs Sep 8 -->
-                        <rect x="508.4" y="24" width="101.7" height="4" rx="2" fill="#3b82f6">
-                            <animate attributeName="width" from="0" to="101.7" dur="0.4s" begin="1.0s" fill="freeze"/>
-                        </rect>
-                    </g>
-
-                    <!-- nodes — at each transition point -->
-                    <!-- Aug 20–21: departure -->
-                    <circle cx="0" cy="26" r="5" fill="#6366f1"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0s" fill="freeze"/></circle>
-                    <text x="0" y="40" text-anchor="middle" font-size="7" fill="#64748b" font-family="system-ui">Aug 20-21</text>
-
-                    <!-- Seoul (start of blue) -->
-                    <circle cx="67.8" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.25s" fill="freeze"/></circle>
-                    <text x="67.8" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
-                    <text x="67.8" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
-
-                    <!-- Aug 29 above Busan dot -->
-                    <circle cx="271.1" cy="26" r="5" fill="#10b981"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.5s" fill="freeze"/></circle>
-                    <text x="271.1" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Aug 29</text>
-                    <text x="338.9" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
-                    <text x="338.9" y="40" text-anchor="middle" font-size="7.5" fill="#10b981" font-weight="bold" font-family="system-ui">Busan</text>
-
-                    <!-- Sep 2 above Jeju dot -->
-                    <circle cx="406.7" cy="26" r="5" fill="#f59e0b"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.75s" fill="freeze"/></circle>
-                    <text x="406.7" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Sep 2</text>
-                    <text x="457.5" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
-                    <text x="457.5" y="40" text-anchor="middle" font-size="7.5" fill="#f59e0b" font-weight="bold" font-family="system-ui">Jeju</text>
-
-                    <!-- Sep 5 above Seoul-return dot -->
-                    <circle cx="508.4" cy="26" r="5" fill="#3b82f6"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.0s" fill="freeze"/></circle>
-                    <text x="508.4" y="12" text-anchor="middle" font-size="7.5" fill="#64748b" font-family="system-ui">Sep 5</text>
-                    <text x="559.2" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
-                    <text x="559.2" y="40" text-anchor="middle" font-size="7.5" fill="#3b82f6" font-weight="bold" font-family="system-ui">Seoul</text>
-
-                    <!-- departure at end of Seoul-return segment -->
-                    <circle cx="610.1" cy="26" r="5" fill="#ef4444"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.25s" fill="freeze"/></circle>
-                    <text x="610.1" y="19" text-anchor="middle" font-size="7" fill="#475569" font-family="system-ui"></text>
-                    <text x="610.1" y="40" text-anchor="middle" font-size="7.5" fill="#ef4444" font-weight="bold" font-family="system-ui">Sep 8</text>
-                </svg>
+        <!-- Weather outlook · Open-Meteo (CC BY 4.0) · forecast fetched 2026-08-17, window ends Sep 2; later days show same-week 2025 actuals -->
+        <div class="mb-4 dark-calendar" style="background:white;padding:0.5rem 0.6rem;border-radius:0.5rem;box-shadow:0 1px 2px 0 rgb(0 0 0 / 0.08);border:1px solid #e2e8f0;">
+            <style>
+                .wx-head { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:2px 10px; }
+                .wx-title { font-size:0.85rem; font-weight:700; color:#1e293b; }
+                .wx-meta { font-size:0.66rem; color:#94a3b8; }
+                .wx-cal { margin-top:0; }
+                .wx-dowrow { display:grid; grid-template-columns:repeat(7,minmax(0,1fr)); gap:6px; margin-top:10px; margin-bottom:5px; }
+                .wx-dow { font-size:0.62rem; font-weight:600; color:#94a3b8; text-align:center; }
+                .wx-row { display:grid; grid-template-columns:repeat(7,minmax(0,1fr)); gap:6px; margin-bottom:6px; align-items:stretch; }
+                .wx-row:last-child { margin-bottom:0; }
+                .wx-ring { display:flex; flex-direction:column; border:1.5px solid #cbd5e1; border-radius:10px; padding:4px 5px 5px; gap:3px; min-width:0; }
+                .wx-ringlabel { font-size:0.56rem; font-weight:700; color:#334155; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+                .wx-ringrange { font-weight:500; color:#94a3b8; }
+                .wx-ringtiles { display:flex; gap:5px; flex:1; }
+                .wx-ringtiles .wx-cell { flex:1 1 0; min-width:0; }
+                .wx-sp1 { grid-column:span 1; } .wx-sp3 { grid-column:span 3; } .wx-sp7 { grid-column:span 7; }
+                .wx-ring-off { border-style:dashed; }
+                .wx-ring-off .wx-ringlabel { color:#cbd5e1; }
+                .wx-dates { font-size:0.66rem; font-weight:500; color:#64748b; white-space:nowrap; }
+                .wx-cell { display:flex; flex-direction:column; gap:1px; background:#f0fdf4; border:1px solid #86efac; border-radius:6px; padding:3px 5px 4px; }
+                .wx-cell.wx-off { background:transparent; border-color:transparent; }
+                .wx-cell.wx-showers { background:#eff6ff; border-color:#93c5fd; }
+                .wx-cell.wx-heavy { background:#bfdbfe; border-color:#2563eb; }
+                .wx-sw { display:inline-block; width:9px; height:9px; border-radius:2px; vertical-align:-1px; margin:0 3px 0 0; }
+                .wx-sw-d { background:#f0fdf4; border:1px solid #86efac; }
+                .wx-sw-s { background:#eff6ff; border:1px solid #93c5fd; }
+                .wx-sw-h { background:#bfdbfe; border:1px solid #2563eb; }
+                .wx-cnum { font-size:0.8rem; font-weight:700; color:#1e293b; line-height:1.15; white-space:nowrap; }
+                .wx-cell.wx-off .wx-cnum { font-size:0.62rem; font-weight:500; color:#bbf7d0; }
+                .wx-mon { font-size:0.55rem; font-weight:600; color:#94a3b8; margin-left:3px; }
+                .wx-b1 { display:flex; align-items:baseline; flex-wrap:wrap; gap:2px 4px; }
+                .wx-b2 { display:flex; align-items:baseline; flex-wrap:wrap; gap:2px 4px; }
+                .wx-cityrow { font-size:0.62rem; font-weight:600; color:#64748b; }
+                .wx-block + .wx-block { margin-top:3px; padding-top:3px; border-top:1px dashed #e2e8f0; }
+                .wx-l3 { font-size:0.58rem; color:#64748b; line-height:1.3; white-space:nowrap; }
+                .wx-icon { font-size:0.72rem; line-height:1.2; }
+                .wx-temp { font-size:0.68rem; font-weight:600; color:#1e293b; white-space:nowrap; }
+                .wx-rain { font-size:0.62rem; color:#0369a1; white-space:nowrap; }
+                .wx-ref { display:inline-block; font-size:0.55rem; font-weight:700; color:#166534; background:#dcfce7; border-radius:999px; padding:0 4px; margin-left:2px; vertical-align:1px; }
+                @media (max-width:640px) { .wx-l3 { display:none; } .wx-b2 { white-space:normal; flex-wrap:wrap; } }
+                .wx-foot { margin-top:8px; padding-top:5px; border-top:1px solid #e2e8f0; font-size:0.64rem; color:#94a3b8; line-height:1.4; }
+                .wx-foot a { color:#2563eb; }
+                .wx-btn { font-size:0.7rem; font-weight:600; font-family:inherit; color:#2563eb; background:#eff6ff; border:1px solid #bfdbfe; border-radius:6px; padding:2px 10px; cursor:pointer; transition:background .15s,border-color .15s; }
+                .wx-btn:hover { background:#dbeafe; border-color:#93c5fd; }
+                .wx-btn:disabled { opacity:.55; cursor:wait; }
+                @media (prefers-color-scheme: dark) {
+                    .wx-title { color:#f1f5f9; }
+                    .wx-meta { color:#64748b; }
+                    .wx-dates { color:#94a3b8; }
+                    .wx-dow { color:#64748b; }
+                    .wx-cnum { color:#f1f5f9; }
+                    .wx-cell { background:#052e16; border-color:#166534; }
+                    .wx-cell.wx-showers { background:#172554; border-color:#1d4ed8; }
+                    .wx-cell.wx-heavy { background:#1e3a8a; border-color:#3b82f6; }
+                    .wx-sw-d { background:#052e16; border-color:#166534; }
+                    .wx-sw-s { background:#172554; border-color:#1d4ed8; }
+                    .wx-sw-h { background:#1e3a8a; border-color:#3b82f6; }
+                    .wx-cell.wx-off .wx-cnum { color:#166534; }
+                    .wx-cityrow, .wx-l3, .wx-mon { color:#94a3b8; }
+                    .wx-block + .wx-block { border-top-color:#334155; }
+                    .wx-ring { border-color:#475569; }
+                    .wx-ringlabel { color:#cbd5e1; }
+                    .wx-ringrange { color:#64748b; }
+                    .wx-ring-off { border-color:#334155; }
+                    .wx-ring-off .wx-ringlabel { color:#64748b; }
+                    .wx-temp { color:#f1f5f9; }
+                    .wx-rain { color:#38bdf8; }
+                    .wx-ref { color:#86efac; background:#14532d; }
+                    .wx-foot { border-top-color:#334155; }
+                    .wx-foot a { color:#60a5fa; }
+                    .wx-btn { color:#93c5fd; background:#1e3a5f; border-color:#1d4ed8; }
+                    .wx-btn:hover { background:#1e4066; border-color:#3b82f6; }
+                }
+            </style>
+            <div class="wx-head">
+                <div class="wx-title">🌦️ Weather outlook <span class="wx-dates">· Aug 22 – Sep 8, 2026</span></div>
+                <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+                    <span class="wx-meta" id="wx-upd">°F · Snapshot fetched Aug 17, 2026</span>
+                    <button type="button" class="wx-btn" id="wx-refresh" title="Fetch a fresh forecast from Open-Meteo (the page also fetches live on load)">⟳ Refresh</button>
+                </div>
             </div>
 
+            <div class="wx-cal-wrap">
+            <div class="wx-cal">
+                <div class="wx-dowrow"><div class="wx-dow">Sat</div><div class="wx-dow">Sun</div><div class="wx-dow">Mon</div><div class="wx-dow">Tue</div><div class="wx-dow">Wed</div><div class="wx-dow">Thu</div><div class="wx-dow">Fri</div></div>
+
+                <div class="wx-row">
+                <div class="wx-ring wx-sp7">
+                <div class="wx-ringlabel">📍 Seoul <span class="wx-ringrange">· Aug 22–28</span></div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell wx-heavy" data-date="2026-08-22" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">22</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">⛈️</span></div><div class="wx-b2"><span class="wx-temp">84°/75°</span><span class="wx-rain">82% · 95 mm</span></div><div class="wx-l3">AM 75/58<br>PM 82/73<br>EV 76/67</div></div></div>
+                <div class="wx-cell wx-heavy" data-date="2026-08-23" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">23</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">⛈️</span></div><div class="wx-b2"><span class="wx-temp">81°/75°</span><span class="wx-rain">86% · 52 mm</span></div><div class="wx-l3">AM 76/62<br>PM 80/78<br>EV 77/54</div></div></div>
+                <div class="wx-cell wx-heavy" data-date="2026-08-24" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">24</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">⛈️</span></div><div class="wx-b2"><span class="wx-temp">84°/73°</span><span class="wx-rain">73% · 34 mm</span></div><div class="wx-l3">AM 77/62<br>PM 83/71<br>EV 78/59</div></div></div>
+                <div class="wx-cell wx-showers" data-date="2026-08-25" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">25</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span></div><div class="wx-b2"><span class="wx-temp">88°/77°</span><span class="wx-rain">61% · 2 mm</span></div><div class="wx-l3">AM 81/52<br>PM 86/60<br>EV 80/45</div></div></div>
+                <div class="wx-cell" data-date="2026-08-26" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">26</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span></div><div class="wx-b2"><span class="wx-temp">88°/77°</span><span class="wx-rain">43% · 0.2 mm</span></div><div class="wx-l3">AM 81/24<br>PM 87/40<br>EV 82/35</div></div></div>
+                <div class="wx-cell wx-heavy" data-date="2026-08-27" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">27</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">⛈️</span></div><div class="wx-b2"><span class="wx-temp">81°/75°</span><span class="wx-rain">47% · 34 mm</span></div><div class="wx-l3">AM 76/30<br>PM 81/44<br>EV 79/38</div></div></div>
+                <div class="wx-cell" data-date="2026-08-28" title="Wet start — up to 95 mm on landing day, easing by the 28th; indoor-heavy plan fits well"><div class="wx-cnum">28</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span></div><div class="wx-b2"><span class="wx-temp">84°/70°</span><span class="wx-rain">35% · 0.4 mm</span></div><div class="wx-l3">AM 78/34<br>PM 83/26<br>EV 73/22</div></div></div>
+                </div>
+                </div>
+                </div>
+
+                <div class="wx-row">
+                <div class="wx-ring wx-sp3">
+                <div class="wx-ringlabel">📍 Busan <span class="wx-ringrange">· 29–31</span></div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell" data-date="2026-08-29" title="Mostly dry, 79–86 °F — beach day and drone show look promising"><div class="wx-cnum">29</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">☁️</span></div><div class="wx-b2"><span class="wx-temp">84°/70°</span><span class="wx-rain">27%</span></div><div class="wx-l3">AM 75/13<br>PM 83/23<br>EV 74/19</div></div></div>
+                <div class="wx-cell" data-date="2026-08-30" title="Mostly dry, 79–86 °F — beach day and drone show look promising"><div class="wx-cnum">30</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">☁️</span></div><div class="wx-b2"><span class="wx-temp">79°/70°</span><span class="wx-rain">39%</span></div><div class="wx-l3">AM 72/25<br>PM 78/37<br>EV 72/31</div></div></div>
+                <div class="wx-cell" data-date="2026-08-31" title="Mostly dry, 79–86 °F — beach day and drone show look promising"><div class="wx-cnum">31</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">☁️</span></div><div class="wx-b2"><span class="wx-temp">86°/68°</span><span class="wx-rain">45%</span></div><div class="wx-l3">AM 77/31<br>PM 84/43<br>EV 77/33</div></div></div>
+                </div>
+                </div>
+                <div class="wx-ring wx-sp1">
+                <div class="wx-ringlabel">📍 Gyeongju</div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell wx-showers" data-date="2026-09-01" title="Day trip — mild and mostly dry, 68–77 °F"><div class="wx-cnum">1<span class="wx-mon">Sep</span></div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">☁️</span></div><div class="wx-b2"><span class="wx-temp">77°/68°</span><span class="wx-rain">61% · 0.8 mm</span></div><div class="wx-l3">AM 74/36<br>PM 75/57<br>EV 71/41</div></div></div>
+                </div>
+                </div>
+                <div class="wx-ring wx-sp3">
+                <div class="wx-ringlabel">📍 Jeju <span class="wx-ringrange">· 2–4</span></div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell" data-date="2026-09-02" title="Warm and muggy, nights around 82–84 °F"><div class="wx-cnum">2</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">☁️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">86°/84°</span></div></div></div>
+                <div class="wx-cell" data-date="2026-09-03" title="Warm and muggy, nights around 82–84 °F"><div class="wx-cnum">3</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">86°/84°</span><span class="wx-rain">0.9 mm</span></div></div></div>
+                <div class="wx-cell" data-date="2026-09-04" title="Warm and muggy, nights around 82–84 °F"><div class="wx-cnum">4</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">86°/82°</span><span class="wx-rain">2 mm</span></div></div></div>
+                </div>
+                </div>
+                </div>
+
+                <div class="wx-row">
+                <div class="wx-ring wx-sp1">
+                <div class="wx-ringlabel">📍 Jeju → Seoul</div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell" data-date="2026-09-05" title="Travel day — Jeju in the morning, Seoul by evening (2025: warm and dry in both)"><div class="wx-cnum">5</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-cityrow">Jeju</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">86°/84°</span><span class="wx-rain">0.5 mm</span></div></div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-cityrow">Seoul</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">88°/72°</span><span class="wx-rain">0.4 mm</span></div></div></div>
+                </div>
+                </div>
+                <div class="wx-ring wx-sp3">
+                <div class="wx-ringlabel">📍 Seoul <span class="wx-ringrange">· 6–8</span></div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell wx-heavy" data-date="2026-09-06" title="One heavy day in 2025 (Sep 6, 36 mm) — indoor/museum days well placed"><div class="wx-cnum">6</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌧️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">86°/75°</span><span class="wx-rain">36 mm</span></div></div></div>
+                <div class="wx-cell" data-date="2026-09-07" title="One heavy day in 2025 (Sep 6, 36 mm) — indoor/museum days well placed"><div class="wx-cnum">7</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">81°/72°</span><span class="wx-rain">0.7 mm</span></div></div></div>
+                <div class="wx-cell" data-date="2026-09-08" title="One heavy day in 2025 (Sep 6, 36 mm) — indoor/museum days well placed"><div class="wx-cnum">8</div><div class="wx-block"><div class="wx-b1"><span class="wx-icon">🌦️</span><span class="wx-ref">2025</span></div><div class="wx-b2"><span class="wx-temp">81°/70°</span><span class="wx-rain">0.2 mm</span></div></div></div>
+                </div>
+                </div>
+                <div class="wx-ring wx-ring-off wx-sp3">
+                <div class="wx-ringlabel">after trip</div>
+                <div class="wx-ringtiles">
+                <div class="wx-cell wx-off"><div class="wx-cnum">9</div></div>
+                <div class="wx-cell wx-off"><div class="wx-cnum">10</div></div>
+                <div class="wx-cell wx-off"><div class="wx-cnum">11</div></div>
+                </div>
+                </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="wx-foot">
+                <span class="wx-sw wx-sw-d"></span> dry ·
+                <span class="wx-sw wx-sw-s"></span> showers likely (≥ 50% rain chance) ·
+                <span class="wx-sw wx-sw-h"></span> heavy rain (≥ 20 mm expected) ·
+                % = rain chance (forecast days only — 2025 actuals have none) ·
+                mm = expected total rain (shown whenever &gt; 0) ·
+                AM/PM/EV = morning/afternoon/evening (°F / % rain) ·
+                <span class="wx-ref">2025</span> = actuals, same week last year · Data: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0) · last fetch shown above
+            </div>
         </div>
 
         <style>
@@ -236,17 +332,6 @@
             .ob-warn-text { color:#713f12; }
 
             @media (prefers-color-scheme: dark) {
-                /* SVG colors */
-                .dark-calendar svg text[fill="#3b82f6"],
-                .dark-calendar svg text[fill="#10b981"],
-                .dark-calendar svg text[fill="#f59e0b"],
-                .dark-calendar svg text[fill="#ef4444"] { fill: #93c5fd !important; }
-                .dark-calendar svg line[stroke="#6366f1"] { stroke: #818cf8 !important; }
-                .dark-calendar svg circle[fill="#3b82f6"] { fill: #60a5fa !important; }
-                .dark-calendar svg circle[fill="#10b981"] { fill: #34d399 !important; }
-                .dark-calendar svg circle[fill="#f59e0b"] { fill: #fbbf24 !important; }
-                .dark-calendar svg circle[fill="#ef4444"] { fill: #f87171 !important; }
-
                 /* Overview-box class overrides in dark mode */
                 .ob-card  { background:#334155 !important; border-color:#475569 !important; }
                 .ob-stat-lg { color:#60a5fa !important; }
@@ -316,6 +401,192 @@
         }
 
         renderMarkdown();
+    </script>
+
+    <script>
+        // ===== Weather panel: live fetch (Open-Meteo, CC BY 4.0) =====
+        // Fetches live data on page load, and again on "Refresh" click. The
+        // embedded tiles are a fallback snapshot if the fetch fails. Days
+        // outside the ~16-day forecast window fall back to same-week 2025
+        // actuals (badged "2025"). A failed fetch keeps the last good data.
+        (function () {
+            var WX_CITIES = [
+                { key: 'seoul',    name: 'Seoul',    refKey: 'seoul',    lat: 37.55,    lon: 127.0,      days: ['2026-08-22','2026-08-23','2026-08-24','2026-08-25','2026-08-26','2026-08-27','2026-08-28'] },
+                { key: 'busan',    name: 'Busan',    refKey: 'busan',    lat: 35.2,     lon: 129.0625,   days: ['2026-08-29','2026-08-30','2026-08-31'] },
+                { key: 'gyeongju', name: 'Gyeongju', refKey: 'gyeongju', lat: 35.85,    lon: 129.1875,   days: ['2026-09-01'] },
+                { key: 'jeju',     name: 'Jeju',     refKey: 'jeju',     lat: 26.74868, lon: 126.537605, days: ['2026-09-02','2026-09-03','2026-09-04','2026-09-05'] },
+                { key: 'seoul2',   name: 'Seoul',    refKey: 'seoul',    lat: 37.55,    lon: 127.0,      days: ['2026-09-05','2026-09-06','2026-09-07','2026-09-08'] }
+            ];
+            // Same-week 2025 actuals [wmoCode, tmax, tmin, mm] for the days each section shows
+            var WX_REF = {
+                seoul:    { '08-22': [3, 32.1, 24.8, 0.0], '08-23': [51, 33.4, 25.1, 0.9], '08-24': [51, 35.2, 25.8, 0.4],
+                            '09-05': [51, 31.1, 22.0, 0.4], '09-06': [65, 29.9, 23.8, 36.2], '09-07': [53, 27.3, 21.9, 0.7], '09-08': [51, 26.6, 20.5, 0.2] },
+                busan:    { '08-29': [51, 33.7, 24.2, 0.1], '08-30': [3, 34.9, 25.0, 0.0], '08-31': [65, 31.9, 24.0, 20.4] },
+                gyeongju: { '09-01': [61, 31.3, 24.7, 7.1] },
+                jeju:     { '09-02': [3, 30.2, 28.9, 0.0], '09-03': [53, 29.9, 28.7, 0.9], '09-04': [53, 30.1, 28.4, 2.0], '09-05': [51, 30.1, 28.5, 0.5] }
+            };
+            var WX_EMOJI = { 0:'☀️', 1:'🌤️', 2:'⛅', 3:'☁️', 45:'🌫️', 48:'🌫️', 51:'🌦️', 53:'🌦️', 55:'🌧️', 56:'🌧️', 57:'🌧️', 61:'🌧️', 63:'🌧️', 65:'🌧️', 66:'🌨️', 67:'🌨️', 71:'🌨️', 73:'🌨️', 75:'🌨️', 77:'🌨️', 80:'🌦️', 81:'🌧️', 82:'🌧️', 85:'❄️', 86:'❄️', 95:'⛈️', 96:'⛈️', 99:'⛈️' };
+
+            var WX_LIVE = {}; // filled in by the first successful Refresh
+
+            function wxIso(d) {
+                var m = d.getUTCMonth() + 1, dd = d.getUTCDate();
+                return d.getUTCFullYear() + '-' + (m < 10 ? '0' : '') + m + '-' + (dd < 10 ? '0' : '') + dd;
+            }
+
+            function wxFetchOne(city, opts) {
+                var now = new Date();
+                // 15 days (not 16): the server's window is now+16d by *its* clock, so leave one day of margin
+                var end = wxIso(new Date(now.getTime() + 15 * 86400000));
+                if (end > '2026-09-08') end = '2026-09-08';
+                var start = end < '2026-08-22' ? end : '2026-08-22';
+                var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + city.lat + '&longitude=' + city.lon +
+                    '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum' +
+                    '&hourly=temperature_2m,precipitation_probability' +
+                    '&timezone=Asia%2FSeoul&start_date=' + start + '&end_date=' + end;
+                return fetch(url, opts).then(function (r) {
+                    if (r.ok) return r.json();
+                    // one auto-retry: on an end_date range 400 the server tells us its allowed max
+                    if (r.status === 400) {
+                        return r.text().then(function (body) {
+                            var m = /to (\d{4}-\d{2}-\d{2})/.exec(body || '');
+                            if (m && m[1] >= start) {
+                                var url2 = url.replace(/end_date=\d{4}-\d{2}-\d{2}/, 'end_date=' + m[1]);
+                                return fetch(url2, opts).then(function (r2) {
+                                    if (!r2.ok) throw new Error('Open-Meteo HTTP ' + r2.status);
+                                    return r2.json();
+                                });
+                            }
+                            throw new Error('Open-Meteo HTTP ' + r.status);
+                        });
+                    }
+                    throw new Error('Open-Meteo HTTP ' + r.status);
+                });
+            }
+
+            function wxRain(d) {
+                var mm = d.mm > 0 ? (d.mm >= 1 ? Math.round(d.mm) + ' mm' : d.mm.toFixed(1) + ' mm') : '';
+                if (d.prob !== null && d.prob !== undefined) return d.prob + '%' + (mm ? ' · ' + mm : '');
+                return mm;
+            }
+
+            function wxBlockHTML(name, d, isRef, showCity) {
+                var parts = [];
+                if (d.hourly) {
+                    ['AM', 'PM', 'EV'].forEach(function (k) {
+                        var w = d.hourly[k];
+                        if (!w || (w.tf === null && w.p === null)) return;
+                        var bits = [];
+                        if (w.tf !== null) bits.push(w.tf);
+                        if (w.p !== null) bits.push(w.p);
+                        parts.push(k + ' ' + bits.join('/'));
+                    });
+                }
+                return '<div class="wx-block">' +
+                    '<div class="wx-b1"><span class="wx-icon">' + (WX_EMOJI[d.code] || '🌡️') + '</span>' + (showCity ? '<span class="wx-cityrow">' + name + '</span>' : '') + (isRef ? '<span class="wx-ref">2025</span>' : '') + '</div>' +
+                    '<div class="wx-b2"><span class="wx-temp">' + Math.round(d.tmax * 9 / 5 + 32) + '°/' + Math.round(d.tmin * 9 / 5 + 32) + '°</span>' +
+                    (wxRain(d) ? '<span class="wx-rain">' + wxRain(d) + '</span>' : '') + '</div>' +
+                    (parts.length ? '<div class="wx-l3">' + parts.join('<br>') + '</div>' : '') +
+                    '</div>';
+            }
+
+            function wxDayData(city, date) {
+                var live = WX_LIVE[city.key] ? WX_LIVE[city.key][date] : null;
+                if (live && live.tmax !== null && live.tmax !== undefined) return { d: live, isRef: false };
+                var ref = WX_REF[city.refKey][date.slice(5)];
+                if (ref) return { d: { code: ref[0], tmax: ref[1], tmin: ref[2], mm: ref[3], prob: null }, isRef: true };
+                return null;
+            }
+
+            function wxRenderAll() {
+                var cells = document.querySelectorAll('.wx-cell[data-date]');
+                for (var i = 0; i < cells.length; i++) {
+                    var cell = cells[i], date = cell.getAttribute('data-date');
+                    var entries = [];
+                    WX_CITIES.forEach(function (city) { if (city.days.indexOf(date) !== -1) entries.push(city); });
+                    var html = '', heavy = false, showers = false, any = false;
+                    entries.forEach(function (city) {
+                        var got = wxDayData(city, date);
+                        if (!got) return;
+                        any = true;
+                        if (got.d.mm >= 20) heavy = true;
+                        if (got.d.prob !== null && got.d.prob !== undefined && got.d.prob >= 50) showers = true;
+                        html += wxBlockHTML(city.name, got.d, got.isRef, entries.length > 1);
+                    });
+                    if (!any) html += '<div class="wx-block"><div class="wx-b2"><span class="wx-temp">n/a</span></div></div>';
+                    cell.innerHTML = '<div class="wx-cnum">' + parseInt(date.slice(8), 10) + (date.slice(5, 7) === '09' && parseInt(date.slice(8), 10) === 1 ? '<span class="wx-mon">Sep</span>' : '') + '</div>' + html;
+                    cell.classList.toggle('wx-heavy', heavy);
+                    cell.classList.toggle('wx-showers', showers && !heavy);
+                }
+            }
+
+            function wxRefresh() {
+                var btn = document.getElementById('wx-refresh');
+                var stamp = document.getElementById('wx-upd');
+                if (!btn || btn.disabled) return;
+                btn.disabled = true;
+                btn.textContent = '⟳ Refreshing…';
+                stamp.textContent = 'Fetching live forecast…';
+
+                var ac = null;
+                if (window.AbortController) { ac = new AbortController(); setTimeout(function () { ac.abort(); }, 15000); }
+                var opts = ac ? { signal: ac.signal } : {};
+
+                Promise.all(WX_CITIES.map(function (city) {
+                    return wxFetchOne(city, opts).then(function (resp) {
+                        var out = {}, daily = resp.daily || {}, times = daily.time || [];
+                        for (var k = 0; k < times.length; k++) {
+                            out[times[k]] = {
+                                code: (daily.weather_code || [])[k],
+                                tmax: (daily.temperature_2m_max || [])[k],
+                                tmin: (daily.temperature_2m_min || [])[k],
+                                prob: (daily.precipitation_probability_max || [])[k],
+                                mm: (daily.precipitation_sum || [])[k]
+                            };
+                        }
+                        // AM 6–11 / PM 12–17 / EV 18–23 (local time) — per-window mean temp + rain chance
+                        var hbyDate = {}, ho = resp.hourly || {}, htimes = ho.time || [];
+                        for (var m = 0; m < htimes.length; m++) {
+                            var hd = htimes[m].slice(0, 10);
+                            (hbyDate[hd] = hbyDate[hd] || {})[+htimes[m].slice(11, 13)] = {
+                                t: (ho.temperature_2m || [])[m],
+                                p: (ho.precipitation_probability || [])[m]
+                            };
+                        }
+                        function wxWin(rec, a, b) {
+                            var ts = [], ps = [];
+                            for (var h = a; h <= b; h++) {
+                                var x = rec[h];
+                                if (!x) continue;
+                                if (x.t !== null && x.t !== undefined) ts.push(x.t);
+                                if (x.p !== null && x.p !== undefined) ps.push(x.p);
+                            }
+                            return {
+                                tf: ts.length ? Math.round(ts.reduce(function (s, v) { return s + v; }, 0) / ts.length * 9 / 5 + 32) : null,
+                                p: ps.length ? Math.round(ps.reduce(function (s, v) { return s + v; }, 0) / ps.length) : null
+                            };
+                        }
+                        for (var hd2 in hbyDate) {
+                            if (out[hd2]) out[hd2].hourly = { AM: wxWin(hbyDate[hd2], 6, 11), PM: wxWin(hbyDate[hd2], 12, 17), EV: wxWin(hbyDate[hd2], 18, 23) };
+                        }
+                        WX_LIVE[city.key] = out;
+                    });
+                })).then(function () {
+                    wxRenderAll();
+                    stamp.textContent = '°F · Live · updated ' + new Date().toLocaleString(undefined, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' });
+                    btn.disabled = false;
+                    btn.textContent = '⟳ Refresh';
+                }).catch(function (err) {
+                    console.error('wx refresh failed:', err);
+                    stamp.textContent = 'Live fetch failed — showing last good data';
+                    btn.disabled = false;
+                    btn.textContent = '⟳ Refresh';
+                });
+            }
+
+            document.getElementById('wx-refresh').addEventListener('click', wxRefresh);
+            wxRefresh(); // live on page load; the embedded snapshot is the offline fallback
+        })();
     </script>
 </body>
 </html>
