@@ -52,10 +52,9 @@
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | Back at hotel | | |
 
-### Wed Aug 26 — **"Hanbok Day — Secret Garden, Palace & Stream Cooling Walk"**
+### Wed Aug 26 — **"Hanbok Day — Palace & Stream Cooling Walk"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
-| 🌅 Optional Early AM | **[Secret Garden (Changdeokgung Huwon)](https://english.visitseoul.net/attractions/Huwon--Secret-Garden-/388)** — *if booked; timed guided tour ~08:00, 90 min* ⚠️ **Book by Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form · ₩5,000/adult + palace admission (kids under 7 free) — rare garden accessible only with timed tour. Uneven stone paths: age 6 can manage, age 4 may need carrier on rough sections. **If online fails:** walk-up tickets at Changdeokgung info center by 9 AM same-day (50 seats available). Otherwise skip and just do Gyeongbokgung in hanbok | ₩5K/adult + palace fee | ⚠️ Requires booking — see reservation deadline above |
 | ☀️ AM | **[Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung)** — *open 09:00-18:00 (Aug), **Free with Hanbok!*** · **⭐ arrive by 09:45 for guard ceremony at 10AM** (morning one; another at 2PM). Kids love the color-changing guards. Walk the grand courtyards in hanbok | Free with hanbok / ₩3K without | 🚌 19m from hotel |
 | 🎓 11:00 AM | **Free English guided tour** ⭐ ADD — meets in front of Info Center at Heungnyemun Gate · 1–1.5 hr storyteller tour of the main pavilions · **free, no reservation needed** (walk up; groups of 10+ must book) · straight after the 10:00 guard ceremony, and the coolest hour of the day | Free | 🚶 at palace (Heungnyemun Gate) |
 | 🍽 Lunch | **Doma restaurant** (~12:45, guided tour ends ~12:30 + 8-min walk) — opens at opening to avoid queues · walk from Gyeongbokgung ~8 min. ⚠️ Opens 11:30 AM (early-lunch, not breakfast) | est. ₩15K/person | 🚶 8 min walk from Gyeongbokgung |
@@ -67,13 +66,14 @@
 | 🍽 Dinner | Dinner near Bukchon/Insa-dong — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon/Insa-dong |
 | 🏁 | Back at hotel · 📌 Hanbok rental: book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) near Gwanghwamun Stn Exit 3/4 (~₩20K–25K family package) — wear for free palace entry | | |
 
-### Thu Aug 27 — **"Mangwon Market, Gwangjang & Science Center — Eat Your Way Through Food Heaven"**
+### Thu Aug 27 — **"Hongdae, Mangwon & Science Center → the Secret Garden → Gwangjang & DDP"**
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | 🌅 ~09:30 AM | **Hongik University Station pedestrian street** (~30 min) — murals, character shops (Kakao Friends), cafes · Line 6 one stop from hostel area | Free | 🚇 Line 6 from nearby station to Hongik Univ Stn |
 | 🥞 ~10:30 AM | **Mangwon Market** (~10:30 AM–noon) — hotteok from [Hoonhoon Hotteok](https://en.wikipedia.org/wiki/Mangwon_Market) basement stall (🔥 viral honey-butter), dakgangjeong (sweet-sour fried chicken). Open ~10 AM | est. ₩5K–10K/person | 🚇 Line 6 one stop from Hongik Univ → Mangwon Stn |
-| ☀️ Late AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚕 ₩5K–8K shared taxi from Mangwon area (~15 min) |
-| 🌤 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) — *market about 08:30-18:00, DDP 10:00-21:00* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) | 🏛️ DDP Zaha Hadid architecture — arrive ≈1 hr before sunset for best photos | 🚶5m walkable |
+| ☀️ ~11:45 AM | [National Children's Science Center](https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/36279) — *open 09:30-17:30 (closed Mon)* · **keep to ~1.5–2 hr, LEAVE by ~13:15–13:30** to make the 14:30 Secret Garden (≈25–35 min transit + 15-min walk to Huwon gate) | ₩2K (≈$1.50) adt / ₩1K (≈$0.75) child | 🚕 ₩5K–8K shared taxi from Mangwon area (~15 min) |
+| 🌿 14:30 PM | **[Secret Garden (Changdeokgung Huwon)](https://english.visitseoul.net/attractions/Huwon--Secret-Garden-/388)** ⭐ MOVED from Aug 26 — 14:30 ENGLISH guided tour, ~70–90 min (ends ~15:40–16:00) · **arrive Changdeokgung gate ~14:00** (15-min walk to Huwon entrance; late = NO ENTRY, no refund) · ₩5K/adult + ₩3K palace (kids under 7 free → ≈₩10K family) · **Book: online opens Aug 21 10:00 AM KST — grab the 14:30 slot (50 online, first-come); fallback 15:30 slot or 50 on-site seats from 9:00 AM** · uneven stone paths — age 4 may need carrier | ₩10K family (kids under 7 free) | 🚕 ≈25–35 min from Science Center (leave by ~13:30) · hostel (Ikseon-dong) is a ~10–15 min walk here |
+| 🌤 ~16:00 PM | [Gwangjang Market](https://en.wikipedia.org/wiki/Gwangjang_Market) — *stalls ~08:30-18:00 (start closing ~17:30)* · **bindaetteok, mayak gimbap, kalguksu, fresh juice** (free entry, pay food) — the day's late lunch/snack after the garden | 🏛️ + [DDP](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza) (10:00-21:00) — Zaha Hadid architecture, arrive ≈1 hr before sunset | 🚶 ~15 min walk / 🚕 ~10 min from Changdeokgung |
 | 🔲 Lat-Af | **[Dongdaemun Design Plaza (DDP) exterior](https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza)** ⭐ ADD — Zaha Hadid's futuristic architecture lit up at night. Brief (~15 min) photo stop at sunset — the lit-up exterior is visually engaging for kids. **Interior adds no value for young kids; skip going inside.** | Free | 🚶 5m from Gwangjang Market |
 | 🍽 Dinner | **Dinner:** Light meal near DDP | est. ₩15K/person | from DDP area |
 | 🏁 | Back at hotel | | |
@@ -236,7 +236,7 @@
 - **Costs:** All prices listed are **per person** unless noted.
 - **Hotel return:** ~20:00 nightly on all city days.
 - **Pork-free diet.** See Food Guide for pork items to avoid and phrases to use when ordering.
-- **Critical deadlines:** DMZ tour by Aug 19 · Sky Capsule in advance · Children's Museum res. by Aug 23 (museum.go.kr)
+- **Critical deadlines:** DMZ tour by Aug 19 · Sky Capsule in advance · Children's Museum res. by Aug 23 (museum.go.kr) · **Secret Garden 14:30 slot — online opens Aug 21 @ 10:00 AM KST (grab at open)**
 
 
 ## Seoul Day Trip Options (Sep 6 & Sep 7 — pick one per day, don't repeat)
@@ -256,7 +256,7 @@ Six items still need attention before the trip:
 1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
 2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr) — **15:30–16:00 slot** (market 14:00–15:00 → ~10 min walk to Cheongsapo, arrive ~15:15 with buffer)
 3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
-4. **Secret Garden (Changdeokgung Huwon, Aug 26):** Book by **Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult, kids under 7 free. Timed tour ~08:00, 90 min. Uneven paths — age 4 may need carrier. If online fails: walk-up 50 seats at Changdeokgung info center by 9 AM same-day
+4. **Secret Garden (Changdeokgung Huwon, Aug 27, 14:30 English slot):** Online booking **opens Aug 21 at 10:00 AM KST** (6 days before the visit) — be logged in at 10:00 AM to grab the 14:30 slot (50 online, first-come; 14:30 runs daily incl. Thursday). [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult + ₩3K palace fee, kids under 7 free. ~70–90 min. Uneven paths — age 4 may need carrier. **Fallback: 15:30 slot, or 50 on-site seats (first-come from 9:00 AM on Aug 27).** Late = no entry, no refund.
 5. **Hueree Nature Life Park (Sep 3):** **15:00 Black Pig Show is the must-do** — be in the park by ~14:45 (closes 19:00 Mar–Sep, last entry 17:30; 13:00 show = fallback if the day runs early); no booking needed
 6. **Saebyeol Friends (Sep 4):** Optional reservation (walk-in OK); optional ₩8K 4-item feeding set for the kids
 
@@ -280,7 +280,7 @@ Six items still need attention before the trip:
 |---|------|-------------------|
 | 1 | 🥇 **Hanwoo BBQ** (galbi, chadolbaegi) | Sep 7 final dinner — the splurge! |
 | 2 | 🥈 **Korean Fried Chicken** | Aug 23 COEX, Aug 25 Lotte World |
-| 3 | 🥉 **Gwangjang Market** (bindaetteok, mayak gimbap, kalguksu) | Aug 27 lunch — a highlight! |
+| 3 | 🥉 **Gwangjang Market** (bindaetteok, mayak gimbap, kalguksu) | Aug 27 (~16:00, after the Secret Garden) — a highlight! |
 | 4 | **Busan Seafood** (grilled fish, scallops, shrimp, crab) | Aug 29–31 throughout Busan |
 | 5 | **Jeju Specialties** (abalone porridge, grilled mackerel, seafood ramen) | Sep 2–4 near Seongsan and coast |
 | 6 | **Samgyetang** (ginseng chicken soup) | Aug 26 after Gyeongbokgung Palace |
