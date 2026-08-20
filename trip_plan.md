@@ -31,7 +31,7 @@
 | 🌙 Late | **[Banpo Bridge Moonlight Rainbow Fountain](https://www.koreatodo.com/banpo-bridge-rainbow-fountain)** — 🌈 Free musical fountain show, every 30 min 19:30–21:30 (summer), each show 20 min · **☀️ 12:00 noon show also runs — backup if energy runs out: catch it midday before Starfield and skip the late return** · **🪑 bring folding chairs** | Free | 🚇 Line 9 to Banpo Stn Exit 1 → walk across Hangang park from COEX ≈40m |
 | 🏁 | Back at hotel ~22:00 (after fountain show) | | |
 
-### Mon Aug 24 — **"NMK, Palace Walls & Myeongdong via Seoullo 7017"**
+### Mon Aug 24 — **"NMK, Palace Walls & Myeongdong via Seoullo 7017"** · ☔ Rainy → swap with Aug 25 (Lotte World — fully indoors)
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | [National Museum of Korea](https://www.museum.go.kr/site/eng/content/hours_and_fees) **START AT 9:30 AM** — permanent galleries + Children's Exhibit — *open Mon/Tue/Thu/Fri/Sun 10:00-18:00 (last entry 17:00)* | Free permanent exhibit · ⚠️ reserve Children's Museum online at museum.go.kr by Aug 23 | from hotel (~₩8–12K taxi or subway Line 4) |
@@ -52,7 +52,7 @@
 | 🍽 Eve | **Dinner:** Korean fried chicken or casual set near Lotte World | est. ₩15–30K/person | from lotte world |
 | 🏁 | Back at hotel | | |
 
-### Wed Aug 26 — **"Hanbok Day — Palace & Stream Cooling Walk"**
+### Wed Aug 26 — **"Hanbok Day — Palace & Stream Cooling Walk"** · ☔ Rainy → swap with Aug 25 (Lotte World); if that's taken, do NMK (AM) + Gwangjang Market (covered) + DDP
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | **[Gyeongbokgung Palace](https://en.wikipedia.org/wiki/Gyeongbokgung)** — *open 09:00-18:00 (Aug), **Free with Hanbok!*** · **⭐ arrive by 09:45 for guard ceremony at 10AM** (morning one; another at 2PM). Kids love the color-changing guards. Walk the grand courtyards in hanbok | Free with hanbok / ₩3K without | 🚌 19m from hotel |
@@ -66,7 +66,7 @@
 | 🍽 Dinner | Dinner near Bukchon/Insa-dong — **mandu** (ask for beef/chicken/kimchi/vegetable filling) | est. ₩15K/person | near Bukchon/Insa-dong |
 | 🏁 | Back at hotel · 📌 Hanbok rental: book [Juwon](https://juwonhanbok.com/) or [Noryangjin](https://en.wikipedia.org/wiki/Noryangjin) near Gwanghwamun Stn Exit 3/4 (~₩20K–25K family package) — wear for free palace entry | | |
 
-### Thu Aug 27 — **"Hongdae, Mangwon & Science Center → the Secret Garden → Gwangjang & DDP"**
+### Thu Aug 27 — **"Hongdae, Mangwon & Science Center → the Secret Garden → Gwangjang & DDP"** · ☔ Rainy → front-load Science Center, make Gwangjang (covered) the main event, skip DDP exterior (Secret Garden tour runs in rain — 14:30 booked)
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | 🌅 ~09:30 AM | **Hongik University Station pedestrian street** (~30 min) — murals, character shops (Kakao Friends), cafes · Line 6 one stop from hostel area | Free | 🚇 Line 6 from nearby station to Hongik Univ Stn |
@@ -93,7 +93,7 @@
 > All costs per person unless noted. Hotel return: ~20:00 nightly.
 > 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
-### Sat Aug 29 — **"KTX to the Sea — Arrival, Dongbaek Coast & Gwangalli Beach Show"**
+### Sat Aug 29 — **"KTX to the Sea — Arrival, Dongbaek Coast & Gwangalli Beach Show"** · ☔ Rainy → swap with Aug 31 (Nampo-dong food day — covered markets + cable car)
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ AM | **KTX** [CRK005368](https://share.google/ttOCu4ayAyoiiLgA8) — **KTX 101 · Car.17 Seats 8B/8C/8D** — Seoul Station 09:33 → Busan Station 12:53 (3h 20m). Adults in 8C+8D, child in 8B (all same car). *Tip: arrive at Seoul Station by 09:00 for platform access.* | KTX 101 Car.17
@@ -103,7 +103,7 @@
 | 🏁 | **Back at hotel by 20:00** (or later with drone show) | | |
 
 
-### Sun Aug 30 — **"Ocean Temple, Sky Capsule, Haeundae Beach"**
+### Sun Aug 30 — **"Ocean Temple, Sky Capsule, Haeundae Beach"** · ☔ Rainy → swap with Aug 31 (food day); keep Blueline/Sky Capsule ride if still running
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ 8:00–10:30 AM | [Haedong Yonggungsa Temple](https://en.wikipedia.org/wiki/Haedong_Yonggungsa) — *open ~05:00–19:00 (seasonal)* — early = good light, thin crowds | Free | 🚕 ~45 min, ₩35–40K one-way (transit ≈90+ min w/ transfers — taxi wins) |
@@ -126,7 +126,7 @@
 > ⚡ **If kids are tired after Gamcheon:** Skip Yongdusan/Busan Tower, go straight to BIFF/Jagalchi for seafood lunch. End at Jagalchi — taxi back directly.
 > ⚡ **Low-energy evening:** Just Songdo Cable Car, skip the Cloud Walk. Dinner at the cable car station area.
 
-### Tue Sep 1 — Gyeongju Day Trip (from Busan) — **"Bulguksa Temples, Seokguram Grotto & Ancient Silla Tombs"**
+### Tue Sep 1 — Gyeongju Day Trip (from Busan) — **"Bulguksa Temples, Seokguram Grotto & Ancient Silla Tombs"** · ☔ Rainy → move Gyeongju to Aug 31 (Mon — temples open daily); on Sep 1 (Tue) do Gukje Market + BIFF Square + Busan Museum (Jagalchi CLOSED 1st Tuesday)
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | [Bulguksa Temple](https://en.wikipedia.org/wiki/Bulguksa) 09:00-18:00 ₩5K + [Seokguram Grotto](https://en.wikipedia.org/wiki/Seokguram) 06:30-18:00 ₩4K + [Daereungwon Tomb Complex](https://en.wikipedia.org/wiki/Daereungwon) free — **Hwangnam-ppang** (sesame bread snack) | ₩9K (≈$7) total temples | 🚗 ≈1h 30m from Busan |
@@ -151,7 +151,7 @@
 | 🍽 Dinner | **Dinner:** Abalone porridge + grilled mackerel near Seongsan | est. ₩15K/person | from Seongsan |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
-### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests, Snoopy Garden & Hueree Animal Park Day"**
+### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests, Snoopy Garden & Hueree Animal Park Day"** · ☔ Rainy → swap with Sep 4: do Manjanggul (⚠️ verify it reopened — repair delays ran into mid-2026) + Teddy Bear Museum (open daily 9:00–18:00); dolphin show only if running; skip forest & farm
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ AM | [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) lava tube walk (2 km) — *open to 18:00* | ₩12K (≈$9) adt | 45–60m | 🚗20m from hotel |
@@ -161,7 +161,7 @@
 | 🍽 Dinner | **Dinner:** Grilled fish east coast | est. ₩15K/person | from Hueree (🚗≈40m) |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
-### Fri Sep 4 — North → West Cross-Island — **"Hamdeok Beach, Saebyeol Friends Farm, Hallim Dolphins & Teddy Bear Museum"**
+### Fri Sep 4 — North → West Cross-Island — **"Hamdeok Beach, Saebyeol Friends Farm, Hallim Dolphins & Teddy Bear Museum"** · ☔ Rainy → skip beach & farm, start with Teddy Bear Museum (open daily, indoor); Hallim dolphin show only if running (outdoor lagoon — likely canceled in rain)
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ Early AM | [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) white sand, calm water — *best for kids* | Free | 1–2h | 🚗25m north from resort |
@@ -197,7 +197,7 @@
 | 🍽 Dinner | **[Myeongdong Kyoja](https://www.instagram.com/myeongdongkyoja/)** ⭐ — Michelin Bib Gourmand famous dumpling restaurant · **⚠️ Pork-free: order kalguksu (knife-cut noodles) or cold noodles** — steamed dumplings contain pork. ~₩8K–12K/person, cash only. Open 10:30 AM–9:30 PM. 5-min walk from hotel · *spend ≈45 min* | est. ₩8K–12K/person | 🚶 5 min walk from hotel |
 | 💦 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
 
-### Sun Sep 6 — Day Trip Choice (pick one) — **"Day Trip Decision — Incheon Zoo or Suwon Fortress Walk"**
+### Sun Sep 6 — Day Trip Choice (pick one) — **"Day Trip Decision — Incheon Zoo or Suwon Fortress Walk"** · ☔ Rainy → swap with an indoor Seoul day (Lotte World revisit or NMK + Gwangjang Market); move zoo/fortress to Sep 7 if it dries up
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
 | ☀️ Full day | 🔲 **Pick one:** Incheon Grand Park zoo+aquarium+outlets (🏆 rec for ages 4&6, ≈1h each way) OR Suwon Hwaseong Fortress UNESCO walls kids walk on + Toy Museum (≈40m by ITX) | ₩5–20K depending on choice | Incheon: 🚇≈1h · Suwon: ITX≈40m from Seoul Station |
