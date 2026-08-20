@@ -61,7 +61,7 @@
 - **Note**: Famous photo spot inside COEX Mall. Underground shopping concourse connects to Samseong station (Line 2/3). Good indoor activity if it rains.
 
 ### National Museum of Korea
-- **Hours**: 9AM–6PM (Tue–Sun), closed Mondays
+- **Hours**: Open 7 days incl. Mondays. Mon/Tue/Thu/Fri/Sun 9:30AM–5:30PM (last adm 5:00PM); Wed & Sat 9:30AM–9:00PM (last adm 8:30PM). Closed only Jan 1, Lunar New Year, Chuseok; galleries closed 1st Mon of Mar/Jun/Sep/Dec.
 - **Admission**: FREE
 - **Note**: One of Asia's largest museums. Kids' gallery on lower floors. Very stroller-friendly. Can easily spend 3–4 hours.
 

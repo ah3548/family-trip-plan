@@ -145,9 +145,9 @@
 | Time | Activity | Cost (person) | Duration |
 |------|----------|---------------|----------|
 | ☀️ AM | **Flight PUS→CJU — BX8109 · Seat 4** — Busan 11:40 → Jeju 12:40 (1h). Arrive CJU, clear domestic transit, pick up rental car (~30 min) | ✈️ 1h
-| 🌤 PM | [Aqua Planet Jeju](https://www.aquaplanet.co.kr/jeju/index.do) aquarium — *open to 18:00 (last adm 17:00)* | ₩42K (≈$31) adt | 2–2.5h |
+| 🌤 PM | [Aqua Planet Jeju](https://www.aquaplanet.co.kr/jeju/index.do) aquarium — *open to 18:00 (last adm 17:00)* | ₩42K (≈$31) adt | 2–2.5h · *leave by 16:10 latest (protects Seongsan 18:00 last ascent)* |
 | 🌤 Lat-Af | [Seopjikoji](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?cid=127813) coastal walk (ocean views, boardwalk trails) — *open access* | Free | ≈45-60m · 🚗5–10m from Aqua Planet |
-| 🌅 Eve | [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) sunset walk (climb summit = 30–40m RT + time at top) — *⚠️ **arrive by 17:00** closes ≈19:00 in Sep; advance res. req.* | ₩5K (≈$4) | 1–1.5h · 🚗10m from Seopjikoji |
+| 🌅 Eve | [Seongsan Ilchulbong](https://en.wikipedia.org/wiki/Seongsan_Ilchulbong) sunset walk (climb summit = 30–40m RT + time at top) — *⚠️ **arrive by ~17:30** — start climb before last ascent ~18:00 (closes ≈19:00); advance res. req.* | ₩5K (≈$4) | 1–1.5h · 🚗10m from Seopjikoji |
 | 🍽 Dinner | **Dinner:** Abalone porridge + grilled mackerel near Seongsan | est. ₩15K/person | from Seongsan |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
@@ -192,7 +192,6 @@
 | Time | Activity | Cost (person) | Transit from Prev |
 |------|----------|---------------|-------------------|
 | ☀️ Early AM | Arrive Gimpo Airport (GMP) | — | ✈️ ≈1h 10m flight |
-| 🌤 Lat-Af | **[Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower)** — cable car ONLY (up and down) · *⭐ NO hiking with double stroller, August heat + mountain stairs = tough* — great for kids, panoramic views, open to ≈23:00. **Spend ≈45 min max** | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
 | 🌤 Lat-Af | **[Namsan Mountain (N Seoul Tower)](https://en.wikipedia.org/wiki/N_S%C3%B8ul_Tower)** — cable car ONLY (up and down) · *⭐ NO hiking with double stroller, August heat + mountain stairs = tough* — great for kids, panoramic views, open to ≈23:00. **Spend ≈45 min max** | ₩13K (≈$10) adt / ₩7.5K (≈$5.50) child | 🚕≈15m from Myeongdong → hotel drop-off |
 | 🍽 Dinner | **[Myeongdong Kyoja](https://www.instagram.com/myeongdongkyoja/)** ⭐ — Michelin Bib Gourmand famous dumpling restaurant · **⚠️ Pork-free: order kalguksu (knife-cut noodles) or cold noodles** — steamed dumplings contain pork. ~₩8K–12K/person, cash only. Open 10:30 AM–9:30 PM. 5-min walk from hotel · *spend ≈45 min* | est. ₩8K–12K/person | 🚶 5 min walk from hotel |
 | 💦 Eve | Cheonggyecheon Stream walk (kid-friendly fountains & bridges) — *spend ≈1 hr* | Free | 🚕/subway 1 stop from Namsan |
@@ -256,7 +255,7 @@ Jeonju and Gangneung have been removed — too far for a day trip with young kid
 Six items still need attention before the trip:
 1. ~~**DMZ Tour (Aug 28):**~~ **✅ BOOKED (Aug 19)** — DMZ Insider Tour (GetYourGuide ref **GYG996XYRBGF**) · Fri Aug 28 · **meet Myeongdong Stn Exit 8 (125 Toegye-ro) by 07:50, departs 08:00 sharp** · [Most Popular] full-day w/ Gamaksan bridge · auto-pay Aug 25 · full refund until 08:00 AM Aug 27 · bring original passports for border ID check
 2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr) — **15:30–16:00 slot** (market 14:00–15:00 → ~10 min walk to Cheongsapo, arrive ~15:15 with buffer)
-3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
+3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required — **book now, peak season fills fast**. Target ~17:30 arrival; must **start climb before last ascent ~18:00** (closes ≈19:00). **Leave Aqua Planet by 16:10 latest** to keep the cushion.
 4. **Secret Garden (Changdeokgung Huwon, Aug 27, 14:30 English slot):** Online booking **opens Aug 21 at 10:00 AM KST** (6 days before the visit) — be logged in at 10:00 AM to grab the 14:30 slot (50 online, first-come; 14:30 runs daily incl. Thursday). [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult + ₩3K palace fee, kids under 7 free. ~70–90 min. Uneven paths — age 4 may need carrier. **Fallback: 15:30 slot, or 50 on-site seats (first-come from 9:00 AM on Aug 27).** Late = no entry, no refund.
 5. **Hueree Nature Life Park (Sep 3):** **15:00 Black Pig Show is the must-do** — be in the park by ~14:45 (closes 19:00 Mar–Sep, last entry 17:30; 13:00 show = fallback if the day runs early); no booking needed
 6. **Saebyeol Friends (Sep 4):** Optional reservation (walk-in OK); optional ₩8K 4-item feeding set for the kids
@@ -268,8 +267,8 @@ Six items still need attention before the trip:
 | 🏨 Accommodations (15 nights) | **≈$1,508** | Actual breakdown:<br>**📍 SSH Peter Cat** — $753.80 (6n, 15:00–11:00)<br>**📍 GnB Hotel** — $339 (3n, 15:00–11:00 · 🥐 breakfast incl.)<br>**📍 The Cordelia S** — $170 (3n, 16:00–11:00 · 🥐 breakfast incl.)<br>**📍 Myeongdong New Stay** — $245.56 (3n, 15:00–11:00 · 🧺 free laundry) |
 | 🚗 Transportation (flights + transit + rental car) | $2,621 | **KTX Seoul→Busan: $98.32 paid ✅ CRK005368**<br>**PUS→CJU flight BX8109: $146.39 paid ✅ Seat 4 · 11:40→12:40**<br>**CJU→GMP return BX8040: $140.48 paid ✅ Seat 4 · 09:30→10:50**<br>**Jeju rental car (Sep 2–5) $180.08 paid ✅ Booking ID: 10333050686**<br>Local transit (AREX, buses, ferries) [TBD] |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Lotte World ~$172 + DMZ ~$80 + minor attractions ~$22 |
-| 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Cable Car ~$30 + temples ~$18 + Seongsan ~$16 |
-| 🎟 Jeju attractions (≈4 days) | ≈$360 | Aqua Planet ~$93 + Hallim Park ~$90 + Saebyeol Friends ~$54 + Hueree ~$35 + others ~$87 |
+| 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$48 | Cable Car ~$30 + temples ~$18 |
+| 🎟 Jeju attractions (≈4 days) | ≈$375 | Aqua Planet ~$93 + Hallim Park ~$90 + Saebyeol Friends ~$54 + Hueree ~$35 + Seongsan ~$16 + others ~$87 |
 | 🍽 Food (≈18 days × 4 people) | $900–1,200 | ₩150K–250K/day incl. markets + street food + sit-down meals<br>Varying per meal type, dietary restrictions noted in food guide |
 | **Grand Total (est.)** | **≈$5,540–5,840** | Booked ~$3,938 · Attractions + food TBD |
 
