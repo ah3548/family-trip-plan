@@ -11,7 +11,7 @@
 
 
 <details>
-<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 SSH Ikseon Peter Cat Hostel ($753.80 total / 6n, 15:00–11:00)</b></summary>
+<summary><b>Seoul Itinerary (Aug 22 - Aug 28) · 🏨 SSH Ikseon Peter Cat Hostel (6n, 15:00–11:00)</b></summary>
 > 📍 <a href="https://share.google/ttOCu4ayAyoiiLgA8">SSH Ikseon Peter Cat Hostel</a> · 59 Donhwamun-ro 11na-gil, Jongno-gu, Seoul
 
 ### Sat Aug 22 — **"Arrival Day — Land in Korea & Settle into Ikseon"**
@@ -89,7 +89,7 @@
 
 
 <details>
-<summary><b>Busan & Gyeongju (Aug 29 - Sep 1) · 🏨 GnB Hotel ($339 / 3n, 15:00–11:00 · 🥐 breakfast included)</b></summary>
+<summary><b>Busan & Gyeongju (Aug 29 - Sep 1) · 🏨 GnB Hotel (3n, 15:00–11:00 · 🥐 breakfast included)</b></summary>
 > All costs per person unless noted. Hotel return: ~20:00 nightly.
 > 📍 <a href="https://share.google/OIJDBK1MEmZ3cSK3g">GnB Hotel</a> · 19 Heukgyo-ro, Jung-gu, Busan
 
@@ -137,7 +137,7 @@
 
 
 <details>
-<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S ($170 / 3n, 16:00–11:00 · 🥐 breakfast included)</b></summary>
+<summary><b>Jeju Island (Sep 2 - Sep 5) · 🏨 The Cordelia S (3n, 16:00–11:00 · 🥐 breakfast included)</b></summary>
 > All costs per person unless noted. 🚗 Rental car booked ✅ (Sep 2–5). Hotel return: ~20:00 nightly.
 > 📍 <a href="https://share.google/iVUPJ8yguvdiBzbgD">The Cordelia S</a> · Seongsan-eup, Seogwipo-si, Jeju-do
 
@@ -183,7 +183,7 @@
 
 
 <details>
-<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 Myeongdong New Stay Inn (~$120 est. / 3n, 15:00–11:00 · 🧺 free laundry)</b></summary>
+<summary><b>Seoul Return (Sep 5 - Sep 8) · 🏨 Myeongdong New Stay Inn (3n, 15:00–11:00 · 🧺 free laundry)</b></summary>
 
 > All costs per person unless noted. Hotel return: ~20:00 nightly.
 > 📍 <a href="https://maps.google.com/?q=14+Supyo-ro,+Jung-gu,+Seoul">Myeongdong New Stay Inn</a> · 14 Supyo-ro, Jung-gu, Seoul (Myeongdong)
