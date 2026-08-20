@@ -140,6 +140,27 @@ Multiple verified reviews (Google + Kayak + multiple booking sites) confirm: **T
 - **Terrain**: Coastal cave temple with cliff-side ocean views. Some stairs involved. Not stroller-friendly on upper levels.
 - **Note**: Often included in bus tour stops. Can combine with nearby Hamdeok Beach.
 
+### Hueree Nature Life Park (휴애리자연생활공원) — Sep 3
+- **Hours**: 09:00–19:00 Mar–Sep (last entry 17:30); 09:00–18:00, last entry 16:30 Oct–Feb
+- **Admission**: ~₩13K adult / ~₩10K child
+- **Location**: 256 Sillyedong-ro, Namwon-eup, Seogwipo-si (33.3088, 126.6338) · Google 3.9
+- **Website**: [hueree.com](http://hueree.com/) (⚠️ HTTPS cert expired — use http://) · phone 064-732-2114
+- **Drive**: 🚗~25m from the Bijarim/Snoopy Garden cluster, ~45m to Cordelia S
+- **Content**: Animal feeding, **Black Pig Show — Jeju black pigs walk up a platform and slide into a small pool of water; shows daily 11:00/13:00/15:00/17:00 (17:00 too tight — last entry 17:30); trip anchored on the 15:00 show (must-do), 13:00 fallback**, pony rides, greenhouses, forest walk
+- **Seasonality**: Flower festivals seasonal (hydrangea Mar–Jul, pink muhly mid-Sep–Oct) → early Sep = quiet season; animal/greenhouse content year-round
+- **Food**: On-site cafe (⚠️ black-pork dishes possible — no-pork rule, ask "돼지 없어요?")
+- **Note**: No booking required. One TripAdvisor review flagged animal-welfare concerns; some call it pricey.
+
+### Saebyeol Friends (새별헤이요목장) — Sep 4
+- **Hours**: 09:00–18:00 daily (last entry 17:00)
+- **Admission**: ₩18K pp, under 24m free; ₩15K discounted (Jeju residents/seniors/military)
+- **Extras**: 4-item feeding set ₩8K · alpaca can-train ₩3K · alpaca healing walk ₩10K
+- **Location**: 4554-20 Bongseong-ri, Aewol-eup, Jeju-si (33.3623, 126.3639) · Google 4.3
+- **Drive**: 🚗~40m from Hamdeok Beach, ~25–30m to Hallim Park — **westernmost point of the itinerary**
+- **Content**: Hands-on farm (alpacas, black-nose sheep w/ accessories, deer, rabbits), Saebyeol Oreum backdrop, spacious parking, on-site Saebril Café 09:00–18:00
+- **Reservation**: Optional (walk-in OK)
+- **Note**: Paths can get muddy after rain.
+
 ## Family Tips — Jeju
 
 ### Transportation Options for Families

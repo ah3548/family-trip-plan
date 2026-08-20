@@ -149,21 +149,22 @@
 | 🍽 Dinner | **Dinner:** Abalone porridge + grilled mackerel near Seongsan | est. ₩15K/person | from Seongsan |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
-### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests & Snoopy Garden Day"**
+### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests, Snoopy Garden & Hueree Animal Park Day"**
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ AM | [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) lava tube walk (2 km) — *open to 18:00* | ₩12K (≈$9) adt | 45–60m | 🚗20m from hotel |
 | 🌤 Lat-Af | [Bijarim Forest](https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270) + Hallstatt-style Village/cafe — *open access* | Free | ≈1h (forest walk + cafe) | 🚗20m from cave |
 | ☕ PM | [Snoopy Garden](https://thesoulofseoul.net/snoopy-garden-jeju-with-kids/) interactive garden — *open to 19:00* | ₩18K (≈$13) adt / ₩12K (≈$9) child | 1.5–2h | 🚗15m to Jeju Ecoland area |
-| 🐎 Late-Af | Sheep/Horse Riding — **call ahead to pick a farm & confirm hours for this date** | about ₩25K-40K per ride | 30–45m | from Snoopy Garden area |
-| 🍽 Dinner | **Dinner:** Grilled fish east coast | est. ₩15K/person | from Snoopy Garden |
+| 🐑 PM | [Hueree Nature Life Park](http://hueree.com/) (휴애리자연생활공원) — **Black Pig Show 15:00 (MUST-DO — pigs walk up a platform & slide into a pool; shows daily 11:00/13:00/15:00/17:00, 17:00 too tight — last adm 17:30; if the day runs early take the 13:00 show and move this stop up after lunch)** + animal feeding + pony rides + greenhouses | ₩13K (≈$10) adt / ₩10K (≈$7.5) child | 1–1.5h | 🚗≈25m from Snoopy Garden |
+| 🍽 Dinner | **Dinner:** Grilled fish east coast | est. ₩15K/person | from Hueree (🚗≈40m) |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
-### Fri Sep 4 — North → West Cross-Island — **"Hamdeok Beach Sand, Hallim Dolphins & Teddy Bear Museum"**
+### Fri Sep 4 — North → West Cross-Island — **"Hamdeok Beach, Saebyeol Friends Farm, Hallim Dolphins & Teddy Bear Museum"**
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ Early AM | [Hamdeok Beach](https://en.wikipedia.org/wiki/Hamdeok_Beach) white sand, calm water — *best for kids* | Free | 1–2h | 🚗25m north from resort |
-| 🌤 Lat-Af | [Hallim Park](https://www.hallimpark.co.kr/) waterfall + cliff trail (+ dolphin show if running) — *open to 18:30* | ₩30K (≈$22) adt | 1.5–2h | 🚌≈1h (north coast → west coast via Gyeongbu Expressway) |
+| 🌤 AM | [Saebyeol Friends](https://www.instagram.com/sb_friends_jeju/) (새별헤이요목장) — hands-on farm (alpacas, black-nose sheep, deer) + Saebyeol Oreum views — *open to 18:00 (last adm 17:00)* — **westernmost stop of the trip** | ₩18K (≈$13.5) pp (under 24m free) · optional ₩8K feeding set | 1–1.5h | 🚗≈40m from Hamdeok |
+| 🌤 Lat-Af | [Hallim Park](https://www.hallimpark.co.kr/) waterfall + cliff trail (+ dolphin show if running) — *open to 18:30* | ₩30K (≈$22) adt | 1.5–2h | 🚗≈30m from Saebyeol Friends |
 | ☕ PM | [Teddy Bear Museum](http://www.teddybearmuseum.kr/) — *open to 18:00* | ₩8K (≈$6) adt / ₩6K (≈$4.50) child | 45–60m | 🚗≈37m (26km toward Jungmun) |
 | 🌊 Lat-Af | [Jusangjeolli Cliffs](https://www.visitjeju.net/en/detail/view?contentsid=CNTS_000000000020476) coastal columns — *coastal road toward Seogwipo* | ₩2K (≈$1.50) adt | 30–45m | 🚗≈15m from Teddy Bear Museum |
 | 🍽 Dinner | **Dinner:** Fresh seafood in Jungmun harbor | est. ₩15K/person | from Jungmun |
@@ -250,12 +251,13 @@ Jeonju and Gangneung have been removed — too far for a day trip with young kid
 
 ## Notes
 ### Action Items to Complete Before Departure
-Four items still need attention before the trip:
+Six items still need attention before the trip:
 1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
 2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr) — **15:30–16:00 slot** (market 14:00–15:00 → ~10 min walk to Cheongsapo, arrive ~15:15 with buffer)
 3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
-4. **Sheep/Horse Riding (Sep 3):** Pick a specific farm and call ahead to confirm hours on this date
-5. **Secret Garden (Changdeokgung Huwon, Aug 26):** Book by **Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult, kids under 7 free. Timed tour ~08:00, 90 min. Uneven paths — age 4 may need carrier. If online fails: walk-up 50 seats at Changdeokgung info center by 9 AM same-day
+4. **Secret Garden (Changdeokgung Huwon, Aug 26):** Book by **Aug 19–21** via [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult, kids under 7 free. Timed tour ~08:00, 90 min. Uneven paths — age 4 may need carrier. If online fails: walk-up 50 seats at Changdeokgung info center by 9 AM same-day
+5. **Hueree Nature Life Park (Sep 3):** **15:00 Black Pig Show is the must-do** — be in the park by ~14:45 (closes 19:00 Mar–Sep, last entry 17:30; 13:00 show = fallback if the day runs early); no booking needed
+6. **Saebyeol Friends (Sep 4):** Optional reservation (walk-in OK); optional ₩8K 4-item feeding set for the kids
 
 ## Trip Budget
 
@@ -265,9 +267,9 @@ Four items still need attention before the trip:
 | 🚗 Transportation (flights + transit + rental car) | $2,621 | **KTX Seoul→Busan: $98.32 paid ✅ CRK005368**<br>**PUS→CJU flight BX8109: $146.39 paid ✅ Seat 4 · 11:40→12:40**<br>**CJU→GMP return BX8040: $140.48 paid ✅ Seat 4 · 09:30→10:50**<br>**Jeju rental car (Sep 2–5) $180.08 paid ✅ Booking ID: 10333050686**<br>Local transit (AREX, buses, ferries) [TBD] |
 | 🎟 Seoul attractions (≈10 days) | ≈$274 | Lotte World ~$172 + DMZ ~$80 + minor attractions ~$22 |
 | 🎟 Busan/Gyeongju attractions (≈3 days) | ≈$66 | Cable Car ~$30 + temples ~$18 + Seongsan ~$16 |
-| 🎟 Jeju attractions (≈4 days) | ≈$345 | Aqua Planet ~$93 + Hallim Park ~$90 + Sheep Riding ~$75 + others ~$87 |
+| 🎟 Jeju attractions (≈4 days) | ≈$360 | Aqua Planet ~$93 + Hallim Park ~$90 + Saebyeol Friends ~$54 + Hueree ~$35 + others ~$87 |
 | 🍽 Food (≈18 days × 4 people) | $900–1,200 | ₩150K–250K/day incl. markets + street food + sit-down meals<br>Varying per meal type, dietary restrictions noted in food guide |
-| **Grand Total (est.)** | **≈$5,525–5,825** | Booked ~$3,938 · Attractions + food TBD |
+| **Grand Total (est.)** | **≈$5,540–5,840** | Booked ~$3,938 · Attractions + food TBD |
 
 <details>
 <summary><b>🍽️ Food Guide: Must-Eats & Ordering Tips</b></summary>
