@@ -154,8 +154,11 @@ var PLACE_DB = {
   "Myeongdong Kyoja (famous dumplings)": { kr:"명동교자",          pid:"11582962" },
   "Jongsamyuk BBQ (종삼육)": { kr:"종삼육",               pid:"27074691" },
   "Namsan Seoul Tower":            { kr:"N서울타워",             pid:"11662870" },
-  "DMJ / Dorasan Station":         { kr:"임진각관광안내소",      pid:"11583224" }, // DMJ access point fallback
-  "JSA (Panmunjom)":               { kr:"판문점 평화의 집",      pid:"" },     // restricted zone, no POI
+  "Myeongdong Station Exit 8 (DMZ tour pickup)": { kr:"명동역 8번출구", pid:"" },  // 125 Toegye-ro - coords fallback
+  "3rd Infiltration Tunnel (Borun)":    { kr:"제3땅굴",              pid:"" },      // coords fallback
+  "Dora Observatory":                   { kr:"도라산전망대",          pid:"" },     // coords fallback
+  "Imjingak Park":                      { kr:"임진각",               pid:"" },      // coords fallback
+  "Gamaksan Suspension Bridge":         { kr:"감악산 출렁다리",       pid:"" },     // coords fallback
   // Busan Attractions
   "Huinnyeoul Culture Village":    { kr:"흰여울문화마을",         pid:"37418047" },
   "Jeoryeong Coastal Trail (Oryukdo area)": { kr:"오륙도",     pid:"11491917" },
@@ -320,8 +323,11 @@ function buildDays() {
   ]};
   ITINERARY.seoul1.days[6] = { date:"Fri Aug 28", places:[
     {name:"SSH Ikseon Peter Cat Hostel (Hotel)",          lat:37.5743,lng:126.9897, notes:"Check-out 11:00 · 6 nights stay"},
-    {name:"DMJ / Dorasan Station",                        lat:37.8986,lng:126.7098, notes:"Book tour 72h in advance - by Aug 19"},
-    {name:"JSA (Panmunjom)",                              lat:37.9940,lng:126.7320},
+    {name:"Myeongdong Station Exit 8 (DMZ tour pickup)",  lat:37.5610,lng:126.9858, notes:"BOOKED ✅ GYG996XYRBGF · meet 08:00 AM sharp (arrive by 07:50) · 125 Toegye-ro · [Most Popular] full-day option · auto-pay Aug 25 · full refund until 08:00 AM Aug 27 · bring original passports (border ID check)"},
+    {name:"3rd Infiltration Tunnel (Borun)",              lat:37.9167,lng:126.6983, notes:"Tour stop (after NK defector Q&A at Experience Center) · ~1 hr tunnel walk"},
+    {name:"Dora Observatory",                             lat:37.9089,lng:126.7047, notes:"Tour stop · view toward North Korea · ~40 min"},
+    {name:"Imjingak Park",                                lat:37.8922,lng:126.7431, notes:"Tour stop · Peace Park on the Imjin River · ~1 hr"},
+    {name:"Gamaksan Suspension Bridge",                   lat:37.9392,lng:126.9437, notes:"Tour stop (Most Popular option) · 220m bridge over Silmari Valley · ~1 hr · drop back at Myeongdong Exit 8 (~17:00-19:00)"},
   ]};
 
   // === BUSAN (Aug 29-Sep 1) ===

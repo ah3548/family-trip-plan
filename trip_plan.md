@@ -81,7 +81,8 @@
 ### Fri Aug 28 — **"DMZ Day — History, Tension & Border Landmarks"**
 | Time | Activity | Cost (person) | Transit |
 |------|----------|---------------|---------|
-| ☀️ Full day | [DMZ Tour](https://dmztours.com/) — *book ≥72h in advance* ⚠️ **Book by Aug 19** | ≈₩55K (≈$40) adt; kids vary | 🚌+tour bus ≈1–1.5h north to Goyang area |
+| ☀️ 07:30 AM | **Leave hotel → meet at Myeongdong Station Exit 8** (125 Toegye-ro, Jongno-gu) — arrive by **07:50**, tour departs **08:00 sharp** | — | 🚕 ~8 min / 🚶 ~20 min from hostel |
+| ☀️ Full day | [**DMZ Insider Tour: Defector Q&A, 3rd Tunnel & Bridge Options**](https://www.getyourguide.com/seoul-l197/seoul-dmz-3rd-tunnel-and-optional-suspension-bridge-tour-t430077/) ✅ **BOOKED (Aug 19)** — GetYourGuide ref **GYG996XYRBGF** · [Most Popular] option: NK defector live Q&A (Experience Center) → 3rd Infiltration Tunnel → Dora Observatory → Imjingak Park → Gamaksan Suspension Bridge · 7–9h total · drop-off back at Myeongdong Exit 8 · 💳 auto-pay Tue Aug 25 · **full refund until 08:00 AM Aug 27** · ticket arrives after payment · ⚠️ bring original **passports** (border ID check) | ≈$50 pp est. (auto-paid) | 🚌 coach ≈1–1.5h each way to Paju |
 | 🍽 Dinner | **Dinner:** bibimbap or mild dak galbi near hotel | est. ₩15K/person | from DMZ area |
 | 🏁 | Back at hotel (late return from DMZ) | | |
 </details>
@@ -236,7 +237,7 @@
 - **Costs:** All prices listed are **per person** unless noted.
 - **Hotel return:** ~20:00 nightly on all city days.
 - **Pork-free diet.** See Food Guide for pork items to avoid and phrases to use when ordering.
-- **Critical deadlines:** DMZ tour by Aug 19 · Sky Capsule in advance · Children's Museum res. by Aug 23 (museum.go.kr) · **Secret Garden 14:30 slot — online opens Aug 21 @ 10:00 AM KST (grab at open)**
+- **Critical deadlines:** ✅ DMZ booked (GYG996XYRBGF — Fri 08:00, Myeongdong Stn Exit 8) · Sky Capsule in advance · Children's Museum res. by Aug 23 (museum.go.kr) · **Secret Garden 14:30 slot — online opens Aug 21 @ 10:00 AM KST (grab at open)**
 
 
 ## Seoul Day Trip Options (Sep 6 & Sep 7 — pick one per day, don't repeat)
@@ -253,7 +254,7 @@ Jeonju and Gangneung have been removed — too far for a day trip with young kid
 ## Notes
 ### Action Items to Complete Before Departure
 Six items still need attention before the trip:
-1. **DMZ Tour (Aug 28):** Book by Aug 19 at latest — 72-hour advance requirement before departure
+1. ~~**DMZ Tour (Aug 28):**~~ **✅ BOOKED (Aug 19)** — DMZ Insider Tour (GetYourGuide ref **GYG996XYRBGF**) · Fri Aug 28 · **meet Myeongdong Stn Exit 8 (125 Toegye-ro) by 07:50, departs 08:00 sharp** · [Most Popular] full-day w/ Gamaksan bridge · auto-pay Aug 25 · full refund until 08:00 AM Aug 27 · bring original passports for border ID check
 2. **Sky Capsule (Aug 30, Busan):** Book in advance — peak-season walk-up availability is unreliable. [sky-capsule.kr](https://www.sky-capsule.kr) — **15:30–16:00 slot** (market 14:00–15:00 → ~10 min walk to Cheongsapo, arrive ~15:15 with buffer)
 3. **Seongsan Ilchulbong (Sep 2):** Advance reservation required; closes ≈7 PM in September. Leave Aqua Planet early enough for the scenic coastal drive.
 4. **Secret Garden (Changdeokgung Huwon, Aug 27, 14:30 English slot):** Online booking **opens Aug 21 at 10:00 AM KST** (6 days before the visit) — be logged in at 10:00 AM to grab the 14:30 slot (50 online, first-come; 14:30 runs daily incl. Thursday). [ticketlink](https://www.ticketlink.com/) or K-Guide foreigner form. ₩5K/adult + ₩3K palace fee, kids under 7 free. ~70–90 min. Uneven paths — age 4 may need carrier. **Fallback: 15:30 slot, or 50 on-site seats (first-come from 9:00 AM on Aug 27).** Late = no entry, no refund.
