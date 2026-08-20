@@ -151,7 +151,7 @@
 | 🍽 Dinner | **Dinner:** Abalone porridge + grilled mackerel near Seongsan | est. ₩15K/person | from Seongsan |
 | 🏁 | Back at hotel · 🚗 ≈15m to resort | | |
 
-### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests, Snoopy Garden & Hueree Animal Park Day"** · ☔ Rainy → swap with Sep 4: do Manjanggul (⚠️ verify it reopened — repair delays ran into mid-2026) + Teddy Bear Museum (open daily 9:00–18:00); dolphin show only if running; skip forest & farm
+### Thu Sep 3 — Northeast / Central Loop (all about 20m apart in Gujwa-eup area) — **"Lava Caves, Forests, Snoopy Garden & Hueree Animal Park Day"** · ☔ Rainy → swap with Sep 4: do Manjanggul + Teddy Bear Museum (open daily 9:00–18:00); dolphin show only if running; skip forest & farm
 | Time | Activity | Cost (person) | Duration | Transit from Prev |
 |------|----------|---------------|----------|-------------------|
 | ☀️ AM | [Manjanggul Cave](https://en.wikipedia.org/wiki/Manjanggul) lava tube walk (2 km) — *open to 18:00* | ₩12K (≈$9) adt | 45–60m | 🚗20m from hotel |
